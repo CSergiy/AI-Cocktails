@@ -72,7 +72,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lemon juice,1,17
 15.0,ml,galliano,2,17
 1.0,tsp,orgeat syrup,3,17
-3.0,None,to 5 ounces chilled club soda,4,17
+150.0,ml,chilled club soda,4,17
 60.0,ml,amaretto,0,18
 45.0,ml,white crème de cacao,1,18
 30.0,ml,heavy cream,2,18
@@ -174,7 +174,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,guava nectar,1,42
 15.0,ml,lime juice,2,42
 30.0,ml,pomegranate syrup,3,42
-3.0,None,to 4 ounces chilled club soda,4,42
+120.0,ml,chilled club soda,4,42
 0.0,None,lime wheel,5,42
 0.0,None,orange blossom,6,42
 30.0,ml,rum,0,43
@@ -296,7 +296,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.5,cup,"washed, stemmed, halved orange cherry tomatoes",5,68
 1.0,None,"clove garlic, finely minced",6,68
 1.0,None,chopped green onion,7,68
-2.0,None,to 3 dashes worcestershire sauce,8,68
+3.0,dash,es worcestershire sauce,8,68
 2.0,None,orange cherry tomatoes,9,68
 30.0,ml,campari,0,69
 360.0,ml,india pale ale,1,69
@@ -342,9 +342,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,lime juice,1,79
 1.0,None,"clove garlic, finely minced",2,79
 0.25,cup,chopped cucumber,3,79
-2.0,None,to 3 dashes worcestershire sauce,4,79
-2.0,None,to 3 dashes tabasco sauce or other hot sauce,5,79
-4.0,None,to 5 ounces tomato or v8 juice,6,79
+3.0,dash,es worcestershire sauce,4,79
+3.0,dash,es tabasco sauce or other hot sauce,5,79
+150.0,ml,tomato or v8 juice,6,79
 0.0,None,lime wedge,7,79
 0.0,None,celery stalk,8,79
 15.0,ml,blue curaçao,0,80
@@ -377,10 +377,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,gin,0,85
 30.0,ml,cointreau,1,85
 0.0,dash,of blue curaçao,2,85
-3.0,None,to 4 ounces chilled club soda,3,85
+120.0,ml,chilled club soda,3,85
 22.5,ml,tequila,0,86
 7.5,ml,blue curaçao,1,86
-2.0,None,to 3 dashes galliano,2,86
+3.0,dash,es galliano,2,86
 45.0,ml,heavy cream,3,86
 45.0,ml,tequila,0,87
 45.0,ml,vodka,1,87
@@ -390,7 +390,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,benedictine,2,88
 60.0,ml,amaretto,0,89
 120.0,ml,orange juice,1,89
-1.0,None,to 2 ounces chilled club soda,2,89
+60.0,ml,chilled club soda,2,89
 0.0,None,orange slice,3,89
 45.0,ml,light rum,0,90
 22.5,ml,calvados,1,90
@@ -439,26 +439,26 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 75.0,ml,bourbon,0,99
 15.0,ml,southern comfort,1,99
 15.0,ml,lemon juice,2,99
-5.0,None,to 6 ounces chilled club soda,3,99
+180.0,ml,chilled club soda,3,99
 0.0,None,lemon wedge,4,99
 60.0,ml,bourbon,0,100
 15.0,ml,apricot brandy,1,100
 15.0,ml,lemon juice,2,100
-5.0,None,to 6 ounces chilled ginger ale,3,100
+180.0,ml,chilled ginger ale,3,100
 0.0,None,lemon wheel,4,100
 60.0,ml,bourbon,0,101
 30.0,ml,dark crème de cacao,1,101
-1.0,None,to 2 vanilla beans or 1/2 teaspoon vanilla extract,2,101
+2.0,None,vanilla beans or 1/2 teaspoon vanilla extract,2,101
 40.0,ml,gin,0,102
 15.0,ml,lemon juice,1,102
 10.0,ml,sugar syrup,2,102
 15.0,ml,blackberry liqueur,3,102
-4.0,None,to 5 blackberries,0,103
+5.0,None,blackberries,0,103
 1.0,tsp,sugar,1,103
 30.0,ml,lime juice,2,103
 45.0,ml,gin,3,103
 15.0,ml,crème de mûre,4,103
-3.0,None,to 4 ounces chilled club soda,5,103
+120.0,ml,chilled club soda,5,103
 0.0,None,lime wedge,6,103
 45.0,ml,cruzan single barrel rum,0,104
 22.5,ml,b&b,1,104
@@ -748,7 +748,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,reposado tequila,0,170
 60.0,ml,grapefruit juice,1,170
 15.0,ml,campari,2,170
-2.0,None,to 3 ounces chilled club soda,3,170
+90.0,ml,chilled club soda,3,170
 0.0,None,orange twist,4,170
 0.0,None,* 0.5 oz. rittenhouse rye,0,171
 0.0,None,* 0.5 oz. buffalo trace bourbon,1,171
@@ -801,7 +801,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,ruby port,3,181
 0.5,None,lime,0,182
 60.0,ml,light rum,1,182
-4.0,None,to 6 ounces chilled cola,2,182
+180.0,ml,chilled cola,2,182
 50.0,ml,white rum,3,182
 120.0,ml,cola,4,182
 10.0,ml,lime juice,5,182
@@ -842,7 +842,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,irish whiskey,0,192
 22.5,ml,drambuie,1,192
 22.5,ml,lemon juice,2,192
-3.0,None,to 4 ounces chilled ginger ale,3,192
+120.0,ml,chilled ginger ale,3,192
 0.0,None,lemon twist,4,192
 30.0,ml,gin,0,193
 22.5,ml,campari,1,193
@@ -891,7 +891,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,gin,0,202
 15.0,ml,cherry brandy,1,202
 90.0,ml,orange juice,2,202
-3.0,None,to 5 ounces chilled ginger beer,3,202
+150.0,ml,chilled ginger beer,3,202
 0.0,None,orange slice,4,202
 60.0,ml,rye whiskey,0,203
 15.0,ml,apple brandy,1,203
@@ -899,7 +899,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,gin,0,204
 30.0,ml,galliano,1,204
 30.0,ml,lime juice,2,204
-3.0,None,to 5 ounces chilled club soda,3,204
+150.0,ml,chilled club soda,3,204
 0.0,None,mint sprig,4,204
 30.0,ml,amaretto,0,205
 15.0,ml,orange curaçao,1,205
@@ -908,7 +908,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,heavy cream,4,205
 60.0,ml,"rye, bourbon, or blended canadian whisky",0,206
 22.5,ml,dry vermouth,1,206
-2.0,None,to 3 dashes angostura bitters,2,206
+3.0,dash,es angostura bitters,2,206
 0.0,None,lemon twist,3,206
 30.0,ml,pernod,0,207
 30.0,ml,dry vermouth,1,207
@@ -939,11 +939,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.5,None,lime,0,212
 45.0,ml,tequila,1,212
 15.0,ml,crème de cassis,2,212
-3.0,None,to 4 ounces chilled ginger ale,3,212
+120.0,ml,chilled ginger ale,3,212
 45.0,ml,vodka,0,213
 15.0,ml,blue curaçao,1,213
 60.0,ml,sweet-and-sour,2,213
-3.0,None,to 4 ounces chilled 7-up,3,213
+120.0,ml,chilled 7-up,3,213
 0.0,None,lemon wedge,4,213
 60.0,ml,irish whiskey,0,214
 7.5,ml,green chartreuse,1,214
@@ -952,7 +952,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,vodka,0,215
 15.0,ml,tuaca,1,215
 15.0,ml,white crème de cacao,2,215
-2.0,None,to 3 ounces sparkling tangerine or orange beverage,3,215
+90.0,ml,sparkling tangerine or orange beverage,3,215
 0.0,None,orange slice,4,215
 0.0,None,mint sprig,5,215
 22.5,ml,rye whiskey,0,216
@@ -986,10 +986,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,orange juice,3,221
 60.0,ml,gin,0,222
 15.0,ml,lime juice,1,222
-3.0,None,to 5 ounces chilled ginger ale or ginger beer,2,222
+150.0,ml,chilled ginger ale or ginger beer,2,222
 0.0,None,lime wedge,3,222
 45.0,ml,silver tequila,0,223
-4.0,None,to 5 ounces orange juice,1,223
+150.0,ml,orange juice,1,223
 15.0,ml,galliano,2,223
 30.0,ml,gin,0,224
 15.0,ml,lemon juice,1,224
@@ -1026,7 +1026,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wheel,4,231
 0.0,None,use 1 teaspoon powdered sugar,0,232
 1.0,tbsp,water,1,232
-10.0,None,to 12 mint sprigs,2,232
+12.0,None,mint sprigs,2,232
 60.0,ml,cognac,3,232
 0.0,None,and 2 ounces peach brandy.,4,232
 75.0,ml,gin,0,233
@@ -1047,7 +1047,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,gin,0,238
 30.0,ml,roses lime juice,1,238
 0.0,None,lime wedge,2,238
-8.0,None,to 10 mint leaves,0,239
+10.0,None,mint leaves,0,239
 7.5,ml,lime juice,1,239
 7.5,ml,lemon juice,2,239
 1.0,tsp,sugar,3,239
@@ -1056,7 +1056,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,gin,0,240
 15.0,ml,cointreau,1,240
 15.0,ml,lemon juice,2,240
-3.0,None,to 5 ounces chilled club soda,3,240
+150.0,ml,chilled club soda,3,240
 0.0,None,lemon wedge,4,240
 60.0,ml,gin,0,241
 15.0,ml,orange juice,1,241
@@ -1077,7 +1077,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,citron vodka,1,246
 30.0,ml,cointreau,2,246
 7.5,ml,brandy,3,246
-3.0,None,to 4 thin slices of ginger,4,246
+4.0,None,thin slices of ginger,4,246
 0.0,None,candied ginger slice,5,246
 60.0,ml,siete leguas reposado tequila,0,247
 22.5,ml,lime juice,1,247
@@ -1110,7 +1110,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,green chartreuse,1,254
 22.5,ml,lime juice,2,254
 1.0,tbsp,superfine sugar,3,254
-2.0,None,to 3 ounces chilled club soda,4,254
+90.0,ml,chilled club soda,4,254
 0.0,None,lime wedge,5,254
 50.0,ml,cognac,0,255
 20.0,ml,crme de menthe,1,255
@@ -1142,7 +1142,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,green chartreuse,3,261
 3.0,dash,es abbotts or angostura bitters,4,261
 45.0,ml,vodka,0,262
-4.0,None,to 5 ounces orange juice,1,262
+150.0,ml,orange juice,1,262
 15.0,ml,galliano,2,262
 0.0,None,,3,262
 0.0,None,"""4.5 cl vodka",4,262
@@ -1154,7 +1154,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,2,263
 30.0,ml,dark rum,0,264
 15.0,ml,peach schnapps,1,264
-4.0,None,to 5 ounces pineapple juice,2,264
+150.0,ml,pineapple juice,2,264
 7.5,ml,grenadine,3,264
 60.0,ml,gin,0,265
 15.0,ml,orange curaçao,1,265
@@ -1242,11 +1242,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,irish whiskey,0,283
 1.0,tsp,brown sugar,1,283
 120.0,ml,cold coffee,2,283
-1.0,None,to 2 ounces heavy cream,3,283
+60.0,ml,heavy cream,3,283
 60.0,ml,gin,0,284
 30.0,ml,lemon juice,1,284
 30.0,ml,lime juice,2,284
-2.0,None,to 3 ounces chilled club soda,3,284
+90.0,ml,chilled club soda,3,284
 0.0,None,lemon peel spiral,4,284
 60.0,ml,rittenhouse bonded rye whiskey,0,285
 7.5,ml,luxardo maraschino liqueur,1,285
@@ -1279,7 +1279,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,tsp,sugar,4,291
 0.0,None,peach slice,5,291
 0.0,None,orange slice,6,291
-2.0,None,to 3 raspberries,7,291
+3.0,None,raspberries,7,291
 0.0,None,maraschino cherry,8,291
 45.0,ml,applejack,0,292
 2.0,dash,es grenadine,1,292
@@ -1314,7 +1314,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,ruby port,1,300
 2.0,tsp,lemon juice,2,300
 1.0,tsp,sugar,3,300
-3.0,None,to 5 ounces chilled club soda,4,300
+150.0,ml,chilled club soda,4,300
 0.0,None,pineapple wedge,5,300
 0.0,None,orange slice,6,300
 45.0,ml,gin,0,301
@@ -1346,7 +1346,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,orange juice,1,307
 15.0,ml,cranberry juice,2,307
 0.0,dash,of grenadine,3,307
-3.0,None,to 4 ounces chilled champagne,4,307
+120.0,ml,chilled champagne,4,307
 45.0,ml,gin,0,308
 15.0,ml,dry vermouth,1,308
 7.5,ml,parfait amour,2,308
@@ -1389,7 +1389,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,silver tequila,0,318
 7.5,ml,pineapple juice,1,318
 3.0,dash,es angostura bitters,2,318
-3.0,None,to 4 ounces chilled club soda,3,318
+120.0,ml,chilled club soda,3,318
 0.0,None,lemon slice,4,318
 45.0,ml,light rum,0,319
 22.5,ml,sweet vermouth,1,319
@@ -1468,7 +1468,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,cointreau or triple sec,4,334
 30.0,ml,lime juice,5,334
 22.5,ml,orange juice,6,334
-2.0,None,to 3 ounces chilled cola,7,334
+90.0,ml,chilled cola,7,334
 0.0,None,lemon wedge,8,334
 15.0,ml,tequila,0,335
 15.0,ml,vodka,1,335
@@ -1537,7 +1537,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,garnish with lime wedge and mint sprig,8,345
 60.0,ml,blended scotch,0,346
 15.0,ml,lime juice,1,346
-3.0,None,to 5 ounces chilled ginger ale,2,346
+150.0,ml,chilled ginger ale,2,346
 0.0,None,lemon slice,3,346
 60.0,ml,white rum,0,347
 30.0,ml,mandarine napoléon liqueur,1,347
@@ -1643,15 +1643,15 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,gold tequila,0,372
 30.0,ml,lime juice,1,372
 1.0,tsp,simple syrup,2,372
-3.0,None,to 4 ounces chilled ginger ale,3,372
+120.0,ml,chilled ginger ale,3,372
 60.0,ml,tequila,0,373
 15.0,ml,lime juice,1,373
-2.0,None,to 3 ounces chilled cola,2,373
+90.0,ml,chilled cola,2,373
 0.0,None,lime wedge,3,373
 60.0,ml,mezcal,0,374
 30.0,ml,lime juice,1,374
 1.0,tsp,simple syrup,2,374
-3.0,None,to 4 ounces chilled ginger beer,3,374
+120.0,ml,chilled ginger beer,3,374
 45.0,ml,gin,0,375
 45.0,ml,galliano,1,375
 30.0,ml,lemon juice,2,375
@@ -1659,7 +1659,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 75.0,ml,"orange juice, fresh",1,376
 45.0,ml,kahlúa,0,377
 45.0,ml,vodka,1,377
-2.0,None,to 3 ounces chilled club soda,2,377
+90.0,ml,chilled club soda,2,377
 22.5,ml,bourbon,0,378
 22.5,ml,peppermint schnapps,1,378
 22.5,ml,vodka,2,378
@@ -1672,7 +1672,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,None,"glass bourbon, rye, or canadian whisky",2,380
 120.0,ml,kentucky bourbon,0,381
 1.0,tsp,simple syrup,1,381
-4.0,None,to 6 mint sprigs,2,381
+6.0,None,mint sprigs,2,381
 60.0,ml,bourbon whiskey,0,382
 4.0,None,mint sprigs,1,382
 1.0,tsp,powdered sugar,2,382
@@ -1716,7 +1716,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,gin,0,392
 30.0,ml,orange juice,1,392
 1.0,tsp,bénédictine,2,392
-2.0,None,to 4 dashes grenadine,3,392
+4.0,dash,es grenadine,3,392
 57.0,ml,rye whiskey,0,393
 12.5,ml,bndictine,1,393
 3.0,dash,es angostura bitters,2,393
@@ -1733,10 +1733,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,sloe gin,0,397
 22.5,ml,sweet vermouth,1,397
 2.0,dash,es angostura bitters,2,397
-12.0,None,to 14 mint leaves,0,398
+14.0,None,mint leaves,0,398
 1.0,tsp,simple syrup,1,398
 120.0,ml,kentucky bourbon,2,398
-2.0,None,to 3 mint sprigs,3,398
+3.0,None,mint sprigs,3,398
 0.0,None,* 1 strawberry,0,399
 0.0,None,* 1.5 oz. anchor junipero gin,1,399
 0.0,None,* 1 oz. st. germain,2,399
@@ -1825,7 +1825,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,brandy,1,413
 15.0,ml,peach liqueur,2,413
 0.0,dash,of lime juice,3,413
-3.0,None,to 5 ounces chilled ginger ale,4,413
+150.0,ml,chilled ginger ale,4,413
 45.0,ml,baileys irish cream,0,414
 45.0,ml,frangelico,1,414
 75.0,ml,vodka,0,415
@@ -1910,7 +1910,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,citron vodka,0,434
 45.0,ml,cointreau,1,434
 30.0,ml,lime juice,2,434
-1.0,None,to 2 dashes cranberry juice,3,434
+2.0,dash,es cranberry juice,3,434
 0.0,None,lemon twist,4,434
 45.0,ml,gin,0,435
 15.0,ml,dry vermouth,1,435
@@ -1974,7 +1974,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,light rum,0,448
 30.0,ml,lime juice,1,448
 1.0,tbsp,sugar,2,448
-3.0,None,to 4 ounces chilled club soda,3,448
+120.0,ml,chilled club soda,3,448
 0.0,None,lime slice,4,448
 0.0,None,maraschino cherry,5,448
 60.0,ml,gin,0,449
@@ -2003,7 +2003,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 2.0,dash,es angostura bitters,2,454
 60.0,ml,pernod,3,454
 90.0,ml,pimm’s no. 1,0,455
-3.0,None,to 4 ounces chilled club soda,1,455
+120.0,ml,chilled club soda,1,455
 0.0,None,cucumber spear,2,455
 0.0,None,lemon slice,3,455
 60.0,ml,pimms no. 1 cup,0,456
@@ -2049,7 +2049,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,cranberry juice,2,464
 15.0,ml,lemon juice,3,464
 15.0,ml,lime juice,4,464
-4.0,None,to 5 ounces chilled 7-up,5,464
+150.0,ml,chilled 7-up,5,464
 0.0,None,lemon wedge,6,464
 60.0,ml,good-quality gin,0,465
 15.0,ml,guava nectar,1,465
@@ -2097,18 +2097,18 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 20.0,ml,lemon juice,13,471
 10.0,ml,grenadine,14,471
 10.0,ml,sugar syrup,15,471
-3.0,None,to 4 dashes angostura bitters,16,471
+4.0,dash,es angostura bitters,16,471
 45.0,ml,dark rum,0,472
 35.0,ml,orange juice,1,472
 35.0,ml,pineapple juice,2,472
 20.0,ml,lemon juice,3,472
 10.0,ml,grenadine,4,472
 10.0,ml,sugar syrup,5,472
-3.0,None,to 4 dashes angostura bitters,6,472
+4.0,dash,es angostura bitters,6,472
 45.0,ml,blended whiskey,0,473
 15.0,ml,pear brandy,1,473
 75.0,ml,grapefruit juice,2,473
-3.0,None,to 4 ounces chilled club soda,3,473
+120.0,ml,chilled club soda,3,473
 15.0,ml,brandy,0,474
 45.0,ml,red port,1,474
 10.0,ml,egg yolk,2,474
@@ -2344,10 +2344,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,dark rum,0,523
 15.0,ml,lemon juice,1,523
 15.0,ml,triple sec,2,523
-5.0,None,to 6 ounces chilled ginger ale,3,523
+180.0,ml,chilled ginger ale,3,523
 0.0,None,lemon wheel,4,523
 60.0,ml,dark rum,0,524
-3.0,None,to 4 ounces chilled tonic water,1,524
+120.0,ml,chilled tonic water,1,524
 0.0,None,lime wedge,2,524
 30.0,ml,vodka,0,525
 7.5,ml,brown crème de cacao,1,525
@@ -2374,7 +2374,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lemon wedge,0,531
 0.0,None,kosher salt,1,531
 60.0,ml,silver tequila,2,531
-5.0,None,to 6 ounces grapefruit juice,3,531
+180.0,ml,grapefruit juice,3,531
 60.0,ml,sloe gin,0,532
 30.0,ml,dry vermouth,1,532
 30.0,ml,sweet vermouth,2,532
@@ -2392,7 +2392,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,None,demerara sugar cube,3,534
 1.0,tsp,sugar syrup,0,535
 3.0,dash,es peychaud bitters,1,535
-2.0,None,to 2.5 oz. whisky,2,535
+2.0,None,5 oz. whisky,2,535
 30.0,ml,vs cognac,0,536
 30.0,ml,rye whiskey,1,536
 15.0,ml,simple syrup,2,536
@@ -2464,7 +2464,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 120.0,ml,cranberry juice,1,553
 30.0,ml,grapefruit juice,2,553
 75.0,ml,seagram’s 7 crown whiskey,0,554
-3.0,None,to 4 ounces chilled 7-up,1,554
+120.0,ml,chilled 7-up,1,554
 0.0,None,lemon twist,2,554
 45.0,ml,gin,0,555
 15.0,ml,sherry,1,555
@@ -2601,7 +2601,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,cointreau,1,588
 15.0,ml,strawberry liqueur,2,588
 15.0,ml,lime juice,3,588
-2.0,None,"to 3 sliced, hulled strawberries",4,588
+3.0,None,"sliced, hulled strawberries",4,588
 1.0,None,strawberry,5,588
 1.0,None,lime wheel,6,588
 45.0,ml,lemon-flavored vodka,0,589
@@ -2609,7 +2609,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,grapefruit juice,2,589
 60.0,ml,"rye, bourbon, or blended canadian whisky",0,590
 30.0,ml,sweet vermouth,1,590
-2.0,None,to 3 dashes angostura bitters,2,590
+3.0,dash,es angostura bitters,2,590
 0.0,None,lemon twist,3,590
 0.0,None,* 2 fuji apple slices,0,591
 0.0,None,* 2 oz. old overholt rye whiskey,1,591
@@ -2633,7 +2633,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,silver tequila,0,595
 30.0,ml,lime juice,1,595
 1.0,tsp,sugar,2,595
-2.0,None,to 3 ounces chilled club soda,3,595
+90.0,ml,chilled club soda,3,595
 60.0,ml,silver tequila,0,596
 30.0,ml,pernod,1,596
 15.0,ml,lemon juice,2,596
@@ -2656,7 +2656,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,cointreau,2,601
 0.0,None,orange slice,3,601
 60.0,ml,good-quality silver tequila,0,602
-2.0,None,to 3 dashes dry vermouth,1,602
+3.0,dash,es dry vermouth,1,602
 0.0,dash,of angostura bitters,2,602
 0.0,None,lemon twist,3,602
 7.5,ml,cabernet sauvignon,0,603
@@ -2761,7 +2761,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,lime juice,4,621
 1.0,tbsp,diced onion,5,621
 1.0,tsp,diced jalapeño chile,6,621
-2.0,None,to 3 dashes worcestershire sauce,7,621
+3.0,dash,es worcestershire sauce,7,621
 0.0,None,lime wedge,8,621
 0.0,None,jalapeño chile slice,9,621
 30.0,ml,cointreau,0,622
@@ -2781,7 +2781,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 8.0,None,raspberries,4,624
 60.0,ml,vodka,0,625
 30.0,ml,banana liqueur,1,625
-3.0,None,to 5 ounces chilled ginger ale,2,625
+150.0,ml,chilled ginger ale,2,625
 0.5,tsp,bénédictine,0,626
 0.0,dash,of peychaud’s bitters,1,626
 0.0,dash,of angostura bitters,2,626
@@ -2815,9 +2815,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lemon twist,2,632
 50.0,ml,cognac,0,633
 20.0,ml,crme de menthe,1,633
-1.0,None,to 3 lime wedges,0,634
+3.0,None,lime wedges,0,634
 60.0,ml,vodka,1,634
-3.0,None,to 5 ounces chilled tonic water,2,634
+150.0,ml,chilled tonic water,2,634
 45.0,ml,bourbon,0,635
 22.5,ml,pernod,1,635
 15.0,ml,sweet vermouth,2,635
@@ -2888,7 +2888,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,mandarine napoléon liqueur,1,649
 7.5,ml,lemon juice,2,649
 7.5,ml,simple syrup,3,649
-3.0,None,to 5 ounces chilled club soda,4,649
+150.0,ml,chilled club soda,4,649
 0.0,None,orange slice,5,649
 30.0,ml,vodka,0,650
 30.0,ml,melon liqueur,1,650
@@ -2902,12 +2902,12 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,blended or other whiskey,0,652
 30.0,ml,lemon juice,1,652
 15.0,ml,simple syrup,2,652
-3.0,None,to 5 ounces chilled club soda,3,652
+150.0,ml,chilled club soda,3,652
 0.0,None,lemon wedge,4,652
 60.0,ml,blended or other whiskey,0,653
 15.0,ml,lime juice,1,653
 7.5,ml,simple syrup,2,653
-3.0,None,to 5 ounces chilled club soda,3,653
+150.0,ml,chilled club soda,3,653
 0.0,None,lime wedge,4,653
 60.0,ml,bourbon,0,654
 22.5,ml,lemon juice,1,654
