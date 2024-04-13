@@ -2895,12 +2895,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lime juice,4,654
 0.0,None,mint sprig,5,654
 0.0,None,maraschino cherry,6,654
-0.0,None,variation: substitute 1/2 ounce galliano and 1/2 ounce cointreau for the tia maria and orange juice.,7,654
-0.0,None,,8,654
-30.0,ml,white rum,9,654
-15.0,ml,galliano,10,654
-15.0,ml,triple sec,11,654
-15.0,ml,lime juice,12,654
+30.0,ml,white rum,7,654
+15.0,ml,galliano,8,654
+15.0,ml,triple sec,9,654
+15.0,ml,lime juice,10,654
 45.0,ml,vodka,0,655
 15.0,ml,galliano,1,655
 15.0,ml,lime juice,2,655
