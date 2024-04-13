@@ -2862,7 +2862,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,maraschino cherry,4,644
 0.0,None,splash of club soda,5,644
 0.0,None,hot water,6,644
-1900.0,ml,s lager,0,645
+1900.0,ml,lager,0,645
 950.0,ml,rum,1,645
 150.0,ml,simple syrup,2,645
 90.0,ml,lemon juice,3,645
