@@ -78,7 +78,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lemon juice,1,19
 0.0,None,maraschino cherry,2,19
 30.0,ml,light rum,0,20
-0.0,None,⅓ ounce apple schnapps,1,20
+10.0,ml,apple schnapps,1,20
 2.0,dash,passion fruit liqueur,2,20
 30.0,ml,cranberry juice,3,20
 30.0,ml,gin,0,21
@@ -171,7 +171,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wheel,5,41
 0.0,None,orange blossom,6,41
 30.0,ml,rum,0,42
-0.0,None,⅔ ounce crème de cacao,1,42
+20.0,ml,crème de cacao,1,42
 15.0,ml,crème de banane,2,42
 60.0,ml,heavy cream,3,42
 1.0,None,"ripe banana, peeled and sliced",4,42
