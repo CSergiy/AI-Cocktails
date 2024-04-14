@@ -23,7 +23,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 37.5,ml,brandy,0,5
 15.0,ml,amontillado sherry,1,5
 15.0,ml,lemon juice,2,5
-1.0,None,barspoon lime juice,3,5
+1.0,tsp,lime juice,3,5
 15.0,ml,demerara syrup,4,5
 30.0,ml,water,5,5
 45.0,ml,bulleit rye whisky,0,6
@@ -688,7 +688,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,plymouth gin,0,157
 22.5,ml,lemon juice,1,157
 15.0,ml,simple syrup,2,157
-1.0,None,barspoon bonne maman raspberry preserves,3,157
+1.0,tsp,bonne maman raspberry preserves,3,157
 1.0,None,egg white,4,157
 45.0,ml,gin,0,158
 15.0,ml,raspberry syrup,1,158
@@ -1090,7 +1090,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,dash,orange bitters,4,250
 60.0,ml,rittenhouse bonded rye whiskey,0,251
 30.0,ml,punt e mes,1,251
-1.0,None,barspoon yellow chartreuse,2,251
+1.0,tsp,yellow chartreuse,2,251
 1.0,dash,angostura bitters,3,251
 60.0,ml,rhum barbancourt,0,252
 60.0,ml,guava nectar,1,252
@@ -2200,7 +2200,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,rye whiskey,0,489
 22.5,ml,sweet vermouth,1,489
 15.0,ml,cherry heering,2,489
-1.0,None,barspoon absinthe,3,489
+1.0,tsp,absinthe,3,489
 45.0,ml,gin,0,490
 15.0,ml,kirsch,1,490
 15.0,ml,campari,2,490
@@ -2776,9 +2776,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,lemon juice,1,628
 15.0,ml,orange juice,2,628
 7.5,ml,simple syrup,3,628
-1.0,None,barspoon al wadi pomegranate molasses,4,628
+1.0,tsp,al wadi pomegranate molasses,4,628
 0.0,None,juice of 1 lemon,0,629
-1.0,None,barspoon superfine sugar,1,629
+1.0,tsp,superfine sugar,1,629
 90.0,ml,rye wiskey,2,629
 1.0,None,sprig of mint,3,629
 60.0,ml,bourbon whiskey,0,630
