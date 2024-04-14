@@ -291,16 +291,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,None,chopped green onion,7,82
 3.0,dash,worcestershire sauce,8,82
 2.0,None,orange cherry tomatoes,9,82
-30.0,ml,campari,0,83
-360.0,ml,india pale ale,1,83
-0.0,None,"pour campari into pint glass, top with ipa",2,83
-0.0,None,garnish with lemon twist,3,83
-0.0,None,,4,83
-0.0,None,basically a rum martini.,0,84
-0.0,None,,1,84
-7.5,ml,dry vermouth,2,84
-0.0,None,black olive,3,84
-0.0,None,the black magic is a black russian with a dash of lemon juice.,0,85
+7.5,ml,dry vermouth,0,84
+0.0,None,black olive,1,84
 30.0,ml,tequila,0,87
 30.0,ml,vodka,1,87
 60.0,ml,kahlúa,2,87
@@ -488,10 +480,6 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,dolin dry vermouth,1,142
 7.5,ml,luxardo maraschino liqueur,2,142
 7.5,ml,amer picon,3,142
-0.6666666666666666,None,canadian club whiskey,0,143
-0.3333333333333333,None,french vermouth,1,143
-1.0,dash,maraschino liqueur,2,143
-1.0,dash,amer picon,3,143
 60.0,ml,rye whisky,0,144
 22.5,ml,dry vermouth,1,144
 2.0,tsp,maraschino liqueur,2,144
@@ -582,7 +570,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,calvados,1,175
 45.0,ml,orange juice,2,175
 30.0,ml,lime juice,3,175
-1.0,None,teaspooon sugar,4,175
+1.0,tsp,sugar,4,175
 0.0,None,lime wedge,5,175
 45.0,ml,gold rum,0,176
 22.5,ml,white rum,1,176
@@ -816,8 +804,6 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,banks 5 island rum,0,243
 22.5,ml,lime juice,1,243
 22.5,ml,simple syrup,2,243
-0.0,None,shake on ice and strain,3,243
-0.0,None,garnish with lime wheel,4,243
 60.0,ml,light rum,0,244
 30.0,ml,lime juice,1,244
 15.0,ml,simple syrup,2,244
@@ -850,10 +836,6 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,applejack or calvados,1,255
 22.5,ml,triple sec,2,255
 22.5,ml,lemon juice,3,255
-1.0,None,part grenadine or raspberry syrup,0,256
-1.0,None,part chartreuse,1,256
-8.0,None,parts apple brandy,2,256
-1.0,tsp,lemon juice,3,256
 22.5,ml,applejack,0,257
 22.5,ml,cognac,1,257
 15.0,ml,lemon juice,2,257
@@ -877,10 +859,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,cointreau,2,263
 15.0,ml,lime juice,3,263
 0.0,None,mint sprig,4,263
-0.0,None,,5,263
-60.0,ml,gin,6,263
-2.0,drop,peach bitters,7,263
-2.0,None,mint leafs,8,263
+60.0,ml,gin,5,263
+2.0,drop,peach bitters,6,263
+2.0,None,mint leafs,7,263
 45.0,ml,gin,0,264
 15.0,ml,cherry brandy,1,264
 90.0,ml,orange juice,2,264
@@ -1021,14 +1002,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,tbsp,water,1,314
 12.0,None,mint sprigs,2,314
 60.0,ml,cognac,3,314
-0.0,None,and 2 ounces peach brandy.,4,314
+60.0,ml,peach brandy,4,314
 75.0,ml,gin,0,315
 15.0,ml,preserved lime juice,1,315
-0.0,None,gin sour,0,317
-1.0,None,part sugar syrup,1,317
-2.0,None,parts lime or lemon juice,2,317
-8.0,None,parts gin,3,317
-1.0,None,"-2 dashes lime, lemon, or orange bitters",4,317
 75.0,ml,gin or vodka,0,318
 22.5,ml,lime juice cordial,1,318
 60.0,ml,gin,0,319
@@ -1137,11 +1113,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,vodka,0,360
 150.0,ml,orange juice,1,360
 15.0,ml,galliano,2,360
-0.0,None,,3,360
-0.0,None,"""4.5 cl vodka",4,360
-15.0,ml,galliano,5,360
-90.0,ml,"orange juice""",6,360
-0.0,None,,7,360
+0.0,None,"""4.5 cl vodka",3,360
+15.0,ml,galliano,4,360
+90.0,ml,"orange juice""",5,360
 45.0,ml,gold rum,0,362
 22.5,ml,cointreau,1,362
 22.5,ml,lemon juice,2,362
@@ -1153,7 +1127,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,orange curaçao,1,365
 7.5,ml,lime juice,2,365
 7.5,ml,orange juice,3,365
-0.0,None,lemon twist variation: add 1/4 ounce pineapple juice and a dash of angostura bitters.,4,365
+0.0,None,lemon twist,4,365
 45.0,ml,myers’s dark rum,0,366
 30.0,ml,light rum,1,366
 30.0,ml,frangelico,2,366
@@ -1431,10 +1405,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,root beer schnapps,1,445
 15.0,ml,jägermeister,2,445
 15.0,ml,rumple minze,3,445
-0.0,None,liquid cocaine here are two of the many versions of this drink. they can also be served as a shooter .,0,446
-15.0,ml,dark rum,1,446
-15.0,ml,rumple minze,2,446
-15.0,ml,jägermeister,3,446
+15.0,ml,dark rum,0,446
+15.0,ml,rumple minze,1,446
+15.0,ml,jägermeister,2,446
 60.0,ml,pierre ferrand ambre cognac,0,448
 7.5,ml,mathilde poire pear liqueur,1,448
 7.5,ml,benedictine,2,448
@@ -1495,11 +1468,6 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,rock candy syrup,4,458
 0.0,None,shake on ice and strain,5,458
 0.0,None,garnish with mint sprig,6,458
-0.6666666666666666,None,gin,0,459
-0.3333333333333333,None,curacao,1,459
-1.0,tsp,lime juice,2,459
-1.0,dash,angostura bitters,3,459
-1.0,dash,orange bitters,4,459
 40.0,ml,white rum,0,460
 20.0,ml,dark rum,1,460
 15.0,ml,orange curaao,2,460
@@ -1554,17 +1522,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,dolin rouge,1,470
 2.0,dash,angostura bitters,2,470
 0.0,None,garnish with montmorency cherries,3,470
-1.0,dash,angostura bitters,0,471
-0.6666666666666666,None,canadian club whiskey,1,471
-0.3333333333333333,None,ballor italian vermouth,2,471
-0.0,None,shak on ice and strain,3,471
-0.0,None,garnish with cherry,4,471
 50.0,ml,rye whiskey,0,472
 20.0,ml,red vermouth,1,472
 1.0,dash,angostura bitters,2,472
-0.0,None,since 1926),0,473
-0.0,None,float 1/2 ounce rum on top of a mint julep,1,473
-0.0,None,and garnish with pineapple.,2,473
 45.0,ml,haymans old tom gin,0,476
 45.0,ml,dolin sweet vermouth,1,476
 7.5,ml,luxardo maraschino liqueur,2,476
@@ -1623,11 +1583,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,cherry brandy,0,495
 45.0,ml,maraschino liqueur,1,495
 0.0,None,maraschino cherry,2,495
-0.0,None,a variation on the cosmo. many enjoy the burnt-orange flavor of a flamed orange peel for garnish.,0,496
-60.0,ml,black currant vodka,1,496
-22.5,ml,cointreau,2,496
-22.5,ml,cranberry juice,3,496
-22.5,ml,lime juice,4,496
+60.0,ml,black currant vodka,0,496
+22.5,ml,cointreau,1,496
+22.5,ml,cranberry juice,2,496
+22.5,ml,lime juice,3,496
 30.0,ml,gold tequila,0,498
 90.0,ml,cranberry juice,1,498
 15.0,ml,orange juice,2,498
@@ -1975,11 +1934,6 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,lime juice,2,592
 1.0,dash,angostura bitters,3,592
 1.0,dash,regan's orange bitters,4,592
-0.6666666666666666,None,gin,0,593
-0.3333333333333333,None,curacao,1,593
-1.0,tsp,lime juice,2,593
-1.0,dash,angostura bitters,3,593
-1.0,dash,orange bitters,4,593
 45.0,ml,gin,0,594
 15.0,ml,cointreau,1,594
 22.5,ml,lime juice,2,594
@@ -2059,12 +2013,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lemon juice,1,612
 20.0,ml,sugar syrup,2,612
 1.0,None,raw egg white,3,612
-0.0,None,"although many frozen and blended versions exist, the piña colada is traditionally shaken.",0,613
-60.0,ml,puerto rican light rum,1,613
-180.0,ml,pineapple juice,2,613
-60.0,ml,coconut cream,3,613
-0.0,None,pineapple spear,4,613
-0.0,None,maraschino cherry,5,613
+60.0,ml,puerto rican light rum,0,613
+180.0,ml,pineapple juice,1,613
+60.0,ml,coconut cream,2,613
+0.0,None,pineapple spear,3,613
+0.0,None,maraschino cherry,4,613
 60.0,ml,silver rum,0,614
 30.0,ml,aliz de france passion fruit liqueur,1,614
 0.0,cup,diced pineapple,2,614
@@ -2083,14 +2036,13 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,dash,of grenadine,6,615
 0.0,None,orange slice,7,615
 0.0,None,maraschino cherry,8,615
-0.0,None,,9,615
-45.0,ml,dark rum,10,615
-35.0,ml,orange juice,11,615
-35.0,ml,pineapple juice,12,615
-20.0,ml,lemon juice,13,615
-10.0,ml,grenadine,14,615
-10.0,ml,sugar syrup,15,615
-4.0,dash,angostura bitters,16,615
+45.0,ml,dark rum,9,615
+35.0,ml,orange juice,10,615
+35.0,ml,pineapple juice,11,615
+20.0,ml,lemon juice,12,615
+10.0,ml,grenadine,13,615
+10.0,ml,sugar syrup,14,615
+4.0,dash,angostura bitters,15,615
 45.0,ml,dark rum,0,616
 35.0,ml,orange juice,1,616
 35.0,ml,pineapple juice,2,616
@@ -2144,8 +2096,6 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,demerara sugar syrup,1,628
 4.0,None,-6 mint leaves,2,628
 90.0,ml,demerara rum,3,628
-0.0,None,swizzle in double old-fashioned glass partly filled with crushed ice,4,628
-0.0,None,garnish with mint sprig and spent lime shell,5,628
 90.0,ml,demerara rum,0,630
 22.5,ml,"lime juice, plus the spent lime half",1,630
 15.0,ml,rich demerara syrup,2,630
@@ -2400,12 +2350,6 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,None,lump sugar,0,698
 1.0,dash,angostura or peychauds bitters,1,698
 60.0,ml,glass rye or canadian whisky,2,698
-0.0,None,"this new orleans classic is as charming as a soft southern drawl. as cocktail legend has it, it was the first drink to be concocted and specifically called a cocktail. around the 1830s, a frenchman named peychaud was behind the counter of his pharmacie in new orleans, serving up this elixir in a cocquetier, or egg cup. when mis- pronounced, according to the tale, cocquetier resulted in the term “cocktail.” he came up with this drink, originally made with cognac and his peychaud’s bitters, as a vehicle for his soothing digestive creation. by the 1850s, the cocktail had become enormously popular, and it had been given the name “sazerac” after an imported french cognac, sazerac de forge et fils, that was used to make it. by 1870, the ingredients had changed, as drinking establishments opted for the cheaper american rye whiskey to replace cognac and absinthe was introduced into the equation. once absinthe became illegal, pernod replaced it.",0,699
-0.0,None,lemon twist,1,699
-0.0,None,,2,699
-0.0,None,• 1 small barspoonful gum syrup,3,699
-0.0,None,• 3 drops selner bitters,4,699
-0.0,None,• 1 jigger sazerac brandy,5,699
 0.5,tsp,sugar,0,700
 60.0,ml,whiskey,1,700
 2.0,dash,peychauds bitters,2,700
@@ -2862,7 +2806,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,maraschino cherry,4,841
 0.0,None,splash of club soda,5,841
 0.0,None,hot water,6,841
-1900.0,ml,s lager,0,842
+1900.0,ml,lager,0,842
 950.0,ml,rum,1,842
 150.0,ml,simple syrup,2,842
 90.0,ml,lemon juice,3,842
@@ -2920,7 +2864,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,vodka,0,858
 30.0,ml,kahlúa,1,858
 30.0,ml,heavy cream,2,858
-0.0,None,float 1/2 ounce heavy cream on top of a black russian.,3,858
+15.0,ml,heavy cream,3,858
 50.0,ml,cognac,0,859
 20.0,ml,crme de menthe,1,859
 60.0,ml,lairds bonded apple brandy,0,861
@@ -2951,12 +2895,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lime juice,4,866
 0.0,None,mint sprig,5,866
 0.0,None,maraschino cherry,6,866
-0.0,None,variation: substitute 1/2 ounce galliano and 1/2 ounce cointreau for the tia maria and orange juice.,7,866
-0.0,None,,8,866
-30.0,ml,white rum,9,866
-15.0,ml,galliano,10,866
-15.0,ml,triple sec,11,866
-15.0,ml,lime juice,12,866
+30.0,ml,white rum,7,866
+15.0,ml,galliano,8,866
+15.0,ml,triple sec,9,866
+15.0,ml,lime juice,10,866
 45.0,ml,vodka,0,867
 15.0,ml,galliano,1,867
 15.0,ml,lime juice,2,867
