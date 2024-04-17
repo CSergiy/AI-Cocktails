@@ -1,7 +1,7 @@
 quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,151-proof demerara rum,0,0
 15.0,ml,lime juice,1,0
-15.0,ml,sugar syrup,2,0
+15.0,ml,sugar,2,0
 1.0,dash,angostura bitters,3,0
 6.0,drop,pernod,4,0
 240.0,ml,crushed ice,5,0
@@ -13,7 +13,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lillet blanc,2,2
 22.5,ml,lemon juice,3,2
 45.0,ml,pernod,0,3
-1.0,None,sugar cube,1,3
+1.0,None,sugar,1,3
 150.0,ml,cold filtered water,2,3
 1.0,None,perforated spoon,3,3
 30.0,ml,gold tequila,0,4
@@ -22,8 +22,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 90.0,ml,pineapple juice,3,4
 37.5,ml,brandy,0,5
 15.0,ml,amontillado sherry,1,5
-15.0,ml,lemon juice,2,5
-1.0,None,barspoon lime juice,3,5
+22.5,ml,lemon juice,2,5
+1.0,tsp,lime juice,3,5
 15.0,ml,demerara syrup,4,5
 30.0,ml,water,5,5
 45.0,ml,bulleit rye whisky,0,9
@@ -36,9 +36,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,southern comfort,0,12
 30.0,ml,amaretto,1,12
 15.0,ml,sloe gin,2,12
-0.0,dash,of lemon juice,3,12
+22.5,ml,lemon juice,3,12
 0.0,None,maraschino cherry,4,12
-0.0,None,lemon slice,5,12
+0.0,None,lemon wedge,5,12
 45.0,ml,gin,0,14
 15.0,ml,yellow chartreuse,1,14
 67.5,ml,gin,0,15
@@ -62,7 +62,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,noilly prat dry vermouth,1,22
 22.5,ml,pineapple juice,2,22
 45.0,ml,bourbon,0,23
-30.0,ml,lemon juice,1,23
+22.5,ml,lemon juice,1,23
 15.0,ml,galliano,2,23
 1.0,tsp,orgeat syrup,3,23
 150.0,ml,chilled club soda,4,23
@@ -71,14 +71,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,heavy cream,2,24
 45.0,ml,amaretto,0,25
 22.5,ml,cask-strength bourbon,1,25
-30.0,ml,lemon juice,2,25
+22.5,ml,lemon juice,2,25
 1.0,tsp,rich simple syrup,3,25
 15.0,ml,"egg white, beaten",4,25
 60.0,ml,amaretto,0,26
-30.0,ml,lemon juice,1,26
+22.5,ml,lemon juice,1,26
 0.0,None,maraschino cherry,2,26
 30.0,ml,light rum,0,27
-0.0,None,⅓ ounce apple schnapps,1,27
+10.0,ml,apple schnapps,1,27
 2.0,dash,passion fruit liqueur,2,27
 30.0,ml,cranberry juice,3,27
 30.0,ml,gin,0,28
@@ -117,25 +117,25 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,cognac,0,38
 22.5,ml,absinthe,1,38
 1.0,tsp,maraschino,2,38
-0.5,tsp,lemon juice,3,38
+22.5,ml,lemon juice,3,38
 2.0,tsp,egg white,4,38
 45.0,ml,light rum,0,39
 15.0,ml,apricot liqueur,1,39
 75.0,ml,pineapple juice,2,39
-15.0,ml,lemon juice,3,39
+22.5,ml,lemon juice,3,39
 7.5,ml,galliano,4,39
 0.0,None,orange slice,5,39
 60.0,ml,baileys,0,40
 90.0,ml,chai,1,40
-0.0,None,brown sugar,2,40
+0.0,None,sugar,2,40
 0.0,None,cinnamon stick,3,40
 45.0,ml,gin,0,42
 15.0,ml,maraschino,1,42
-15.0,ml,lemon juice,2,42
+22.5,ml,lemon juice,2,42
 45.0,ml,silver tequila,0,43
 15.0,ml,cointreau,1,43
 30.0,ml,lime juice,2,43
-15.0,ml,lemon juice,3,43
+22.5,ml,lemon juice,3,43
 0.25,cup,diced ripe avocado,4,43
 30.0,ml,half-and-half,5,43
 1.0,tsp,sugar,6,43
@@ -159,7 +159,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,coconut rum,1,49
 15.0,ml,coffee liqueur,2,49
 120.0,ml,pineapple juice,3,49
-45.0,ml,lemon juice,4,49
+22.5,ml,lemon juice,4,49
 1.0,tbsp,151-proof demerara rum,5,49
 0.0,None,pineapple wedge,6,49
 0.0,None,maraschino cherry,7,49
@@ -171,7 +171,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wheel,5,50
 0.0,None,orange blossom,6,50
 30.0,ml,rum,0,52
-0.0,None,⅔ ounce crème de cacao,1,52
+20.0,ml,crème de cacao,1,52
 15.0,ml,crème de banane,2,52
 60.0,ml,heavy cream,3,52
 1.0,None,"ripe banana, peeled and sliced",4,52
@@ -180,7 +180,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,pineapple juice,2,53
 1.0,dash,lime juice,3,53
 0.0,None,lime wedge,0,54
-0.0,None,superfine sugar,1,54
+0.0,None,sugar,1,54
 60.0,ml,gold rum,2,54
 15.0,ml,cointreau,3,54
 7.5,ml,maraschino liqueur,4,54
@@ -191,44 +191,31 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,white crème de cacao,1,55
 1.0,None,egg white,2,55
 0.5,tsp,grenadine,3,55
-0.5,None,jigger gin,0,56
-1.0,None,spoon lemon juice,1,56
-1.0,None,spoon orange juice,2,56
-1.0,None,spoon honey,3,56
-0.0,None,juice from 1/4 lemon,0,57
-1.0,tsp,honey,1,57
-0.5,None,glass gin,2,57
 60.0,ml,plymouth gin,0,58
-22.5,ml,honey syrup,1,58
+22.5,ml,honey,1,58
 22.5,ml,lemon juice,2,58
 60.0,ml,gin,0,59
-22.5,ml,honey syrup,1,59
-15.0,ml,lemon juice,2,59
+22.5,ml,honey,1,59
+22.5,ml,lemon juice,2,59
 60.0,ml,gin,0,60
-22.5,ml,honey syrup,1,60
+22.5,ml,honey,1,60
 22.5,ml,lemon juice,2,60
 30.0,ml,gin,0,62
-0.0,ml,campari,1,62
+0.0,None,ounce campari,1,62
 15.0,ml,limoncello,2,62
 15.0,ml,mandarine napoléon,3,62
-0.0,ml,orange juice,4,62
+0.0,None,ounce orange juice,4,62
 0.0,None,lime peel spiral,5,62
-100.0,ml,prosecco,0,63
-50.0,ml,peach puree,1,63
-0.0,None,variations:,2,63
-0.0,None,"puccini ,",3,63
-0.0,None,"rossini ,",4,63
-0.0,None,tintoretto .,5,63
 45.0,ml,blended american whiskey,0,64
 22.5,ml,harveys bristol cream sherry,1,64
-15.0,ml,lemon juice,2,64
+22.5,ml,lemon juice,2,64
 30.0,ml,simple syrup,3,64
 45.0,ml,orange juice,4,64
 45.0,ml,cranberry juice,5,64
 30.0,ml,chilled 7-up,6,64
 30.0,ml,chilled club soda,7,64
 0.0,None,whole strawberry,8,64
-0.0,None,lemon slice,9,64
+0.0,None,lemon wedge,9,64
 0.0,None,mint sprig,10,64
 45.0,ml,canadian blended whisky,0,66
 15.0,ml,drambuie,1,66
@@ -236,11 +223,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,white rum,0,67
 30.0,ml,cognac,1,67
 30.0,ml,triple sec,2,67
-20.0,ml,lemon juice,3,67
+22.5,ml,lemon juice,3,67
 22.5,ml,brandy,0,69
 22.5,ml,rum,1,69
 22.5,ml,cointreau,2,69
-22.5,ml,lemon juice.,3,69
+22.5,ml,lemon juice,3,69
 30.0,ml,brandy,0,70
 30.0,ml,gin,1,70
 30.0,ml,cointreau,2,70
@@ -248,7 +235,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,brandy,0,72
 30.0,ml,white rum,1,72
 30.0,ml,cointreau,2,72
-1.0,dash,lemon juice,3,72
+22.5,ml,lemon juice,3,72
 45.0,ml,brandy,0,73
 15.0,ml,bndictine,1,73
 15.0,ml,cointreau,2,73
@@ -256,7 +243,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,white rum,0,74
 30.0,ml,cointreau,1,74
 30.0,ml,cognac,2,74
-15.0,ml,lemon juice,3,74
+22.5,ml,lemon juice,3,74
 30.0,ml,brandy,0,75
 30.0,ml,white rum,1,75
 30.0,ml,cointreau,2,75
@@ -303,14 +290,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,irish whiskey,0,89
 7.5,ml,cointreau,1,89
 7.5,ml,absinthe substitute,2,89
-0.0,dash,of maraschino liqueur,3,89
-0.0,dash,of angostura bitters,4,89
+0.0,None,dash of maraschino liqueur,3,89
+0.0,None,dash of angostura bitters,4,89
 0.0,None,lemon twist,5,89
 90.0,ml,bourbon,0,91
 30.0,ml,cranberry juice,1,91
-15.0,ml,lemon juice,2,91
+22.5,ml,lemon juice,2,91
 30.0,ml,simple syrup,3,91
-0.0,None,lemon slice,4,91
+0.0,None,lemon wedge,4,91
 22.5,ml,scotch whisky,0,94
 22.5,ml,cherry heering,1,94
 22.5,ml,sweet vermouth,2,94
@@ -336,10 +323,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,brandy,1,100
 15.0,ml,parfait amour,2,100
 15.0,ml,heavy cream,3,100
-0.0,dash,of lemon juice,4,100
+22.5,ml,lemon juice,4,100
 45.0,ml,bourbon,0,101
 30.0,ml,pineapple juice,1,101
-30.0,ml,lemon juice,2,101
+22.5,ml,lemon juice,2,101
 7.5,ml,maraschino liqueur,3,101
 30.0,ml,light rum,0,102
 30.0,ml,blue curaçao,1,102
@@ -361,7 +348,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,orange blossom,5,104
 30.0,ml,gin,0,105
 30.0,ml,cointreau,1,105
-0.0,dash,of blue curaçao,2,105
+0.0,None,dash of blue curaçao,2,105
 120.0,ml,chilled club soda,3,105
 22.5,ml,tequila,0,106
 7.5,ml,blue curaçao,1,106
@@ -386,7 +373,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,midori liqueur,3,114
 15.0,ml,harlequin orange liqueur,4,114
 15.0,ml,lime juice,5,114
-1.0,tbsp,superfine sugar,6,114
+1.0,tbsp,sugar,6,114
 0.0,None,lemon twist,7,114
 45.0,ml,cachaça,0,115
 30.0,ml,frangelico,1,115
@@ -398,8 +385,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wedge,7,115
 45.0,ml,gin,0,116
 45.0,ml,apricot brandy,1,116
-15.0,ml,lemon juice,2,116
-0.0,dash,of grenadine,3,116
+22.5,ml,lemon juice,2,116
+0.0,None,dash of grenadine,3,116
 45.0,ml,bourbon,0,118
 30.0,ml,campari,1,118
 30.0,ml,sweet vermouth,2,118
@@ -411,32 +398,32 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 150.0,ml,chilled ginger ale,2,121
 0.0,None,lemon wedge,0,122
 0.0,None,sugar,1,122
-0.0,None,lemon peel spiral,2,122
+0.0,None,lemon twist,2,122
 60.0,ml,bourbon,3,122
 15.0,ml,cointreau,4,122
-15.0,ml,lemon juice,5,122
+22.5,ml,lemon juice,5,122
 60.0,ml,bourbon,0,123
 15.0,ml,dark crème de cacao,1,123
 120.0,ml,milk,2,123
-0.0,dash,of vanilla extract,3,123
+0.0,None,dash of vanilla extract,3,123
 0.25,tsp,ground cinnamon,4,123
 0.0,None,freshly grated or ground nutmeg,5,123
 75.0,ml,bourbon,0,124
 15.0,ml,southern comfort,1,124
-15.0,ml,lemon juice,2,124
+22.5,ml,lemon juice,2,124
 180.0,ml,chilled club soda,3,124
 0.0,None,lemon wedge,4,124
 60.0,ml,bourbon,0,125
 15.0,ml,apricot brandy,1,125
-15.0,ml,lemon juice,2,125
+22.5,ml,lemon juice,2,125
 180.0,ml,chilled ginger ale,3,125
-0.0,None,lemon wheel,4,125
+0.0,None,lemon wedge,4,125
 60.0,ml,bourbon,0,126
 30.0,ml,dark crème de cacao,1,126
 2.0,None,vanilla beans or 1/2 teaspoon vanilla extract,2,126
 40.0,ml,gin,0,128
-15.0,ml,lemon juice,1,128
-10.0,ml,sugar syrup,2,128
+22.5,ml,lemon juice,1,128
+10.0,ml,sugar,2,128
 15.0,ml,blackberry liqueur,3,128
 5.0,None,blackberries,0,129
 1.0,tsp,sugar,1,129
@@ -447,7 +434,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wedge,6,129
 45.0,ml,cruzan single barrel rum,0,130
 22.5,ml,b&b,1,130
-45.0,ml,lemon sour,2,130
+45.0,ml,lemon wedge,2,130
 1.0,tsp,egg white,3,130
 2.0,dash,angostura orange bitters,4,130
 45.0,ml,gold tequila,0,131
@@ -491,17 +478,17 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,drop,angostura bitters,4,146
 45.0,ml,rye,0,147
 22.5,ml,sweet vermouth,1,147
-0.0,dash,of maraschino liqueur,2,147
+0.0,None,dash of maraschino liqueur,2,147
 0.0,None,lemon twist,3,147
 60.0,ml,bourbon,0,149
 30.0,ml,grapefruit juice,1,149
-15.0,ml,honey syrup,2,149
+15.0,ml,honey,2,149
 60.0,ml,bourbon,0,150
 30.0,ml,grapefruit,1,150
-15.0,ml,honey syrup,2,150
+15.0,ml,honey,2,150
 60.0,ml,makers mark bourbon,0,151
 30.0,ml,grapefruit juice,1,151
-22.5,ml,honey syrup,2,151
+22.5,ml,honey,2,151
 60.0,ml,8 or 15-year el dorado rum,0,153
 7.5,ml,demerara simple syrup,1,153
 30.0,ml,amaretto,0,154
@@ -539,19 +526,19 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,peach schnapps,2,167
 30.0,ml,grapefruit juice,3,167
 30.0,ml,mango juice,4,167
-0.0,dash,of orgeat  syrup,5,167
+0.0,None,dash of orgeat  syrup,5,167
 30.0,ml,gold or dark rum,0,170
 30.0,ml,crème de banane,1,170
 15.0,ml,apricot brandy,2,170
-15.0,ml,lemon juice,3,170
-0.0,dash,of sloe gin,4,170
+22.5,ml,lemon juice,3,170
+0.0,None,dash of sloe gin,4,170
 0.0,None,banana slice,5,170
 30.0,ml,gin,0,171
 30.0,ml,crème de banane,1,171
 30.0,ml,blue curaçao,2,171
-30.0,ml,lemon juice,3,171
+22.5,ml,lemon juice,3,171
 15.0,ml,heavy cream,4,171
-0.0,dash,of grenadine,5,171
+0.0,None,dash of grenadine,5,171
 0.0,None,orange slice,6,171
 0.0,None,maraschino cherry,7,171
 75.0,ml,light rum,0,172
@@ -565,7 +552,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 40.0,ml,old tom gin,0,174
 10.0,ml,marachino,1,174
 10.0,ml,orange bitters,2,174
-10.0,ml,lemon juice,3,174
+22.5,ml,lemon juice,3,174
 45.0,ml,gold rum,0,175
 22.5,ml,calvados,1,175
 45.0,ml,orange juice,2,175
@@ -577,14 +564,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,tia maria,2,176
 7.5,ml,triple sec,3,176
 45.0,ml,lime juice,4,176
-0.0,dash,of grenadine,5,176
+0.0,None,dash of grenadine,5,176
 0.0,None,mint sprig,6,176
 90.0,ml,chilled champagne,0,177
 10.0,ml,cognac,1,177
 2.0,dash,angostura bitters,2,177
-1.0,None,sugar cube,3,177
+1.0,None,sugar,3,177
 45.0,ml,cognac,0,178
-22.5,ml,lemon,1,178
+22.5,ml,lemon juice,1,178
 15.0,ml,green chartreuse,2,178
 15.0,ml,simple syrup,3,178
 2.0,dash,angostura bitters,4,178
@@ -595,17 +582,17 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,dash,angostura bitters,4,179
 3.0,None,glasses cognac,0,180
 1.0,None,glass chartreuse,1,180
-1.5,None,glasses sweetened lemon juice,2,180
+22.5,ml,lemon juice,2,180
 1.0,dash,angostura bitters,3,180
 45.0,ml,cognac,0,181
 15.0,ml,green chartreuse,1,181
-7.5,ml,lemon juice,2,181
+22.5,ml,lemon juice,2,181
 3.75,ml,simple syrup,3,181
 2.0,dash,angostura bitters,4,181
 45.0,ml,silver tequila,0,182
 0.5,tsp,cointreau,1,182
 30.0,ml,orange juice,2,182
-15.0,ml,lemon juice,3,182
+22.5,ml,lemon juice,3,182
 7.5,ml,grenadine,4,182
 0.0,None,orange slice,5,182
 30.0,ml,apricot brandy,0,183
@@ -621,9 +608,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,gin,0,188
 22.5,ml,cherry heering,1,188
 7.5,ml,crème de cassis,2,188
-7.5,ml,lemon juice,3,188
+22.5,ml,lemon juice,3,188
 7.5,ml,simple syrup,4,188
-0.0,None,lemon slice,5,188
+0.0,None,lemon wedge,5,188
 0.0,None,maraschino cherry,6,188
 0.0,None,mint sprig,7,188
 30.0,ml,gold tequila,0,189
@@ -661,20 +648,20 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wedge,2,199
 75.0,ml,blended scotch,0,202
 15.0,ml,sweet vermouth,1,202
-0.0,dash,of angostura bitters,2,202
+0.0,None,dash of angostura bitters,2,202
 0.0,None,maraschino cherry,3,202
 45.0,ml,silver tequila,0,203
 0.0,None,lime wedge,1,203
 0.0,None,kosher salt,2,203
-1.0,None,-1/2 oz. gin,0,205
+0.0,None,gin,0,205
 15.0,ml,yellow chartreuse,1,205
 15.0,ml,grapefruit juice,2,205
 7.5,ml,simple syrup,3,205
-7.5,ml,lemon juice,4,205
+22.5,ml,lemon juice,4,205
 60.0,ml,plymouth gin,0,206
 22.5,ml,yellow chartreuse,1,206
 22.5,ml,grapefruit juice,2,206
-7.5,ml,lemon juice,3,206
+22.5,ml,lemon juice,3,206
 45.0,ml,gin,0,208
 22.5,ml,simple syrup,1,208
 22.5,ml,lemon juice,2,208
@@ -688,11 +675,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,plymouth gin,0,210
 22.5,ml,lemon juice,1,210
 15.0,ml,simple syrup,2,210
-1.0,None,barspoon bonne maman raspberry preserves,3,210
+1.0,tsp,bonne maman raspberry preserves,3,210
 1.0,None,egg white,4,210
 45.0,ml,gin,0,211
 15.0,ml,raspberry syrup,1,211
-15.0,ml,lemon juice,2,211
+22.5,ml,lemon juice,2,211
 60.0,ml,wild turkey rye,0,213
 22.5,ml,dolin rouge sweet vermouth,1,213
 22.5,ml,benedictine,2,213
@@ -721,23 +708,23 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,dusting of ground nutmeg,6,218
 45.0,ml,bourbon,0,219
 22.5,ml,crème de cacao,1,219
-15.0,ml,lemon juice,2,219
+22.5,ml,lemon juice,2,219
 45.0,ml,canadian whisky,0,220
 15.0,ml,grand marnier,1,220
-7.5,ml,lemon juice,2,220
+22.5,ml,lemon juice,2,220
 0.0,None,orange twist,3,220
 60.0,ml,reposado tequila,0,221
 60.0,ml,grapefruit juice,1,221
 15.0,ml,campari,2,221
 90.0,ml,chilled club soda,3,221
 0.0,None,orange twist,4,221
-0.0,None,* 0.5 oz. rittenhouse rye,0,222
-0.0,None,* 0.5 oz. buffalo trace bourbon,1,222
-0.0,None,* 0.5 oz. calvados,2,222
-0.0,None,* 0.5 oz. hine h cognac,3,222
-0.0,None,* 1 tsp rich demerara syrup,4,222
-0.0,None,* 2 dashes angostura bitters,5,222
-0.0,None,* 1 dash bittermens xocolatl mole bitters,6,222
+0.0,None,rittenhouse rye,0,222
+0.0,None,buffalo trace bourbon,1,222
+0.0,None,calvados,2,222
+0.0,None,hine h cognac,3,222
+1.0,tsp,rich demerara syrup,4,222
+2.0,dash,es angostura bitters,5,222
+1.0,dash,bittermens xocolatl mole bitters,6,222
 75.0,ml,gin,0,223
 15.0,ml,rose’s lime juice,1,223
 0.0,None,lime wedge,2,223
@@ -755,7 +742,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,applejack,0,227
 22.5,ml,sweet vermouth,1,227
 22.5,ml,brandy,2,227
-0.25,None,wine glass lemon juice,0,229
+22.5,ml,lemon juice,0,229
 0.25,None,wine glass kina lillet,1,229
 0.25,None,wine glass cointreau,2,229
 0.25,None,wine glass dry gin,3,229
@@ -777,7 +764,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lime juice,3,233
 0.0,None,lemon twist,4,233
 45.0,ml,gin,0,235
-15.0,ml,lemon juice,1,235
+22.5,ml,lemon juice,1,235
 7.5,ml,grenadine,2,235
 22.5,ml,ruby port,3,235
 0.5,None,lime,0,236
@@ -793,7 +780,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,cointreau,1,238
 30.0,ml,lime juice,2,238
 0.0,None,lime twist,3,238
-1.0,tbsp,superfine sugar,0,240
+1.0,tbsp,sugar,0,240
 30.0,ml,lime juice,1,240
 0.25,cup,thinly sliced english cucumber,2,240
 45.0,ml,silver tequila,3,240
@@ -838,7 +825,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,3,255
 22.5,ml,applejack,0,257
 22.5,ml,cognac,1,257
-15.0,ml,lemon juice,2,257
+22.5,ml,lemon juice,2,257
 30.0,ml,cointreau,3,257
 60.0,ml,single-malt scotch,0,258
 30.0,ml,canton ginger liqueur,1,258
@@ -891,21 +878,21 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,simple syrup,1,276
 22.5,ml,lemon juice,2,276
 1.0,None,egg white,3,276
-0.0,None,sugar half a glass rim--,4,276
+0.0,None,sugar,4,276
 1.0,None,egg,0,279
 1.0,tsp,sugar,1,279
 60.0,ml,liquor,2,279
 240.0,ml,milk,3,279
 2.0,None,large eggs,0,280
-90.0,ml,granulated sugar,1,280
+90.0,ml,sugar,1,280
 60.0,ml,brandy,2,280
 60.0,ml,spiced rum,3,280
 180.0,ml,whole milk,4,280
 120.0,ml,heavy cream,5,280
 0.5,tsp,grated nutmeg,6,280
 0.0,None,garnish with grated nutmeg,7,280
-1.0,tbsp,p. fine sugar,0,281
-1.0,tbsp,p. water,1,281
+1.0,tbsp,sugar,0,281
+1.0,tbsp,water,1,281
 1.0,None,egg,2,281
 60.0,ml,cognac brandy,3,281
 30.0,ml,santa cruz rum,4,281
@@ -944,7 +931,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 52.5,ml,scotch,0,295
 45.0,ml,apple cider,1,295
 15.0,ml,averna amaro,2,295
-7.5,ml,lemon juice,3,295
+22.5,ml,lemon juice,3,295
 1.0,tsp,demerara syrup,4,295
 0.5,tsp,st. elizabeth allspice dram,5,295
 2.0,dash,angostura bitters,6,295
@@ -952,7 +939,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,kirsch,1,296
 7.5,ml,triple sec,2,296
 45.0,ml,orange juice,3,296
-1.0,tsp,lemon juice,4,296
+22.5,ml,lemon juice,4,296
 0.0,None,orange twist,5,296
 45.0,ml,gold rum,0,297
 7.5,ml,triple sec,1,297
@@ -966,15 +953,15 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 150.0,ml,orange juice,1,301
 15.0,ml,galliano,2,301
 30.0,ml,gin,0,302
-15.0,ml,lemon juice,1,302
-2.0,dash,sugar syrup,2,302
+22.5,ml,lemon juice,1,302
+2.0,dash,sugar,2,302
 60.0,ml,champagne,3,302
 35.0,ml,cognac,0,303
 35.0,ml,disaronno,1,303
 45.0,ml,bourbon,0,305
 45.0,ml,brandy,1,305
 15.0,ml,grand marnier,2,305
-7.5,ml,lemon juice,3,305
+22.5,ml,lemon juice,3,305
 45.0,ml,tequila,0,307
 22.5,ml,blue curaçao,1,307
 15.0,ml,crème de cacao,2,307
@@ -983,14 +970,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,white rum,0,308
 22.5,ml,lime juice,1,308
 15.0,ml,simple syrup,2,308
-0.0,dash,of maraschino liqueur,3,308
+0.0,None,dash of maraschino liqueur,3,308
 60.0,ml,gold tequila,0,310
 7.5,ml,triple sec,1,310
 0.25,cup,pineapple chunks,2,310
 15.0,ml,lime juice,3,310
 6.0,None,small mint leaves,0,311
 90.0,ml,kentucky bourbon,1,311
-30.0,ml,lemon juice,2,311
+22.5,ml,lemon juice,2,311
 30.0,ml,simple syrup,3,311
 0.0,None,mint sprig,4,311
 1.0,cup,"seeded, cubed watermelon",0,313
@@ -998,7 +985,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,2,313
 0.25,cup,lime sorbet,3,313
 0.0,None,lime wheel,4,313
-0.0,None,use 1 teaspoon powdered sugar,0,314
+0.0,None,sugar,0,314
 1.0,tbsp,water,1,314
 12.0,None,mint sprigs,2,314
 60.0,ml,cognac,3,314
@@ -1018,18 +1005,18 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wedge,2,322
 10.0,None,mint leaves,0,323
 7.5,ml,lime juice,1,323
-7.5,ml,lemon juice,2,323
+22.5,ml,lemon juice,2,323
 1.0,tsp,sugar,3,323
 60.0,ml,gin,4,323
 0.0,None,mint sprig,5,323
 60.0,ml,gin,0,325
 15.0,ml,cointreau,1,325
-15.0,ml,lemon juice,2,325
+22.5,ml,lemon juice,2,325
 150.0,ml,chilled club soda,3,325
 0.0,None,lemon wedge,4,325
 60.0,ml,gin,0,326
 15.0,ml,orange juice,1,326
-15.0,ml,lemon juice,2,326
+22.5,ml,lemon juice,2,326
 2.0,dash,grenadine,3,326
 35.0,ml,scotch,0,330
 35.0,ml,disaronno,1,330
@@ -1078,7 +1065,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,silver rum,0,348
 22.5,ml,green chartreuse,1,348
 22.5,ml,lime juice,2,348
-1.0,tbsp,superfine sugar,3,348
+1.0,tbsp,sugar,3,348
 90.0,ml,chilled club soda,4,348
 0.0,None,lime wedge,5,348
 50.0,ml,cognac,0,349
@@ -1090,12 +1077,12 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,dash,orange bitters,4,351
 60.0,ml,rittenhouse bonded rye whiskey,0,352
 30.0,ml,punt e mes,1,352
-1.0,None,barspoon yellow chartreuse,2,352
+1.0,tsp,yellow chartreuse,2,352
 1.0,dash,angostura bitters,3,352
 60.0,ml,rhum barbancourt,0,353
 60.0,ml,guava nectar,1,353
 22.5,ml,lime juice,2,353
-1.0,tsp,superfine sugar,3,353
+1.0,tsp,sugar,3,353
 0.0,None,lime peel spiral,4,353
 60.0,ml,peach schnapps,0,355
 30.0,ml,vodka,1,355
@@ -1113,7 +1100,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,vodka,0,360
 150.0,ml,orange juice,1,360
 15.0,ml,galliano,2,360
-0.0,None,"""4.5 cl vodka",3,360
+45.0,ml,vodka,3,360
 15.0,ml,galliano,4,360
 90.0,ml,"orange juice""",5,360
 45.0,ml,gold rum,0,362
@@ -1138,21 +1125,21 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wedge,7,366
 22.5,ml,cognac,0,367
 22.5,ml,cointreau,1,367
-22.5,ml,lemon,2,367
+22.5,ml,lemon juice,2,367
 22.5,ml,lillet blanc,3,367
 40.0,ml,brandy,0,369
 120.0,ml,ginger ale,1,369
 1.0,None,small pat of soft butter,0,370
-1.0,tsp,brown sugar,1,370
+1.0,tsp,sugar,1,370
 0.0,None,vanilla extract,2,370
 60.0,ml,dark rum,3,370
 0.0,None,hot water,4,370
 30.0,ml,cognac,0,371
 15.0,ml,dark rum,1,371
-2.0,tsp,granulated sugar,2,371
+2.0,tsp,sugar,2,371
 180.0,ml,hot milk,3,371
-1.0,tbsp,p. fine white sugar,0,372
-2.0,tbsp,p. water,1,372
+1.0,tbsp,sugar,0,372
+2.0,tbsp,water,1,372
 60.0,ml,cognac,2,372
 30.0,ml,santa cruz rum,3,372
 0.0,None,lemon wedge,0,373
@@ -1160,26 +1147,26 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,tequila,2,373
 22.5,ml,peppermint schnapps,3,373
 22.5,ml,grapefruit juice,4,373
-1.0,tsp,powdered sugar,5,373
-30.0,ml,sugar syrup,0,374
+1.0,tsp,sugar,5,373
+30.0,ml,sugar,0,374
 90.0,ml,sselected liquor,1,374
-2.0,None,or 3 cloves,2,374
+3.0,None,cloves,2,374
 1.0,dash,ground cinnamon,3,374
 15.0,ml,"brandy, rum, or both",0,375
 1.0,tsp,honey,1,375
-15.0,ml,lemon juice,2,375
+22.5,ml,lemon juice,2,375
 1.0,tsp,sugar,0,376
 30.0,ml,water,1,376
 60.0,ml,whiskey,2,376
 3.0,None,whole cloves,0,377
 1.0,None,cinnamon stick,1,377
 1.0,tsp,honey,2,377
-4.0,None,-5 oz. boiling water,3,377
+0.0,None,boiling water,3,377
 60.0,ml,"bourbon, scotch, rye, brandy, or dark rum",4,377
 1.0,None,glass spirit,0,378
-1.0,None,lump sugar,1,378
+1.0,None,sugar,1,378
 1.0,tsp,sugar,0,379
-3.0,None,-4 oz. water,1,379
+0.0,None,water,1,379
 60.0,ml,spirits,2,379
 60.0,ml,bacardi 8 rum,0,381
 30.0,ml,pineapple juice,1,381
@@ -1197,24 +1184,24 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,orange juice,3,383
 30.0,ml,lime juice,4,383
 30.0,ml,pineapple juice,5,383
-0.0,dash,of angostura bitters,6,383
+0.0,None,dash of angostura bitters,6,383
 0.0,None,lime wedge,7,383
 0.0,None,pineapple wedge,8,383
 45.0,ml,malibu rum,0,384
-30.0,ml,stolichnaya lemon vodka,1,384
+22.5,ml,lemon juice,1,384
 30.0,ml,cointreau,2,384
 45.0,ml,cranberry juice,3,384
 15.0,ml,lime juice,4,384
 0.0,None,lemon twist,5,384
 45.0,ml,irish whiskey,0,385
-1.0,tsp,brown sugar,1,385
+1.0,tsp,sugar,1,385
 120.0,ml,cold coffee,2,385
 60.0,ml,heavy cream,3,385
 60.0,ml,gin,0,386
-30.0,ml,lemon juice,1,386
+22.5,ml,lemon juice,1,386
 30.0,ml,lime juice,2,386
 90.0,ml,chilled club soda,3,386
-0.0,None,lemon peel spiral,4,386
+0.0,None,lemon twist,4,386
 60.0,ml,rittenhouse bonded rye whiskey,0,387
 7.5,ml,luxardo maraschino liqueur,1,387
 7.5,ml,simple syrup,2,387
@@ -1230,19 +1217,19 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,simple syrup,3,390
 25.0,ml,gin,0,391
 50.0,ml,aperol,1,391
-20.0,ml,lemon juice,2,391
+22.5,ml,lemon juice,2,391
 2.0,dash,angostura bitters,3,391
 60.0,ml,aperol,0,392
 30.0,ml,beefeater gin,1,392
 22.5,ml,lemon juice,2,392
 1.0,dash,angostura bitters,3,392
 30.0,ml,irish whiskey,0,394
-2.0,tsp,brown sugar,1,394
+2.0,tsp,sugar,1,394
 120.0,ml,strong black coffee,2,394
 45.0,ml,irish whiskey,0,396
 15.0,ml,light rum,1,396
 15.0,ml,sloe gin,2,396
-30.0,ml,lemon juice,3,396
+22.5,ml,lemon juice,3,396
 1.0,tsp,sugar,4,396
 0.0,None,peach slice,5,396
 0.0,None,orange slice,6,396
@@ -1250,7 +1237,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,maraschino cherry,8,396
 45.0,ml,applejack,0,398
 2.0,dash,grenadine,1,398
-0.0,None,juice of 1/2 lime or lemon,2,398
+22.5,ml,lemon juice,2,398
 60.0,ml,lairds bonded apple brandy,0,400
 22.5,ml,lemon juice,1,400
 22.5,ml,grenadine,2,400
@@ -1262,7 +1249,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,thinly cut lime slice,5,402
 45.0,ml,applejack,0,403
 22.5,ml,grenadine,1,403
-15.0,ml,lemon juice,2,403
+22.5,ml,lemon juice,2,403
 15.0,ml,pineapple juice,3,403
 1.0,dash,angostura bitters,4,403
 45.0,ml,gin,0,404
@@ -1279,7 +1266,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 3.0,dash,angostura,2,408
 60.0,ml,blended whiskey,0,409
 15.0,ml,ruby port,1,409
-2.0,tsp,lemon juice,2,409
+22.5,ml,lemon juice,2,409
 1.0,tsp,sugar,3,409
 150.0,ml,chilled club soda,4,409
 0.0,None,pineapple wedge,5,409
@@ -1293,15 +1280,15 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,gin,0,413
 7.5,ml,crème de noyaux,1,413
 7.5,ml,white crème de cacao,2,413
-7.5,ml,lemon juice,3,413
-0.0,dash,of orange bitters,4,413
+22.5,ml,lemon juice,3,413
+0.0,None,dash of orange bitters,4,413
 45.0,ml,gin,0,414
-30.0,ml,lemon juice,1,414
-15.0,ml,sugar syrup,2,414
+22.5,ml,lemon juice,1,414
+15.0,ml,sugar,2,414
 60.0,ml,soda water,3,414
 22.5,ml,campari,0,415
 15.0,ml,lime juice,1,415
-15.0,ml,sugar syrup,2,415
+15.0,ml,sugar,2,415
 120.0,ml,unsweetened pineapple juice,3,415
 45.0,ml,dark jamaican rum,4,415
 45.0,ml,cruzan black strap rum,0,416
@@ -1312,7 +1299,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,gin,0,417
 15.0,ml,orange juice,1,417
 15.0,ml,cranberry juice,2,417
-0.0,dash,of grenadine,3,417
+0.0,None,dash of grenadine,3,417
 120.0,ml,chilled champagne,4,417
 45.0,ml,gin,0,418
 15.0,ml,dry vermouth,1,418
@@ -1332,21 +1319,21 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,gin,2,427
 30.0,ml,tuaca,3,427
 30.0,ml,key lime or other lime juice,4,427
-1.0,tsp,superfine sugar,5,427
+1.0,tsp,sugar,5,427
 0.0,None,thinly sliced lime wheel,6,427
-0.0,None,* 1 oz. smith & cross rum,0,428
-0.0,None,* 1 oz. campari,1,428
-0.0,None,* 1 oz. carpano antica sweet vermouth,2,428
+0.0,None,smith & cross rum,0,428
+0.0,None,campari,1,428
+0.0,None,carpano antica sweet vermouth,2,428
 90.0,ml,dry white wine,0,429
 10.0,ml,crme de cassis,1,429
 45.0,ml,gin,0,432
 15.0,ml,dry vermouth,1,432
 15.0,ml,melon liqueur,2,432
-0.0,dash,of lemon juice,3,432
+22.5,ml,lemon juice,3,432
 60.0,ml,gin,0,433
-0.0,dash,of cherry brandy,1,433
-0.0,dash,of grenadine,2,433
-0.0,dash,of lemon juice,3,433
+0.0,None,dash of cherry brandy,1,433
+0.0,None,dash of grenadine,2,433
+22.5,ml,lemon juice,3,433
 2.0,None,mint sprigs,4,433
 30.0,ml,gold tequila,0,434
 15.0,ml,cointreau,1,434
@@ -1357,27 +1344,27 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,pineapple juice,1,435
 3.0,dash,angostura bitters,2,435
 120.0,ml,chilled club soda,3,435
-0.0,None,lemon slice,4,435
+0.0,None,lemon wedge,4,435
 45.0,ml,light rum,0,436
 22.5,ml,sweet vermouth,1,436
 7.5,ml,crème de cacao,2,436
 30.0,ml,lime juice,3,436
-0.0,dash,of grenadine,4,436
+0.0,None,dash of grenadine,4,436
 60.0,ml,light rum,0,437
 7.5,ml,maraschino liqueur,1,437
 45.0,ml,lime juice,2,437
 1.0,tsp,sugar,3,437
 30.0,ml,gin,0,438
 30.0,ml,campari,1,438
-0.0,ml,lime juice,2,438
-0.0,dash,of simple syrup,3,438
+0.0,None,ounce lime juice,2,438
+0.0,None,dash of simple syrup,3,438
 0.0,None,lime twist,4,438
 30.0,ml,dry gin,0,439
 15.0,ml,green chatreuse,1,439
 15.0,ml,luxardo maraschino,2,439
 15.0,ml,lime juice,3,439
 60.0,ml,zacapa 23-year rum,0,440
-1.0,None,sp. cane sugar syrup,1,440
+1.0,None,sugar,1,440
 3.0,dash,house peychauds bitters,2,440
 1.0,dash,angostura bitters,3,440
 1.0,dash,bittermens xocolatl mole bitters,4,440
@@ -1385,17 +1372,17 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,None,lemon twist,6,440
 0.0,None,rinse glass with absinthe,7,440
 0.0,None,gin and sin 2 ounces gin,0,441
-0.0,ml,orange juice,1,441
-0.0,ml,lemon juice,2,441
+0.0,None,ounce orange juice,1,441
+22.5,ml,lemon juice,2,441
 2.0,dash,grenadine,3,441
 25.0,ml,vodka citron,0,442
 20.0,ml,triple sec,1,442
-15.0,ml,lemon juice,2,442
-45.0,ml,lemon-flavored vodka,0,443
+22.5,ml,lemon juice,2,442
+22.5,ml,lemon juice,0,443
 30.0,ml,grand marnier,1,443
-45.0,ml,lemon juice,2,443
+22.5,ml,lemon juice,2,443
 15.0,ml,orange juice,3,443
-0.0,None,lemon peel spiral,4,443
+0.0,None,lemon twist,4,443
 75.0,ml,elijah craig 12,0,444
 15.0,ml,allspice dram,1,444
 22.5,ml,lime juice,2,444
@@ -1412,7 +1399,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,mathilde poire pear liqueur,1,448
 7.5,ml,benedictine,2,448
 22.5,ml,lemon juice,3,448
-7.5,ml,simple cane sugar syrup,4,448
+7.5,ml,sugar,4,448
 1.0,dash,peychauds bitters,5,448
 60.0,ml,reposado tequila,0,449
 45.0,ml,orange juice,1,449
@@ -1426,7 +1413,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,amaretto,0,451
 45.0,ml,white crème de menthe,1,451
 2.0,dash,angostura bitters,2,451
-0.0,None,thin lemon slice,3,451
+0.0,None,lemon wedge,3,451
 22.5,ml,white rum,0,452
 22.5,ml,gin,1,452
 22.5,ml,vodka,2,452
@@ -1441,14 +1428,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,white rum,2,453
 15.0,ml,triple sec,3,453
 15.0,ml,gin,4,453
-25.0,ml,"lemon juice, fresh",5,453
+22.5,ml,lemon juice,5,453
 30.0,ml,gomme syrup,6,453
-1.0,dash,of cola,7,453
+0.0,None,cola,7,453
 30.0,ml,bourbon,0,454
 30.0,ml,light rum,1,454
 15.0,ml,white crème de cacao,2,454
 7.5,ml,crème de menthe,3,454
-45.0,ml,lemon-flavored vodka,0,455
+22.5,ml,lemon juice,0,455
 22.5,ml,chambord,1,455
 22.5,ml,cranberry juice,2,455
 30.0,ml,gin,0,456
@@ -1458,7 +1445,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,vanilla-infused tequila,0,457
 22.5,ml,citrónge  2 ounces tangerine juice,1,457
 30.0,ml,sweet-and-sour,2,457
-3.0,None,or 4 mint leaves,3,457
+4.0,None,mint leaves,3,457
 0.0,None,tangerine wheel,4,457
 0.0,None,mint sprig,5,457
 60.0,ml,17-year j. wray nephew jamaican rum,0,458
@@ -1499,7 +1486,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,blended scotch,0,465
 15.0,ml,lime juice,1,465
 150.0,ml,chilled ginger ale,2,465
-0.0,None,lemon slice,3,465
+0.0,None,lemon wedge,3,465
 60.0,ml,white rum,0,466
 30.0,ml,mandarine napoléon liqueur,1,466
 30.0,ml,monin passion fruit syrup,2,466
@@ -1507,7 +1494,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,pineapple wedge,4,466
 0.0,None,tangerine slice,5,466
 7.5,ml,mandarine napoléon,0,467
-0.0,dash,of cointreau,1,467
+0.0,None,dash of cointreau,1,467
 45.0,ml,gin,2,467
 15.0,ml,vodka,3,467
 0.0,None,mandarin or orange peel spiral,4,467
@@ -1517,7 +1504,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 3.0,dash,angostura bitters,3,469
 2.0,None,lumps of ice,4,469
 0.0,None,shake on ice and strain into claret glass,5,469
-0.0,None,garnish with quarter of a slice of lemon,6,469
+0.0,None,lemon wedge,6,469
 75.0,ml,rittenhouse rye bib,0,470
 30.0,ml,dolin rouge,1,470
 2.0,dash,angostura bitters,2,470
@@ -1542,10 +1529,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,old tom gin,0,480
 15.0,ml,sweet vermouth,1,480
 7.5,ml,maraschino liqueur,2,480
-0.0,dash,of orange bitters,3,480
+0.0,None,dash of orange bitters,3,480
 180.0,ml,gin,0,481
 180.0,ml,french vermouth,1,481
-1.0,tbsp,p. curacao or maraschino,2,481
+1.0,tbsp,curacao or maraschino,2,481
 1.25,tsp,orange bitters,3,481
 75.0,ml,vodka,0,484
 4.0,dash,dry vermouth,1,484
@@ -1606,7 +1593,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 120.0,ml,chilled ginger beer,3,501
 45.0,ml,gin,0,505
 45.0,ml,galliano,1,505
-30.0,ml,lemon juice,2,505
+22.5,ml,lemon juice,2,505
 75.0,ml,champagne,0,506
 75.0,ml,"orange juice, fresh",1,506
 45.0,ml,kahlúa,0,507
@@ -1617,25 +1604,25 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,vodka,2,508
 15.0,ml,kahlúa,3,508
 12.0,None,mint sprigs,0,510
-0.25,None,-1/2 oz. simple syrup,1,510
+0.0,None,simple syrup,1,510
 60.0,ml,bourbon,2,510
 4.0,None,sprigs mint,0,511
-0.5,tbsp,p. ppowdered sugar,1,511
+0.5,tbsp,sugar,1,511
 1.0,None,"glass bourbon, rye, or canadian whisky",2,511
 120.0,ml,kentucky bourbon,0,512
 1.0,tsp,simple syrup,1,512
 6.0,None,mint sprigs,2,512
 60.0,ml,bourbon whiskey,0,513
 4.0,None,mint sprigs,1,513
-1.0,tsp,powdered sugar,2,513
+1.0,tsp,sugar,2,513
 2.0,tsp,water,3,513
 10.0,None,sprigs mint,0,514
 1.0,tsp,sugar,1,514
 30.0,ml,spring water,2,514
 90.0,ml,bourbon,3,514
 60.0,ml,makers mark,0,515
-1.0,None,brown sugar cube,1,515
-1.0,None,white sugar cube,2,515
+1.0,None,sugar,1,515
+1.0,None,sugar,2,515
 3.0,dash,angostura bitters,3,515
 1.0,dash,peychauds bitters,4,515
 1.0,None,splash soda,5,515
@@ -1644,8 +1631,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,spring water,2,516
 90.0,ml,bourbon,3,516
 60.0,ml,makers mark,0,517
-1.0,None,brown sugar cube,1,517
-1.0,None,white sugar cube,2,517
+1.0,None,sugar,1,517
+1.0,None,sugar,2,517
 3.0,dash,angostura bitters,3,517
 1.0,dash,peychauds bitters,4,517
 1.0,None,splash soda,5,517
@@ -1659,7 +1646,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 40.0,ml,white cuban rum,0,521
 30.0,ml,lime juice,1,521
 6.0,None,mint sprigs,2,521
-2.0,tsp,white sugar,3,521
+2.0,tsp,sugar,3,521
 0.0,None,soda water,4,521
 50.0,ml,gin,0,522
 30.0,ml,orange juice,1,522
@@ -1677,7 +1664,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,fernet branca,2,526
 45.0,ml,gin,0,527
 90.0,ml,clam juice,1,527
-0.0,dash,of red pepper sauce,2,527
+0.0,None,dash of red pepper sauce,2,527
 45.0,ml,vodka,0,528
 120.0,ml,ginger beer,1,528
 5.0,ml,"lime juice, fresh",2,528
@@ -1689,11 +1676,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,tsp,simple syrup,1,530
 120.0,ml,kentucky bourbon,2,530
 3.0,None,mint sprigs,3,530
-0.0,None,* 1 strawberry,0,531
-0.0,None,* 1.5 oz. anchor junipero gin,1,531
-0.0,None,* 1 oz. st. germain,2,531
-0.0,None,* 0.75 oz. lemon juice,3,531
-0.0,None,* 0.25 oz. yellow chartreuse,4,531
+1.0,None,1 strawberry,0,531
+0.0,None,anchor junipero gin,1,531
+0.0,None,st. germain,2,531
+22.5,ml,lemon juice,3,531
+0.0,None,yellow chartreuse,4,531
 30.0,ml,vodka,0,532
 30.0,ml,kahlúa,1,532
 30.0,ml,baileys irish cream,2,532
@@ -1708,7 +1695,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,mandarine napoléon liqueur,1,534
 30.0,ml,mandarin  juice,2,534
 15.0,ml,lime juice,3,534
-1.0,tsp,superfine sugar,4,534
+1.0,tsp,sugar,4,534
 1.0,None,thinly sliced lime wheel,5,534
 45.0,ml,gold rum,0,535
 22.5,ml,apricot brandy,1,535
@@ -1726,11 +1713,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,el dorado 15-year-old rum,2,537
 22.5,ml,lime juice,3,537
 22.5,ml,grapefruit juice,4,537
-15.0,ml,honey syrup,5,537
+15.0,ml,honey,5,537
 30.0,ml,light puerto rican rum,0,538
 30.0,ml,dark jamaican rum,1,538
 30.0,ml,demerara rum,2,538
-30.0,ml,honey mix,3,538
+30.0,ml,honey,3,538
 22.5,ml,lime juice,4,538
 22.5,ml,white grapefruit juice,5,538
 22.5,ml,soda water,6,538
@@ -1754,29 +1741,29 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,mandarine napoléon liqueur,1,541
 45.0,ml,lime juice,2,541
 15.0,ml,orange juice,3,541
-1.0,tbsp,superfine sugar,4,541
+1.0,tbsp,sugar,4,541
 0.0,None,nectarine slice,5,541
 45.0,ml,bourbon,0,542
 15.0,ml,apricot brandy,1,542
 30.0,ml,grapefruit juice,2,542
-15.0,ml,lemon juice,3,542
-0.0,dash,of angostura bitters,4,542
-1.0,None,sugar cube,0,544
-0.0,dash,of peychaud’s or angostura bitters,1,544
+22.5,ml,lemon juice,3,542
+0.0,None,dash of angostura bitters,4,542
+1.0,None,sugar,0,544
+0.0,None,dash of peychaud’s or angostura bitters,1,544
 60.0,ml,bourbon,2,544
 7.5,ml,herbsaint,3,544
-15.0,ml,lemon juice,4,544
+22.5,ml,lemon juice,4,544
 0.0,None,lemon twist,5,544
 45.0,ml,bourbon,0,547
 22.5,ml,lime juice,1,547
 1.0,tsp,sugar,2,547
-0.0,dash,of grenadine,3,547
+0.0,None,dash of grenadine,3,547
 0.0,None,orange twist,4,547
 0.0,None,lemon twist,5,547
 45.0,ml,gin,0,548
 15.0,ml,brandy,1,548
 15.0,ml,peach liqueur,2,548
-0.0,dash,of lime juice,3,548
+0.0,None,dash of lime juice,3,548
 150.0,ml,chilled ginger ale,4,548
 45.0,ml,baileys irish cream,0,549
 45.0,ml,frangelico,1,549
@@ -1795,11 +1782,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,milk,3,552
 0.0,None,oaxacan chocolate powder,4,552
 0.0,None,whipped cream.,5,552
-0.0,None,* 1.5 oz. scarlet ibis rum,0,554
-0.0,None,* 0.5 oz. cruzan black strap rum,1,554
-0.0,None,* 1 oz. dolin rouge vermouth,2,554
-0.0,None,* 1 tsp lazzaroni amaretto,3,554
-0.0,None,* 1 dash fee brothers whiskey barrel-aged bitters,4,554
+0.0,None,scarlet ibis rum,0,554
+0.0,None,cruzan black strap rum,1,554
+0.0,None,dolin rouge vermouth,2,554
+1.0,tsp,lazzaroni amaretto,3,554
+1.0,dash,fee brothers whiskey barrel-aged bitters,4,554
 60.0,ml,old overholt rye whiskey,0,555
 22.5,ml,dolin dry vermouth,1,555
 22.5,ml,campari,2,555
@@ -1809,27 +1796,27 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,rittenhouse 100 rye,0,557
 22.5,ml,campari,1,557
 22.5,ml,dolin dry vermouth,2,557
-0.0,None,garnish: 1 lemon twist,3,557
+22.5,ml,lemon juice,3,557
 45.0,ml,gold rum,0,559
 15.0,ml,cranberry juice,1,559
 30.0,ml,lime juice,2,559
 0.0,None,lime wedge,3,559
-1.0,None,-2 tsp. simple syrup,0,560
-1.0,None,-3 dashes of angostura.,1,560
-2.0,None,-4 oz. whisky,2,560
-3.0,None,-4 dashes gum syrup,0,561
+0.0,None,simple syrup,0,560
+3.0,dash,es of angostura.,1,560
+0.0,None,whisky,2,560
+4.0,dash,es gum syrup,0,561
 2.0,dash,bitters,1,561
 1.0,None,wine-glass whiskey,2,561
-1.0,None,piece lemon peel,3,561
+22.5,ml,lemon juice,3,561
 60.0,ml,wild turkey rye whiskey,0,562
-1.0,None,demerara sugar cube,1,562
+1.0,None,sugar,1,562
 2.0,dash,angostura bitters,2,562
 45.0,ml,wild turkey rye,0,563
 30.0,ml,lillet blanc,1,563
 15.0,ml,lairds bonded apple brandy,2,563
 7.5,ml,green chartreuse,3,563
 3.0,dash,abbotts or angostura bitters,4,563
-1.0,None,sugar cube,0,564
+1.0,None,sugar,0,564
 3.0,dash,angostura bitters,1,564
 90.0,ml,bourbon or straight rye whiskey,2,564
 1.0,tsp,sugar,0,565
@@ -1838,13 +1825,13 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 2.0,None,maraschino cherries,3,565
 0.0,None,water or soda water,4,565
 60.0,ml,bourbon,5,565
-1.0,None,lump sugar,0,566
+1.0,None,sugar,0,566
 2.0,dash,angostura bitters,1,566
 1.0,None,glass rye or canadian club whisky,2,566
 1.5,None,parts prohibition whiskey,0,567
 0.25,None,parts rich simple syrup,1,567
 0.0,None,orange wedge,0,570
-0.0,None,superfine sugar,1,570
+0.0,None,sugar,1,570
 90.0,ml,orange-flavored vodka,2,570
 7.5,ml,lillet blanc drop of orange flower water,3,570
 0.0,None,orange peel spiral,4,570
@@ -1854,7 +1841,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,crème de noyaux,3,571
 15.0,ml,tuaca,4,571
 15.0,ml,parfait amour,5,571
-30.0,ml,lemon juice,6,571
+22.5,ml,lemon juice,6,571
 45.0,ml,gin,0,572
 30.0,ml,alizé de france passion fruit liqueur,1,572
 7.5,ml,limoncello,2,572
@@ -1868,15 +1855,15 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,dry vermouth,1,575
 15.0,ml,sweet vermouth,2,575
 1.0,tsp,white crème de menthe,3,575
-0.0,dash,of angostura bitters,4,575
+0.0,None,dash of angostura bitters,4,575
 30.0,ml,london dry gin,0,576
 30.0,ml,grapefruit juice,1,576
 15.0,ml,st. germain elderflower liqueur,2,576
-15.0,ml,lemon juice,3,576
+22.5,ml,lemon juice,3,576
 30.0,ml,mezcal,0,577
 30.0,ml,bourbon,1,577
-0.0,dash,of angostura bitters,2,577
-0.0,dash,of simple syrup,3,577
+0.0,None,dash of angostura bitters,2,577
+0.0,None,dash of simple syrup,3,577
 90.0,ml,blanco rum,0,578
 15.0,ml,maraschino liqueur,1,578
 45.0,ml,grapefruit juice,2,578
@@ -1899,7 +1886,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 20.0,ml,bourbon,0,581
 20.0,ml,amaro nonino quintessentia,1,581
 20.0,ml,aperol,2,581
-20.0,ml,lemon juice,3,581
+22.5,ml,lemon juice,3,581
 35.0,ml,gin,0,582
 20.0,ml,apricot brandy,1,582
 15.0,ml,orange juice,2,582
@@ -1908,7 +1895,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,noilly prat dry vermouth,2,583
 7.5,ml,alizé de france passion fruit liqueur,0,585
 60.0,ml,bombay sapphire gin,1,585
-0.0,None,lemon peel spiral,2,585
+0.0,None,lemon twist,2,585
 60.0,ml,ginger-infused vodka,0,588
 15.0,ml,chilled premium sake,1,588
 0.0,None,orange twist or thin slice of candied ginger,2,588
@@ -1916,11 +1903,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,melon liqueur,1,589
 30.0,ml,pineapple juice,2,589
 0.0,None,lime wedge,0,590
-0.0,None,superfine sugar,1,590
+0.0,None,sugar,1,590
 45.0,ml,cachaça or light rum,2,590
 60.0,ml,grapefruit juice,3,590
 30.0,ml,keke beach lime liqueur,4,590
-15.0,ml,lemon juice,5,590
+22.5,ml,lemon juice,5,590
 1.0,tbsp,pomegranate syrup,6,590
 0.0,None,lime twist,7,590
 60.0,ml,light rum,0,591
@@ -1940,7 +1927,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 2.0,dash,angostura bitters,3,594
 60.0,ml,blended scotch shiskey,0,595
 22.5,ml,lemon juice,1,595
-11.25,ml,honey syrup,2,595
+11.25,ml,honey,2,595
 11.25,ml,sweetened ginger juice,3,595
 45.0,ml,white crème de cacao,0,596
 30.0,ml,peppermint schnapps,1,596
@@ -1952,25 +1939,25 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 90.0,ml,pimm’s no. 1,0,598
 120.0,ml,chilled club soda,1,598
 0.0,None,cucumber spear,2,598
-0.0,None,lemon slice,3,598
+0.0,None,lemon wedge,3,598
 60.0,ml,pimms no. 1 cup,0,599
 22.5,ml,lemon juice,1,599
 15.0,ml,simple syrup,2,599
 3.0,None,cucumber slices,3,599
 0.0,None,muddle cucumber and simple syrup,4,599
-0.0,None,add pimms and lemon juice,5,599
+22.5,ml,lemon juice,5,599
 60.0,ml,pimms no. 1 cup,0,600
-180.0,ml,english-style lemonade,1,600
-0.0,None,english-style lemonade,2,600
-30.0,ml,strained lemon juice,3,600
-0.5,None,-1 oz. simple syrup,4,600
+22.5,ml,lemon juice,1,600
+22.5,ml,lemon juice,2,600
+22.5,ml,lemon juice,3,600
+0.0,None,simple syrup,4,600
 120.0,ml,club soda,5,600
 30.0,ml,white rum,0,601
 90.0,ml,pineapple juice,1,601
 30.0,ml,coconut milk,2,601
 60.0,ml,"plantation ""stiggin's fancy"" pineapple rum",0,602
 30.0,ml,lime juice,1,602
-22.5,ml,cane sugar syrup,2,602
+22.5,ml,sugar,2,602
 45.0,ml,"plantation ""stiggin's fancy"" pineapple rum",0,603
 22.5,ml,100 proof rhum agricole,1,603
 22.5,ml,lime juice,2,603
@@ -1979,13 +1966,13 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,grapefruit juice,1,604
 30.0,ml,lime juice,2,604
 1.0,tsp,sugar,3,604
-0.0,dash,of grenadine,4,604
+0.0,None,dash of grenadine,4,604
 30.0,ml,blended whiskey,0,605
 15.0,ml,crème de noyaux,1,605
 15.0,ml,amaretto,2,605
 15.0,ml,kirsch,3,605
-15.0,ml,lemon juice,4,605
-0.0,None,lemon slice,5,605
+22.5,ml,lemon juice,4,605
+0.0,None,lemon wedge,5,605
 30.0,ml,vodka,0,606
 30.0,ml,peach schnapps,1,606
 60.0,ml,cranberry juice,2,606
@@ -1994,7 +1981,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,vodka,0,608
 15.0,ml,triple sec,1,608
 30.0,ml,cranberry juice,2,608
-15.0,ml,lemon juice,3,608
+22.5,ml,lemon juice,3,608
 15.0,ml,lime juice,4,608
 150.0,ml,chilled 7-up,5,608
 0.0,None,lemon wedge,6,608
@@ -2010,8 +1997,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,crème de noyaux,1,611
 30.0,ml,heavy cream,2,611
 45.0,ml,pisco,0,612
-30.0,ml,lemon juice,1,612
-20.0,ml,sugar syrup,2,612
+22.5,ml,lemon juice,1,612
+20.0,ml,sugar,2,612
 1.0,None,raw egg white,3,612
 60.0,ml,puerto rican light rum,0,613
 180.0,ml,pineapple juice,1,613
@@ -2020,35 +2007,35 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,maraschino cherry,4,613
 60.0,ml,silver rum,0,614
 30.0,ml,aliz de france passion fruit liqueur,1,614
-0.0,cup,diced pineapple,2,614
+0.0,None,cup diced pineapple,2,614
 30.0,ml,coconut cream,3,614
 30.0,ml,mango juice or nectar,4,614
-0.0,ml,lime juice,5,614
+0.0,None,ounce lime juice,5,614
 1.0,None,pineapple slice,6,614
 1.0,None,mango slice,7,614
 0.0,None,shaved coconut,8,614
 60.0,ml,dark rum,0,615
-0.0,dash,of cointreau,1,615
+0.0,None,dash of cointreau,1,615
 45.0,ml,orange juice,2,615
 45.0,ml,pineapple juice,3,615
 15.0,ml,lime juice,4,615
 15.0,ml,simple syrup,5,615
-0.0,dash,of grenadine,6,615
+0.0,None,dash of grenadine,6,615
 0.0,None,orange slice,7,615
 0.0,None,maraschino cherry,8,615
 45.0,ml,dark rum,9,615
 35.0,ml,orange juice,10,615
 35.0,ml,pineapple juice,11,615
-20.0,ml,lemon juice,12,615
+22.5,ml,lemon juice,12,615
 10.0,ml,grenadine,13,615
-10.0,ml,sugar syrup,14,615
+10.0,ml,sugar,14,615
 4.0,dash,angostura bitters,15,615
 45.0,ml,dark rum,0,616
 35.0,ml,orange juice,1,616
 35.0,ml,pineapple juice,2,616
-20.0,ml,lemon juice,3,616
+22.5,ml,lemon juice,3,616
 10.0,ml,grenadine,4,616
-10.0,ml,sugar syrup,5,616
+10.0,ml,sugar,5,616
 4.0,dash,angostura bitters,6,616
 45.0,ml,blended whiskey,0,617
 15.0,ml,pear brandy,1,617
@@ -2075,7 +2062,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,triple sec,3,623
 0.0,None,orange twist,4,623
 0.0,None,lime wedge,0,624
-0.0,None,sugar and salt,1,624
+0.0,None,sugar,1,624
 45.0,ml,silver tequila,2,624
 30.0,ml,tuaca,3,624
 30.0,ml,prickly pear juice,4,624
@@ -2093,8 +2080,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,2,627
 0.0,None,lemon twist,3,627
 30.0,ml,lime juice,0,628
-15.0,ml,demerara sugar syrup,1,628
-4.0,None,-6 mint leaves,2,628
+15.0,ml,sugar,1,628
+6.0,None,6 mint leaves,2,628
 90.0,ml,demerara rum,3,628
 90.0,ml,demerara rum,0,630
 22.5,ml,"lime juice, plus the spent lime half",1,630
@@ -2107,63 +2094,63 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,heavy cream,1,631
 22.5,ml,simple syrup,2,631
 15.0,ml,lime juice,3,631
-15.0,ml,lemon juice,4,631
+22.5,ml,lemon juice,4,631
 5.0,drop,marivani orange rlower water,5,631
 1.0,None,egg white,6,631
-0.0,None,juice of 1/2 lemon,0,632
-0.5,tbsp,p. powdered sugar,1,632
+22.5,ml,lemon juice,0,632
+0.5,tbsp,sugar,1,632
 1.0,None,egg white,2,632
 60.0,ml,dry gin,3,632
 0.5,tsp,fleur dorange,4,632
-1.0,tbsp,p. sweet cream,5,632
-1.0,tbsp,p. powdered sugar,0,633
-3.0,None,-4 drops orange flower water,1,633
+1.0,tbsp,sweet cream,5,632
+1.0,tbsp,sugar,0,633
+4.0,drop,s orange flower water,1,633
 0.0,None,juice of 1/2 lime,2,633
-0.0,None,juice of 1/2 lemon,3,633
+22.5,ml,lemon juice,3,633
 1.0,None,jigger old tom gin,4,633
 1.0,None,egg white,5,633
 0.5,None,glass crushed ice,6,633
-2.0,tbsp,p. rich milk or cream,7,633
-30.0,ml,of seltzer,8,633
+2.0,tbsp,rich milk or cream,7,633
+0.0,None,seltzer,8,633
 45.0,ml,gin,0,634
 15.0,ml,lime juice,1,634
-15.0,ml,lemon juice,2,634
-30.0,ml,sugar syrup,3,634
+22.5,ml,lemon juice,2,634
+30.0,ml,sugar,3,634
 60.0,ml,cream,4,634
 1.0,None,egg white,5,634
 3.0,dash,orange flower water,6,634
 2.0,drop,vanilla extract,7,634
 0.0,None,soda water,8,634
-1.0,tbsp,p. powdered sugar,0,635
-3.0,None,-4 drops orange flower water,1,635
+1.0,tbsp,sugar,0,635
+4.0,drop,s orange flower water,1,635
 0.0,None,juice of 1/2 lime,2,635
-0.0,None,juice of 1/2 lemon,3,635
+22.5,ml,lemon juice,3,635
 1.0,None,jigger old tom gin,4,635
 1.0,None,egg white,5,635
 0.5,None,glass crushed ice,6,635
-2.0,tbsp,p. rich milk or cream,7,635
-30.0,ml,of seltzer,8,635
+2.0,tbsp,rich milk or cream,7,635
+0.0,None,seltzer,8,635
 0.0,None,longdrink,0,636
 45.0,ml,gin,1,636
 15.0,ml,lime juice,2,636
-15.0,ml,lemon juice,3,636
-30.0,ml,sugar syrup,4,636
+22.5,ml,lemon juice,3,636
+30.0,ml,sugar,4,636
 60.0,ml,cream,5,636
 1.0,None,egg white,6,636
 3.0,dash,orange flower water,7,636
 2.0,drop,vanilla extract,8,636
 0.0,None,soda water,9,636
-0.0,None,juice of 1/2 lemon,0,637
-0.5,tbsp,p. powdered sugar,1,637
+22.5,ml,lemon juice,0,637
+0.5,tbsp,sugar,1,637
 1.0,None,egg white,2,637
 60.0,ml,dry gin,3,637
 0.5,tsp,fleur dorange,4,637
-1.0,tbsp,p. sweet cream,5,637
+1.0,tbsp,sweet cream,5,637
 60.0,ml,beefeater gin,0,638
 22.5,ml,heavy cream,1,638
 22.5,ml,simple syrup,2,638
 15.0,ml,lime juice,3,638
-15.0,ml,lemon juice,4,638
+22.5,ml,lemon juice,4,638
 5.0,drop,marivani orange rlower water,5,638
 1.0,None,egg white,6,638
 0.25,cup,raspberries,0,640
@@ -2180,27 +2167,27 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,simple syrup,3,642
 1.0,None,egg white,4,642
 50.0,ml,rye,0,643
-20.0,ml,lemon,1,643
+22.5,ml,lemon juice,1,643
 20.0,ml,simple,2,643
 1.0,None,egg white,3,643
 60.0,ml,rittenhouse bonded rye whiskey,0,644
-30.0,ml,lemon juice,1,644
+22.5,ml,lemon juice,1,644
 22.5,ml,simple syrup,2,644
 1.0,None,egg white,3,644
 4.0,None,glasses rye whisky,0,645
 2.0,None,egg whites,1,645
-1.0,None,glass sweetened lemon juice,2,645
+22.5,ml,lemon juice,2,645
 0.0,None,a few dashes absinthe,3,645
 60.0,ml,rye whiskey,0,646
-30.0,ml,lemon juice,1,646
+22.5,ml,lemon juice,1,646
 15.0,ml,grade b maple syrup,2,646
 2.0,dash,peychaud's bitters,3,646
 15.0,ml,egg whites,4,646
-0.0,None,garnish with lemon twist,5,646
+22.5,ml,lemon juice,5,646
 60.0,ml,rye whiskey,0,647
 22.5,ml,sweet vermouth,1,647
 15.0,ml,cherry heering,2,647
-1.0,None,barspoon absinthe,3,647
+1.0,tsp,absinthe,3,647
 45.0,ml,gin,0,648
 15.0,ml,kirsch,1,648
 15.0,ml,campari,2,648
@@ -2214,7 +2201,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,scotch whiskey,0,653
 45.0,ml,italian vermouth,1,653
 2.0,dash,bitters,2,653
-0.0,None,garnish with lemon or orange peel,3,653
+22.5,ml,lemon juice,3,653
 75.0,ml,famous grouse blended scotch whisky,0,654
 0.75,None,dolin sweet vermouth,1,654
 2.0,dash,angostura orange bitters,2,654
@@ -2230,9 +2217,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 40.0,ml,dry vermouth,1,659
 3.0,dash,strawberry syrup,2,659
 75.0,ml,good-quality gin,0,660
-0.0,dash,of cointreau,1,660
-0.0,dash,of rose water,2,660
-2.0,None,or 3 rose petals,3,660
+0.0,None,dash of cointreau,1,660
+0.0,None,dash of rose water,2,660
+3.0,None,rose petals,3,660
 30.0,ml,tequila,0,661
 15.0,ml,campari,1,661
 15.0,ml,dry vermouth,2,661
@@ -2246,7 +2233,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,vanilla-infused rum,1,664
 0.0,None,half a vanilla bean,2,664
 1.0,None,part grenadine,0,665
-2.0,None,parts lemon juice,1,665
+22.5,ml,lemon juice,1,665
 4.0,None,parts gin,2,665
 4.0,None,parts apple brandy,3,665
 0.5,None,egg white,4,665
@@ -2285,10 +2272,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,ruby port,2,676
 0.0,None,freshly grated or ground nutmeg,3,676
 60.0,ml,dark rum,0,677
-15.0,ml,lemon juice,1,677
+22.5,ml,lemon juice,1,677
 15.0,ml,triple sec,2,677
 180.0,ml,chilled ginger ale,3,677
-0.0,None,lemon wheel,4,677
+0.0,None,lemon wedge,4,677
 60.0,ml,dark rum,0,678
 120.0,ml,chilled tonic water,1,678
 0.0,None,lime wedge,2,678
@@ -2300,9 +2287,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,irish cream liqueur,1,682
 22.5,ml,vodka,2,682
 25.0,ml,vodka,0,683
-25.0,ml,"lemon juice, fresh",1,683
+22.5,ml,lemon juice,1,683
 15.0,ml,crme de cassis,2,683
-10.0,ml,sugar syrup,3,683
+10.0,ml,sugar,3,683
 45.0,ml,scotch whisky,0,684
 25.0,ml,drambuie,1,684
 45.0,ml,scotch,0,685
@@ -2321,9 +2308,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,sloe gin,0,689
 30.0,ml,dry vermouth,1,689
 30.0,ml,sweet vermouth,2,689
-0.0,dash,of peychaud’s bitters,3,689
+0.0,None,dash of peychaud’s bitters,3,689
 0.0,None,maraschino cherry,4,689
-15.0,ml,lemon juice,0,691
+22.5,ml,lemon juice,0,691
 15.0,ml,passion fruit syrup,1,691
 7.5,ml,falernum,2,691
 7.5,ml,orgeat,3,691
@@ -2332,8 +2319,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,rittenhouse bonded rye whiskey,0,693
 3.0,dash,peychauds bitters,1,693
 2.0,dash,angostura bitters,2,693
-1.0,None,demerara sugar cube,3,693
-1.0,tsp,sugar syrup,0,694
+1.0,None,sugar,3,693
+1.0,tsp,sugar,0,694
 3.0,dash,peychaud bitters,1,694
 2.0,None,5 oz. whisky,2,694
 30.0,ml,vs cognac,0,695
@@ -2345,9 +2332,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,simple syrup,1,696
 50.0,ml,cognac,0,697
 10.0,ml,absinthe,1,697
-1.0,None,sugar cube,2,697
+1.0,None,sugar,2,697
 2.0,dash,peychauds bitters,3,697
-1.0,None,lump sugar,0,698
+1.0,None,sugar,0,698
 1.0,dash,angostura or peychauds bitters,1,698
 60.0,ml,glass rye or canadian whisky,2,698
 0.5,tsp,sugar,0,700
@@ -2359,11 +2346,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,southern comfort,0,702
 60.0,ml,cranberry juice,1,702
 15.0,ml,lime juice,2,702
-15.0,ml,lemon juice,3,702
+22.5,ml,lemon juice,3,702
 1.0,tsp,sugar,4,702
 60.0,ml,bourbon or straight rye whiskey,0,703
 30.0,ml,dry vermouth,1,703
-15.0,ml,lemon jjuice,2,703
+22.5,ml,lemon juice,2,703
 7.5,ml,grenadine,3,703
 0.0,None,orange bitters to taste,4,703
 45.0,ml,rye whiskey,0,704
@@ -2374,7 +2361,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,brandy,1,706
 15.0,ml,dry vermouth,2,706
 45.0,ml,orange juice,3,706
-45.0,ml,lemon juice,4,706
+22.5,ml,lemon juice,4,706
 15.0,ml,orgeat syrup,5,706
 0.0,None,pineapple spear,6,706
 0.0,None,maraschino cherry,7,706
@@ -2386,7 +2373,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,drambuie,2,711
 0.0,None,freshly grated or ground nutmeg,3,711
 60.0,ml,scotch,0,713
-0.0,None,lemon peel,1,713
+22.5,ml,lemon juice,1,713
 22.5,ml,kahlúa,0,714
 22.5,ml,irish cream liqueur,1,714
 22.5,ml,amaretto,2,714
@@ -2406,7 +2393,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,gin,0,719
 15.0,ml,sherry,1,719
 15.0,ml,orange juice,2,719
-15.0,ml,lemon juice,3,719
+22.5,ml,lemon juice,3,719
 2.0,tsp,sugar,4,719
 40.0,ml,vodka,0,720
 20.0,ml,peach schnapps,1,720
@@ -2425,16 +2412,16 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,maraschino cherry,3,723
 2.0,None,pineapple wedges,0,724
 2.0,None,orange slices,1,724
-2.0,None,lemon wedges,2,724
+2.0,None,lemon wedge,2,724
 15.0,ml,maraschino liqueur,3,724
 90.0,ml,medium sherry,4,724
-15.0,ml,lemon juice,5,724
+22.5,ml,lemon juice,5,724
 60.0,ml,orange juice,6,724
-0.0,None,"muddle skinless pineapple wedge, 1 orange piece, 1 lemon piece with maraschino liqueur",7,724
+22.5,ml,lemon juice,7,724
 0.0,None,add sherry and juices,8,724
 120.0,ml,sherry,0,725
-1.0,tbsp,p. sugar,1,725
-2.0,None,or 3 orange slices,2,725
+1.0,tbsp,sugar,1,725
+3.0,None,orange slices,2,725
 120.0,ml,lustau amontillado sherry,0,726
 15.0,ml,cane syrup,1,726
 2.0,None,orange slices,2,726
@@ -2446,7 +2433,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wedge,5,728
 50.0,ml,cognac,0,729
 20.0,ml,triple sec,1,729
-20.0,ml,lemon juice,2,729
+22.5,ml,lemon juice,2,729
 60.0,ml,remy martin vsop cognac,0,730
 22.5,ml,cointreau,1,730
 22.5,ml,lemon juice,2,730
@@ -2455,7 +2442,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,white crème de cacao,1,732
 30.0,ml,heavy cream,2,732
 7.5,ml,chambord,3,732
-0.0,pinch,of cinnamon,4,732
+0.0,None,pinch of cinnamon,4,732
 45.0,ml,gin,0,733
 22.5,ml,kümmel,1,733
 22.5,ml,lemon juice,2,733
@@ -2473,8 +2460,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lemon twist,2,736
 45.0,ml,baileys irish cream,0,737
 45.0,ml,sambuca,1,737
-1.0,tbsp,p. sugar syrup,0,738
-0.0,None,juice of 1 lemon,1,738
+1.0,tbsp,sugar,0,738
+22.5,ml,lemon juice,1,738
 1.5,None,jiggers gin,2,738
 30.0,ml,plymouth sloe gin,0,739
 30.0,ml,plymouth gin,1,739
@@ -2482,15 +2469,15 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,simple syrup,3,739
 0.0,None,add 3 oz. club soda,4,739
 75.0,ml,sloe gin,0,740
-30.0,ml,lemon juice,1,740
+22.5,ml,lemon juice,1,740
 15.0,ml,simple syrup,2,740
 0.0,None,club soda,3,740
-1.0,tsp,powdered white sugar,0,742
-3.0,dash,lemon juice,1,742
+1.0,tsp,sugar,0,742
+22.5,ml,lemon juice,1,742
 60.0,ml,holland gin,2,742
 0.0,None,ruby fizz,0,743
-0.0,None,the juice of 1/2 lemon,1,743
-0.5,tbsp,p. powdered sugar,2,743
+22.5,ml,lemon juice,1,743
+0.5,tbsp,sugar,2,743
 1.0,None,egg white,3,743
 2.0,dash,raspberry or grenadine syrup,4,743
 1.0,None,glass sloe gin,5,743
@@ -2524,7 +2511,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,small handful mint,3,756
 60.0,ml,mezcal,0,762
 30.0,ml,grand marnier,1,762
-0.0,pinch,of instant coffee,2,762
+0.0,None,pinch of instant coffee,2,762
 60.0,ml,spiced rum,0,764
 15.0,ml,chocolate liqueur,1,764
 0.0,None,orange twist,2,764
@@ -2541,18 +2528,18 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 3.0,None,"sliced, hulled strawberries",4,770
 1.0,None,strawberry,5,770
 1.0,None,lime wheel,6,770
-45.0,ml,lemon-flavored vodka,0,771
+22.5,ml,lemon juice,0,771
 30.0,ml,midori,1,771
 30.0,ml,grapefruit juice,2,771
 60.0,ml,"rye, bourbon, or blended canadian whisky",0,772
 30.0,ml,sweet vermouth,1,772
 3.0,dash,angostura bitters,2,772
 0.0,None,lemon twist,3,772
-0.0,None,* 2 fuji apple slices,0,773
-0.0,None,* 2 oz. old overholt rye whiskey,1,773
-0.0,None,* 0.5 oz. dolin dry vermouth,2,773
-0.0,None,* 0.5 oz. amaro nonino,3,773
-0.0,None,* 1 tsp maple syrup,4,773
+2.0,None,2 fuji apple slices,0,773
+0.0,None,old overholt rye whiskey,1,773
+0.0,None,dolin dry vermouth,2,773
+0.0,None,amaro nonino,3,773
+1.0,tsp,maple syrup,4,773
 45.0,ml,gin,0,774
 15.0,ml,campari,1,774
 15.0,ml,sweet vermouth,2,774
@@ -2560,8 +2547,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,orange twist,4,774
 60.0,ml,silver tequila,0,777
 30.0,ml,lime juice,1,777
-0.0,dash,of grenadine,2,777
-0.0,dash,of orange flower water,3,777
+0.0,None,dash of grenadine,2,777
+0.0,None,dash of orange flower water,3,777
 45.0,ml,tequila,0,778
 7.5,ml,kahlúa,1,778
 60.0,ml,pineapple juice,2,778
@@ -2573,7 +2560,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 90.0,ml,chilled club soda,3,779
 60.0,ml,silver tequila,0,780
 30.0,ml,pernod,1,780
-15.0,ml,lemon juice,2,780
+22.5,ml,lemon juice,2,780
 60.0,ml,silver tequila,0,781
 15.0,ml,white crème de menthe,1,781
 30.0,ml,lime juice,2,781
@@ -2594,7 +2581,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,orange slice,3,785
 60.0,ml,good-quality silver tequila,0,786
 3.0,dash,dry vermouth,1,786
-0.0,dash,of angostura bitters,2,786
+0.0,None,dash of angostura bitters,2,786
 0.0,None,lemon twist,3,786
 7.5,ml,cabernet sauvignon,0,789
 45.0,ml,premium silver tequila,1,789
@@ -2607,7 +2594,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,demerara rum,1,792
 15.0,ml,lime juice,2,792
 15.0,ml,orange juice,3,792
-15.0,ml,honey mix,4,792
+15.0,ml,honey,4,792
 15.0,ml,falernum,5,792
 7.5,ml,pimento dram,6,792
 180.0,ml,crushed ice,7,792
@@ -2616,7 +2603,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,2,793
 15.0,ml,amaretto,3,793
 1.0,tbsp,coconut cream,4,793
-1.0,tsp,superfine sugar,5,793
+1.0,tsp,sugar,5,793
 0.0,None,lime slice,6,793
 0.0,None,small orchid,7,793
 30.0,ml,dark rum,0,794
@@ -2628,12 +2615,12 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,kahlúa,1,795
 15.0,ml,baileys irish cream,2,795
 45.0,ml,cold espresso,3,795
-0.0,pinch,of ground cinnamon,4,795
+0.0,None,pinch of ground cinnamon,4,795
 0.0,None,a tequila take on the sidecar.,0,796
 0.0,None,lemon wedge,1,796
 0.0,None,sugar,2,796
 60.0,ml,reposado tequila,3,796
-30.0,ml,lemon juice,4,796
+22.5,ml,lemon juice,4,796
 30.0,ml,orange juice,5,796
 30.0,ml,cointreau,6,796
 15.0,ml,simple syrup,7,796
@@ -2655,10 +2642,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.5,tsp,wasabi,2,800
 0.5,tsp,minced garlic,3,800
 4.0,dash,soy sauce,4,800
-15.0,ml,lemon juice,5,800
-0.0,pinch,of freshly cracked pepper,6,800
+22.5,ml,lemon juice,5,800
+0.0,None,pinch of freshly cracked pepper,6,800
 60.0,ml,vodka  3 ounces chilled tomato juice,7,800
-0.0,None,lemongrass stalk,8,800
+22.5,ml,lemon juice,8,800
 1.0,None,egg,0,801
 15.0,ml,simple syrup,1,801
 30.0,ml,dark rum,2,801
@@ -2683,14 +2670,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,white rum,0,809
 15.0,ml,brandy,1,809
 15.0,ml,rye whiskey,2,809
-15.0,ml,lemon juice,3,809
+22.5,ml,lemon juice,3,809
 15.0,ml,grenadine,4,809
 60.0,ml,rye,0,811
 15.0,ml,bénédictine,1,811
-7.5,ml,lemon juice,2,811
+22.5,ml,lemon juice,2,811
 7.5,ml,lime juice,3,811
 7.5,ml,simple syrup,4,811
-0.0,None,thin slice of lemon,5,811
+0.0,None,lemon wedge,5,811
 45.0,ml,silver tequila,0,813
 60.0,ml,tomato juice,1,813
 30.0,ml,orange juice,2,813
@@ -2714,14 +2701,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,gin,0,816
 30.0,ml,cointreau,1,816
 7.5,ml,simple syrup,2,816
-0.0,dash,of peychaud’s bitters,3,816
+0.0,None,dash of peychaud’s bitters,3,816
 8.0,None,raspberries,4,816
 60.0,ml,vodka,0,817
 30.0,ml,banana liqueur,1,817
 150.0,ml,chilled ginger ale,2,817
 0.5,tsp,bénédictine,0,819
-0.0,dash,of peychaud’s bitters,1,819
-0.0,dash,of angostura bitters,2,819
+0.0,None,dash of peychaud’s bitters,1,819
+0.0,None,dash of angostura bitters,2,819
 15.0,ml,rye,3,819
 15.0,ml,cognac,4,819
 15.0,ml,sweet vermouth,5,819
@@ -2758,10 +2745,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,bourbon,0,829
 22.5,ml,pernod,1,829
 15.0,ml,sweet vermouth,2,829
-0.0,dash,of angostura bitters,3,829
+0.0,None,dash of angostura bitters,3,829
 45.0,ml,bourbon,0,830
 15.0,ml,galliano,1,830
-30.0,ml,lemon juice,2,830
+22.5,ml,lemon juice,2,830
 1.0,tsp,sugar,3,830
 0.0,None,mint sprig,4,830
 45.0,ml,vodka,0,831
@@ -2769,16 +2756,16 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,walnut liqueur,2,831
 0.0,None,orange twist,3,831
 60.0,ml,rye whiskey,0,832
-15.0,ml,lemon juice,1,832
+22.5,ml,lemon juice,1,832
 15.0,ml,orange juice,2,832
 1.0,tsp,grenadine,3,832
 60.0,ml,rittenhouse bonded rye whiskey,0,834
-15.0,ml,lemon juice,1,834
+22.5,ml,lemon juice,1,834
 15.0,ml,orange juice,2,834
 7.5,ml,simple syrup,3,834
-1.0,None,barspoon al wadi pomegranate molasses,4,834
-0.0,None,juice of 1 lemon,0,835
-1.0,None,barspoon superfine sugar,1,835
+1.0,tsp,al wadi pomegranate molasses,4,834
+22.5,ml,lemon juice,0,835
+1.0,tsp,sugar,1,835
 90.0,ml,rye wiskey,2,835
 1.0,None,sprig of mint,3,835
 60.0,ml,bourbon whiskey,0,836
@@ -2787,21 +2774,21 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,grenadine,3,836
 60.0,ml,straight rye whiskey,0,837
 30.0,ml,orange juice,1,837
-30.0,ml,lemon juice,2,837
+22.5,ml,lemon juice,2,837
 60.0,ml,bourbon,0,838
 15.0,ml,orange juice,1,838
-15.0,ml,lemon juice,2,838
+22.5,ml,lemon juice,2,838
 15.0,ml,grenadine,3,838
 60.0,ml,bourbon,0,840
-30.0,ml,lemon juice,1,840
+22.5,ml,lemon juice,1,840
 30.0,ml,orange juice,2,840
-0.0,dash,of grenadine,3,840
+0.0,None,dash of grenadine,3,840
 0.0,None,maraschino cherry,4,840
 0.0,None,orange slice,5,840
-0.0,None,lemon slice,6,840
+0.0,None,lemon wedge,6,840
 60.0,ml,bourbon,0,841
 0.0,None,angostura bitters,1,841
-0.0,None,sugar cube,2,841
+0.0,None,sugar,2,841
 0.0,None,orange slice,3,841
 0.0,None,maraschino cherry,4,841
 0.0,None,splash of club soda,5,841
@@ -2809,7 +2796,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1900.0,ml,lager,0,842
 950.0,ml,rum,1,842
 150.0,ml,simple syrup,2,842
-90.0,ml,lemon juice,3,842
+22.5,ml,lemon juice,3,842
 1.0,tsp,nutmeg,4,842
 1.0,tsp,ginger,5,842
 0.0,None,fruit,6,842
@@ -2823,7 +2810,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,3,844
 45.0,ml,blended whiskey,0,845
 22.5,ml,mandarine napoléon liqueur,1,845
-7.5,ml,lemon juice,2,845
+22.5,ml,lemon juice,2,845
 7.5,ml,simple syrup,3,845
 150.0,ml,chilled club soda,4,845
 0.0,None,orange slice,5,845
@@ -2837,7 +2824,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,pineapple juice,4,847
 0.0,None,freshly grated or ground nutmeg,5,847
 60.0,ml,blended or other whiskey,0,849
-30.0,ml,lemon juice,1,849
+22.5,ml,lemon juice,1,849
 15.0,ml,simple syrup,2,849
 150.0,ml,chilled club soda,3,849
 0.0,None,lemon wedge,4,849
@@ -2849,18 +2836,18 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,bourbon,0,851
 22.5,ml,lemon juice,1,851
 15.0,ml,simple syrup,2,851
-0.0,None,lemon or orange slice,3,851
+22.5,ml,lemon juice,3,851
 0.0,None,maraschino cherry,4,851
 45.0,ml,bourbon whiskey,0,852
-30.0,ml,lemon juice,1,852
-15.0,ml,sugar syrup,2,852
+22.5,ml,lemon juice,1,852
+15.0,ml,sugar,2,852
 45.0,ml,vodka,0,854
 22.5,ml,crème de cacao,1,854
 60.0,ml,pineapple juice,2,854
 22.5,ml,heavy cream,3,854
 40.0,ml,gin,0,855
 30.0,ml,triple sec,1,855
-20.0,ml,lemon juice,2,855
+22.5,ml,lemon juice,2,855
 60.0,ml,vodka,0,858
 30.0,ml,kahlúa,1,858
 30.0,ml,heavy cream,2,858
@@ -2872,7 +2859,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,benedictine,2,861
 2.0,dash,angostura bitters,3,861
 2.0,None,orange wedges,0,862
-2.0,None,lemon wedges,1,862
+2.0,None,lemon wedge,1,862
 60.0,ml,bourbon,2,862
 15.0,ml,cointreau,3,862
 2.0,dash,chocolate bitters,4,862
