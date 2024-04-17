@@ -1877,12 +1877,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,lime wheel,5,427
 0.0,None,papaya slice,6,427
 0.0,None,mint sprig,7,427
-0.0,None,makes 4 servings,0,428
-2.0,cup,cubed ripe papaya,1,428
-180.0,ml,sweet-and-sour,2,428
-180.0,ml,silver tequila,3,428
-60.0,ml,damiana liqueur,4,428
-4.0,None,lime wedges,5,428
+2.0,cup,cubed ripe papaya,0,428
+180.0,ml,sweet-and-sour,1,428
+180.0,ml,silver tequila,2,428
+60.0,ml,damiana liqueur,3,428
+4.0,None,lime wedges,4,428
 20.0,ml,bourbon,0,429
 20.0,ml,amaro nonino quintessentia,1,429
 20.0,ml,aperol,2,429
