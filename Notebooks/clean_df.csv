@@ -723,7 +723,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.0,None,calvados,2,164
 0.0,None,hine h cognac,3,164
 1.0,tsp,rich demerara syrup,4,164
-2.0,dash,es angostura bitters,5,164
+0.0,None,angostura bitters,5,164
 1.0,dash,bittermens xocolatl mole bitters,6,164
 75.0,ml,gin,0,165
 15.0,ml,rose’s lime juice,1,165
@@ -1802,9 +1802,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lime juice,2,410
 0.0,None,lime wedge,3,410
 0.0,None,simple syrup,0,411
-3.0,dash,es of angostura.,1,411
+0.0,None,of angostura.,1,411
 0.0,None,whisky,2,411
-4.0,dash,es gum syrup,0,412
+0.0,None,gum syrup,0,412
 2.0,dash,bitters,1,412
 1.0,None,wine-glass whiskey,2,412
 22.5,ml,lemon juice,3,412
