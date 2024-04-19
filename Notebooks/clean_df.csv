@@ -1148,7 +1148,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,grapefruit juice,4,263
 1.0,tsp,sugar,5,263
 30.0,ml,sugar,0,264
-90.0,ml,sselected liquor,1,264
+90.0,ml,selected liquor,1,264
 3.0,None,cloves,2,264
 1.0,dash,ground cinnamon,3,264
 15.0,ml,"brandy, rum, or both",0,265
