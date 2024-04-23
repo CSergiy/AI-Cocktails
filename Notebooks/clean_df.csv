@@ -42,7 +42,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,yellow chartreuse,1,9
 67.5,ml,gin,0,10
 22.5,ml,yellow chartreuse,1,10
-2.0,dash,orange bitter,2,10
+2.0,dash,orange bitters,2,10
 30.0,ml,cognac,0,11
 30.0,ml,crme de cacao,1,11
 30.0,ml,cream,2,11
@@ -254,7 +254,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,tanqueray gin,0,60
 30.0,ml,dolin sweet vermouth,1,60
 30.0,ml,green chartreuse,2,60
-1.0,dash,house orange bitters,3,60
+1.0,dash,orange bitters,3,60
 45.0,ml,gin,0,61
 22.5,ml,sweet vermouth,1,61
 22.5,ml,green chartreuse,2,61
@@ -435,7 +435,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,b&b,1,98
 45.0,ml,lemon wedge,2,98
 1.0,tsp,egg white,3,98
-2.0,dash,angostura orange bitters,4,98
+2.0,dash,orange bitters,4,98
 45.0,ml,gold tequila,0,99
 30.0,ml,kahlúa,1,99
 30.0,ml,rye,0,100
@@ -628,7 +628,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,dolin dry vermouth,0,143
 22.5,ml,benedictine,1,143
 7.5,ml,vieux pontarlier absinthe,2,143
-1.0,dash,house orange bitters,3,143
+1.0,dash,orange bitters,3,143
 45.0,ml,bourbon,0,144
 30.0,ml,brandy,1,144
 15.0,ml,triple sec,2,144
@@ -1918,7 +1918,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,orange curaçao,1,437
 22.5,ml,lime juice,2,437
 1.0,dash,angostura bitters,3,437
-1.0,dash,regan's orange bitters,4,437
+1.0,dash,orange bitters,4,437
 45.0,ml,gin,0,438
 15.0,ml,cointreau,1,438
 22.5,ml,lime juice,2,438
@@ -2202,7 +2202,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,3,490
 75.0,ml,famous grouse blended scotch whisky,0,491
 0.75,None,dolin sweet vermouth,1,491
-2.0,dash,angostura orange bitters,2,491
+2.0,dash,orange bitters,2,491
 75.0,ml,scotch,0,492
 30.0,ml,sweet vermouth,1,492
 2.0,dash,angostura bitters,2,492
@@ -2263,7 +2263,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,lemon twist,2,507
 60.0,ml,el dorado 12 year old rum,0,508
 30.0,ml,sweet vermouth,1,508
-1.0,dash,regans orange bitters,2,508
+1.0,dash,orange bitters,2,508
 1.0,dash,angostura bitters,3,508
 60.0,ml,dark rum,0,509
 15.0,ml,cointreau,1,509
@@ -2350,7 +2350,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,dry vermouth,1,530
 22.5,ml,lemon juice,2,530
 7.5,ml,grenadine,3,530
-,None,orange bitters to taste,4,530
+,None,orange bitters,4,530
 45.0,ml,rye whiskey,0,531
 30.0,ml,dry vermouth,1,531
 22.5,ml,lemon juice,2,531
