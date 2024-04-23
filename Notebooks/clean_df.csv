@@ -748,7 +748,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,dash,absinthe,4,169
 22.5,ml,beefeater gin,0,170
 22.5,ml,lillet blanc,1,170
-22.5,ml,marie brizard orange curacao,2,170
+22.5,ml,orange curaçao,2,170
 22.5,ml,lemon juice,3,170
 40.0,ml,citron vodka,0,171
 15.0,ml,cointreau,1,171
@@ -1450,18 +1450,18 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,17-year j. wray nephew jamaican rum,0,331
 22.5,ml,lime juice,1,331
 15.0,ml,french garnier orgeat,2,331
-15.0,ml,holland dekuyper orange curaao,3,331
+15.0,ml,orange curaçao,3,331
 7.5,ml,rock candy syrup,4,331
 ,None,shake on ice and strain,5,331
 ,None,garnish with mint sprig,6,331
 40.0,ml,white rum,0,332
 20.0,ml,dark rum,1,332
-15.0,ml,orange curaao,2,332
+15.0,ml,orange curaçao,2,332
 15.0,ml,orgeat syrup,3,332
 22.5,ml,lime juice,4,332
 60.0,ml,premium aged rum,0,333
 22.5,ml,lime juice,1,333
-15.0,ml,orange curaao,2,333
+15.0,ml,orange curaçao,2,333
 7.5,ml,rock candy syrup,3,333
 7.5,ml,orgeat almond syrup,4,333
 45.0,ml,myers’s dark or other dark jamaican rum,0,334
@@ -1721,7 +1721,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,white grapefruit juice,5,394
 22.5,ml,soda water,6,394
 45.0,ml,dussers  navy rum,0,395
-30.0,ml,orange curaao,1,395
+30.0,ml,orange curaçao,1,395
 22.5,ml,lime juice,2,395
 60.0,ml,water,3,395
 60.0,ml,orange juice,4,395
@@ -1915,7 +1915,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,4,436
 ,None,maraschino cherry,5,436
 60.0,ml,gin,0,437
-22.5,ml,orange curaao,1,437
+22.5,ml,orange curaçao,1,437
 22.5,ml,lime juice,2,437
 1.0,dash,angostura bitters,3,437
 1.0,dash,regan's orange bitters,4,437
