@@ -1472,7 +1472,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,5,334
 15.0,ml,orange juice,6,334
 1.0,None,orange blossom,7,334
-1.0,None,orange peel spiral,8,334
+1.0,None,orange twist,8,334
 60.0,ml,flor de cana gold rum,0,335
 22.5,ml,lime juice,1,335
 22.5,ml,turbinado syrup,2,335
@@ -1496,7 +1496,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,dash,cointreau,1,338
 45.0,ml,gin,2,338
 15.0,ml,vodka,3,338
-,None,mandarin or orange peel spiral,4,338
+,None,orange twist,4,338
 2.0,dash,curacao or maraschino,0,339
 30.0,ml,rye whiskey,1,339
 60.0,ml,vermouth,2,339
@@ -1833,7 +1833,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,sugar,1,419
 90.0,ml,orange-flavored vodka,2,419
 7.5,ml,lillet blanc drop of orange flower water,3,419
-,None,orange peel spiral,4,419
+,None,orange twist,4,419
 ,None,lemon wedge,0,420
 ,None,sugar,1,420
 60.0,ml,gin,2,420
