@@ -1820,7 +1820,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 90.0,ml,bourbon or straight rye whiskey,2,415
 1.0,tsp,sugar,0,416
 2.0,dash,angostura bitters,1,416
-2.0,None,orange slices,2,416
+2.0,None,orange slice,2,416
 2.0,None,maraschino cherries,3,416
 ,None,water or soda water,4,416
 60.0,ml,bourbon,5,416
@@ -2409,7 +2409,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,heavy cream,2,545
 ,None,maraschino cherry,3,545
 2.0,None,pineapple wedges,0,546
-2.0,None,orange slices,1,546
+2.0,None,orange slice,1,546
 2.0,None,lemon wedge,2,546
 15.0,ml,maraschino liqueur,3,546
 90.0,ml,medium sherry,4,546
@@ -2419,10 +2419,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,add sherry and juices,8,546
 120.0,ml,sherry,0,547
 1.0,tbsp,sugar,1,547
-3.0,None,orange slices,2,547
+3.0,None,orange slice,2,547
 120.0,ml,lustau amontillado sherry,0,548
 15.0,ml,cane syrup,1,548
-2.0,None,orange slices,2,548
+2.0,None,orange slice,2,548
 60.0,ml,gold tequila,0,549
 15.0,ml,apricot brandy,1,549
 22.5,ml,lime juice,2,549
