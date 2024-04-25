@@ -1101,7 +1101,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,galliano,2,253
 45.0,ml,vodka,3,253
 15.0,ml,galliano,4,253
-90.0,ml,"orange juice""",5,253
+90.0,ml,orange juice,5,253
 45.0,ml,gold rum,0,254
 22.5,ml,cointreau,1,254
 22.5,ml,lemon juice,2,254
@@ -1594,7 +1594,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,galliano,1,363
 22.5,ml,lemon juice,2,363
 75.0,ml,champagne,0,364
-75.0,ml,"orange juice, fresh",1,364
+75.0,ml,orange juice,1,364
 45.0,ml,kahlúa,0,365
 45.0,ml,vodka,1,365
 90.0,ml,chilled club soda,2,365
@@ -1896,7 +1896,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,lemon twist,2,432
 60.0,ml,ginger-infused vodka,0,433
 15.0,ml,chilled premium sake,1,433
-,None,orange twist or thin slice of candied ginger,2,433
+,None,orange twist,2,433
 45.0,ml,vodka,0,434
 22.5,ml,melon liqueur,1,434
 30.0,ml,pineapple juice,2,434
