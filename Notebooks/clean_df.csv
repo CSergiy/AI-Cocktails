@@ -272,7 +272,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,pepper-infused tequila,2,64
 22.5,ml,triple sec or other orange liqueur,3,64
 45.0,ml,sweet-and-sour,4,64
-0.5,cup,"washed, stemmed, halved orange cherry tomatoes",5,64
+0.5,cup,orange cherry tomatoes,5,64
 1.0,None,"clove garlic, finely minced",6,64
 1.0,None,chopped green onion,7,64
 3.0,dash,worcestershire sauce,8,64
