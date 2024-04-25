@@ -1829,7 +1829,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,None,glass rye or canadian club whisky,2,417
 1.5,None,parts prohibition whiskey,0,418
 0.25,None,parts rich simple syrup,1,418
-,None,orange wedge,0,419
+,None,orange slice,0,419
 ,None,sugar,1,419
 90.0,ml,orange-flavored vodka,2,419
 7.5,ml,lillet blanc drop of orange flower water,3,419
@@ -2856,7 +2856,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,yellow chartreuse,1,646
 7.5,ml,benedictine,2,646
 2.0,dash,angostura bitters,3,646
-2.0,None,orange wedges,0,647
+2.0,None,orange slice,0,647
 2.0,None,lemon wedge,1,647
 60.0,ml,bourbon,2,647
 15.0,ml,cointreau,3,647
