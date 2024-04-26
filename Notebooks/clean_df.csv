@@ -394,7 +394,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,sweet vermouth,2,89
 ,None,lemon wedge,0,90
 60.0,ml,bourbon,1,90
-150.0,ml,chilled ginger ale,2,90
+150.0,ml,ginger ale,2,90
 ,None,lemon wedge,0,91
 ,None,sugar,1,91
 ,None,lemon twist,2,91
@@ -415,7 +415,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,bourbon,0,94
 15.0,ml,apricot brandy,1,94
 22.5,ml,lemon juice,2,94
-180.0,ml,chilled ginger ale,3,94
+180.0,ml,ginger ale,3,94
 ,None,lemon wedge,4,94
 60.0,ml,bourbon,0,95
 30.0,ml,dark crème de cacao,1,95
@@ -632,7 +632,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,bourbon,0,144
 30.0,ml,brandy,1,144
 15.0,ml,triple sec,2,144
-120.0,ml,chilled ginger ale,3,144
+120.0,ml,ginger ale,3,144
 22.5,ml,lime juice,0,145
 1.0,tbsp,honey,1,145
 30.0,ml,damiana liqueur,2,145
@@ -807,7 +807,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,irish whiskey,0,185
 22.5,ml,drambuie,1,185
 22.5,ml,lemon juice,2,185
-120.0,ml,chilled ginger ale,3,185
+120.0,ml,ginger ale,3,185
 ,None,lemon twist,4,185
 30.0,ml,gin,0,186
 22.5,ml,campari,1,186
@@ -827,7 +827,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,2,189
 30.0,ml,cointreau,3,189
 60.0,ml,single-malt scotch,0,190
-30.0,ml,canton ginger liqueur,1,190
+30.0,ml,ginger liqueur,1,190
 ,None,lemon twist,2,190
 30.0,ml,gin,0,191
 30.0,ml,cognac,1,191
@@ -851,7 +851,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,gin,0,194
 15.0,ml,cherry brandy,1,194
 90.0,ml,orange juice,2,194
-150.0,ml,chilled ginger beer,3,194
+150.0,ml,ginger beer,3,194
 ,None,orange slice,4,194
 60.0,ml,rye whiskey,0,195
 15.0,ml,apple brandy,1,195
@@ -899,7 +899,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,0,204
 45.0,ml,tequila,1,204
 15.0,ml,crème de cassis,2,204
-120.0,ml,chilled ginger ale,3,204
+120.0,ml,ginger ale,3,204
 45.0,ml,vodka,0,205
 15.0,ml,blue curaçao,1,205
 60.0,ml,sweet-and-sour,2,205
@@ -946,7 +946,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,orange juice,3,213
 60.0,ml,gin,0,214
 22.5,ml,lime juice,1,214
-150.0,ml,chilled ginger ale or ginger beer,2,214
+150.0,ml,ginger ale,2,214
 22.5,ml,lime juice,3,214
 45.0,ml,silver tequila,0,215
 150.0,ml,orange juice,1,215
@@ -1032,8 +1032,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,citron vodka,1,237
 30.0,ml,cointreau,2,237
 7.5,ml,brandy,3,237
-4.0,None,thin slices of ginger,4,237
-,None,candied ginger slice,5,237
+4.0,None,ginger,4,237
+,None,ginger,5,237
 60.0,ml,siete leguas reposado tequila,0,238
 22.5,ml,lime juice,1,238
 15.0,ml,vanilla syrup,2,238
@@ -1484,7 +1484,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,8,335
 60.0,ml,blended scotch,0,336
 22.5,ml,lime juice,1,336
-150.0,ml,chilled ginger ale,2,336
+150.0,ml,ginger ale,2,336
 ,None,lemon wedge,3,336
 60.0,ml,white rum,0,337
 30.0,ml,mandarine napoléon liqueur,1,337
@@ -1581,7 +1581,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,gold tequila,0,360
 22.5,ml,lime juice,1,360
 1.0,tsp,simple syrup,2,360
-120.0,ml,chilled ginger ale,3,360
+120.0,ml,ginger ale,3,360
 60.0,ml,tequila,0,361
 22.5,ml,lime juice,1,361
 90.0,ml,chilled cola,2,361
@@ -1589,7 +1589,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,mezcal,0,362
 22.5,ml,lime juice,1,362
 1.0,tsp,simple syrup,2,362
-120.0,ml,chilled ginger beer,3,362
+120.0,ml,ginger beer,3,362
 45.0,ml,gin,0,363
 45.0,ml,galliano,1,363
 22.5,ml,lemon juice,2,363
@@ -1763,7 +1763,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,brandy,1,401
 15.0,ml,peach liqueur,2,401
 22.5,ml,lime juice,3,401
-150.0,ml,chilled ginger ale,4,401
+150.0,ml,ginger ale,4,401
 45.0,ml,baileys irish cream,0,402
 45.0,ml,frangelico,1,402
 75.0,ml,vodka,0,403
@@ -2256,10 +2256,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 90.0,ml,cranberry juice,1,505
 30.0,ml,pineapple juice,2,505
 75.0,ml,light rum,0,506
-180.0,ml,chilled ginger ale,1,506
+180.0,ml,ginger ale,1,506
 ,None,lemon twist,2,506
 75.0,ml,dark rum,0,507
-180.0,ml,chilled ginger ale,1,507
+180.0,ml,ginger ale,1,507
 ,None,lemon twist,2,507
 60.0,ml,el dorado 12 year old rum,0,508
 30.0,ml,sweet vermouth,1,508
@@ -2272,7 +2272,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,dark rum,0,510
 22.5,ml,lemon juice,1,510
 15.0,ml,triple sec,2,510
-180.0,ml,chilled ginger ale,3,510
+180.0,ml,ginger ale,3,510
 ,None,lemon wedge,4,510
 60.0,ml,dark rum,0,511
 120.0,ml,chilled tonic water,1,511
@@ -2636,7 +2636,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,ground cinnamon,3,598
 ,None,range blossom,4,598
 22.5,ml,lime juice,0,599
-0.25,tsp,grated ginger,1,599
+0.25,tsp,ginger,1,599
 0.5,tsp,wasabi,2,599
 0.5,tsp,minced garlic,3,599
 4.0,dash,soy sauce,4,599
@@ -2703,7 +2703,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 8.0,None,raspberries,4,610
 60.0,ml,vodka,0,611
 30.0,ml,banana liqueur,1,611
-150.0,ml,chilled ginger ale,2,611
+150.0,ml,ginger ale,2,611
 0.5,tsp,bénédictine,0,612
 ,dash,peychaud’s bitters,1,612
 ,dash,angostura bitters,2,612
