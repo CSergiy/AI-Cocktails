@@ -972,7 +972,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,dash,maraschino liqueur,3,220
 60.0,ml,gold tequila,0,221
 7.5,ml,triple sec,1,221
-0.25,cup,pineapple chunks,2,221
+0.25,cup,pineapple pieces,2,221
 22.5,ml,lime juice,3,221
 6.0,None,small mint leaves,0,222
 90.0,ml,kentucky bourbon,1,222
@@ -1288,7 +1288,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,campari,0,296
 22.5,ml,lime juice,1,296
 15.0,ml,sugar,2,296
-120.0,ml,unsweetened pineapple juice,3,296
+120.0,ml,pineapple juice,3,296
 45.0,ml,dark jamaican rum,4,296
 45.0,ml,cruzan black strap rum,0,297
 45.0,ml,pineapple juice,1,297
@@ -1953,10 +1953,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,white rum,0,445
 90.0,ml,pineapple juice,1,445
 30.0,ml,coconut milk,2,445
-60.0,ml,"plantation ""stiggin's fancy"" pineapple rum",0,446
+60.0,ml,pineapple rum,0,446
 22.5,ml,lime juice,1,446
 22.5,ml,sugar,2,446
-45.0,ml,"plantation ""stiggin's fancy"" pineapple rum",0,447
+45.0,ml,pineapple rum,0,447
 22.5,ml,100 proof rhum agricole,1,447
 22.5,ml,lime juice,2,447
 15.0,ml,simple syrup,3,447
@@ -2001,15 +2001,15 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,puerto rican light rum,0,456
 180.0,ml,pineapple juice,1,456
 60.0,ml,coconut cream,2,456
-,None,pineapple spear,3,456
+,None,pineapple wedge,3,456
 ,None,maraschino cherry,4,456
 60.0,ml,silver rum,0,457
 30.0,ml,aliz de france passion fruit liqueur,1,457
-,cup,diced pineapple,2,457
+,cup,pineapple pieces,2,457
 30.0,ml,coconut cream,3,457
 30.0,ml,mango juice or nectar,4,457
 22.5,ml,lime juice,5,457
-1.0,None,pineapple slice,6,457
+1.0,None,pineapple wedge,6,457
 1.0,None,mango slice,7,457
 ,None,shaved coconut,8,457
 60.0,ml,dark rum,0,458
@@ -2361,7 +2361,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,orange juice,3,532
 22.5,ml,lemon juice,4,532
 15.0,ml,orgeat syrup,5,532
-,None,pineapple spear,6,532
+,None,pineapple wedge,6,532
 ,None,maraschino cherry,7,532
 ,None,edible flower,8,532
 60.0,ml,scotch,0,533
@@ -2408,7 +2408,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,crème de menthe,1,545
 60.0,ml,heavy cream,2,545
 ,None,maraschino cherry,3,545
-2.0,None,pineapple wedges,0,546
+2.0,None,pineapple wedge,0,546
 2.0,None,orange slice,1,546
 2.0,None,lemon wedge,2,546
 15.0,ml,maraschino liqueur,3,546
@@ -2623,7 +2623,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,cointreau,6,595
 15.0,ml,simple syrup,7,595
 ,None,lemon twist,8,595
-75.0,ml,pineapple-infused rum,0,596
+75.0,ml,pineapple rum,0,596
 15.0,ml,maraschino liqueur,1,596
 15.0,ml,thai coconut milk,2,596
 60.0,ml,mango juice,3,596
@@ -2893,6 +2893,6 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,apricot brandy,2,653
 60.0,ml,90 proof rye,0,654
 22.5,ml,lemon juice,1,654
-22.5,ml,small hand foods pineapple gum,2,654
+22.5,ml,pineapple syrup,2,654
 15.0,ml,dolin blanc,3,654
 1.0,dash,orange bitters,4,654
