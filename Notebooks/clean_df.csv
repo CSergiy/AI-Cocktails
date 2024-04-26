@@ -483,7 +483,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,grapefruit juice,1,110
 15.0,ml,honey,2,110
 60.0,ml,bourbon,0,111
-30.0,ml,grapefruit,1,111
+30.0,ml,grapefruit juice,1,111
 15.0,ml,honey,2,111
 60.0,ml,makers mark bourbon,0,112
 30.0,ml,grapefruit juice,1,112
@@ -1718,7 +1718,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,demerara rum,2,394
 30.0,ml,honey,3,394
 22.5,ml,lime juice,4,394
-22.5,ml,white grapefruit juice,5,394
+22.5,ml,grapefruit juice,5,394
 22.5,ml,soda water,6,394
 45.0,ml,dussers  navy rum,0,395
 30.0,ml,orange curaçao,1,395
@@ -1989,7 +1989,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,orange twist,3,452
 45.0,ml,gin,0,453
 22.5,ml,mandarine napoléon,1,453
-45.0,ml,pink  grapefruit juice,2,453
+45.0,ml,grapefruit juice,2,453
 ,None,lemon twist,3,453
 30.0,ml,white crème de cacao,0,454
 30.0,ml,crème de noyaux,1,454
@@ -2541,7 +2541,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,gin,0,578
 15.0,ml,campari,1,578
 15.0,ml,sweet vermouth,2,578
-30.0,ml,pink grapefruit juice,3,578
+30.0,ml,grapefruit juice,3,578
 ,None,orange twist,4,578
 60.0,ml,silver tequila,0,579
 22.5,ml,lime juice,1,579
