@@ -1488,7 +1488,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,lemon wedge,3,336
 60.0,ml,white rum,0,337
 30.0,ml,mandarine napoléon liqueur,1,337
-30.0,ml,monin passion fruit syrup,2,337
+30.0,ml,passion fruit syrup,2,337
 120.0,ml,pineapple juice,3,337
 ,None,pineapple wedge,4,337
 ,None,tangerine slice,5,337
@@ -1842,7 +1842,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,parfait amour,5,420
 22.5,ml,lemon juice,6,420
 45.0,ml,gin,0,421
-30.0,ml,alizé de france passion fruit liqueur,1,421
+30.0,ml,passion fruit liqueur,1,421
 7.5,ml,limoncello,2,421
 ,None,lemon twist,3,421
 45.0,ml,citron vodka,0,422
@@ -1869,7 +1869,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,3,426
 22.5,ml,lime juice,4,426
 45.0,ml,citron vodka,0,427
-120.0,ml,passion fruit nectar,1,427
+120.0,ml,passion fruit juice,1,427
 22.5,ml,lime juice,2,427
 1.5,cup,"seeded, peeled, cubed papaya",3,427
 8.0,None,mint leaves,4,427
@@ -1891,7 +1891,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,gin,0,431
 30.0,ml,crème de cassis,1,431
 30.0,ml,noilly prat dry vermouth,2,431
-7.5,ml,alizé de france passion fruit liqueur,0,432
+7.5,ml,passion fruit liqueur,0,432
 60.0,ml,bombay sapphire gin,1,432
 ,None,lemon twist,2,432
 60.0,ml,ginger-infused vodka,0,433
@@ -2004,7 +2004,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,pineapple wedge,3,456
 ,None,maraschino cherry,4,456
 60.0,ml,silver rum,0,457
-30.0,ml,aliz de france passion fruit liqueur,1,457
+30.0,ml,passion fruit liqueur,1,457
 ,cup,pineapple pieces,2,457
 30.0,ml,coconut cream,3,457
 30.0,ml,mango juice,4,457
