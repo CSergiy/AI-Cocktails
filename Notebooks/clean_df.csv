@@ -1848,7 +1848,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,citron vodka,0,422
 45.0,ml,cointreau,1,422
 22.5,ml,lime juice,2,422
-2.0,dash,cranberry juice,3,422
+60.0,ml,cranberry juice,3,422
 ,None,lemon twist,4,422
 45.0,ml,gin,0,423
 15.0,ml,dry vermouth,1,423
@@ -2814,7 +2814,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,orange slice,5,635
 30.0,ml,vodka,0,636
 30.0,ml,melon liqueur,1,636
-60.0,ml,cranberry juice dash of grenadine,2,636
+60.0,ml,cranberry juice,2,636
 60.0,ml,dark rum,0,637
 22.5,ml,banana liqueur,1,637
 30.0,ml,orange juice,2,637
