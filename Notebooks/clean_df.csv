@@ -144,7 +144,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,crème de cacao,1,35
 7.5,ml,galliano,2,35
 22.5,ml,egg white,3,35
-2.0,dash,aztec chocolate bitters,4,35
+2.0,dash,chocolate bitters,4,35
 ,None,nutmeg,5,35
 15.0,ml,bénédictine,0,36
 15.0,ml,cognac,1,36
@@ -683,11 +683,11 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,dolin rouge sweet vermouth,1,156
 22.5,ml,benedictine,2,156
 3.0,dash,st. george absinthe,3,156
-3.0,dash,peychauds bitters,4,156
+3.0,dash,peychaud’s bitters,4,156
 60.0,ml,rye whiskey,0,157
 15.0,ml,benedictine,1,157
 15.0,ml,sweet vermouth,2,157
-3.0,dash,peychauds bitters,3,157
+3.0,dash,peychaud’s bitters,3,157
 3.0,dash,angostura bitters,4,157
 3.0,dash,absinthe,5,157
 30.0,ml,rye whiskey,0,158
@@ -1095,7 +1095,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lillet blanc,1,252
 15.0,ml,lairds bonded apple brandy,2,252
 7.5,ml,green chartreuse,3,252
-3.0,dash,abbotts or angostura bitters,4,252
+3.0,dash,angostura bitters,4,252
 45.0,ml,vodka,0,253
 150.0,ml,orange juice,1,253
 15.0,ml,galliano,2,253
@@ -1209,7 +1209,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 67.5,ml,rye whiskey,0,277
 15.0,ml,maraschino liqueur,1,277
 1.0,dash,absinthe,2,277
-3.0,dash,peychauds bitters,3,277
+3.0,dash,peychaud’s bitters,3,277
 30.0,ml,fernet branca,0,278
 30.0,ml,green chartreuse,1,278
 22.5,ml,lime juice,2,278
@@ -1364,7 +1364,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,3,313
 60.0,ml,zacapa 23-year rum,0,314
 1.0,None,sugar,1,314
-3.0,dash,house peychauds bitters,2,314
+3.0,dash,peychaud’s bitters,2,314
 1.0,dash,angostura bitters,3,314
 1.0,dash,bittermens xocolatl mole bitters,4,314
 1.0,dash,absinthe,5,314
@@ -1399,7 +1399,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,benedictine,2,321
 22.5,ml,lemon juice,3,321
 7.5,ml,sugar,4,321
-1.0,dash,peychauds bitters,5,321
+1.0,dash,peychaud’s bitters,5,321
 60.0,ml,tequila,0,322
 45.0,ml,orange juice,1,322
 15.0,ml,maraschino liqueur,2,322
@@ -1623,7 +1623,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,None,sugar,1,372
 1.0,None,sugar,2,372
 3.0,dash,angostura bitters,3,372
-1.0,dash,peychauds bitters,4,372
+1.0,dash,peychaud’s bitters,4,372
 1.0,None,splash soda,5,372
 10.0,None,sprigs mint,0,373
 1.0,tsp,sugar,1,373
@@ -1633,7 +1633,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,None,sugar,1,374
 1.0,None,sugar,2,374
 3.0,dash,angostura bitters,3,374
-1.0,dash,peychauds bitters,4,374
+1.0,dash,peychaud’s bitters,4,374
 1.0,None,splash soda,5,374
 50.0,ml,cognac,0,375
 20.0,ml,crme de menthe,1,375
@@ -1748,7 +1748,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,3,398
 ,dash,angostura bitters,4,398
 1.0,None,sugar,0,399
-,dash,peychaud’s or angostura bitters,1,399
+,dash,angostura bitters,1,399
 60.0,ml,bourbon whiskey,2,399
 7.5,ml,herbsaint,3,399
 22.5,ml,lemon juice,4,399
@@ -1804,7 +1804,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 3.0,dash,angostura.,1,411
 120.0,ml,whiskey,2,411
 4.0,dash,gum syrup,0,412
-2.0,dash,bitters,1,412
+2.0,dash,generic bitters,1,412
 1.0,None,whiskey,2,412
 22.5,ml,lemon juice,3,412
 60.0,ml,rye whiskey,0,413
@@ -1814,7 +1814,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,lillet blanc,1,414
 15.0,ml,lairds bonded apple brandy,2,414
 7.5,ml,green chartreuse,3,414
-3.0,dash,abbotts or angostura bitters,4,414
+3.0,dash,angostura bitters,4,414
 1.0,None,sugar,0,415
 3.0,dash,angostura bitters,1,415
 90.0,ml,rye whiskey,2,415
@@ -2086,7 +2086,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,rich demerara syrup,2,470
 3.0,dash,angostura bitters,3,470
 1.0,None,bunch spearmint,4,470
-,None,add bitters,5,470
+,None,generic bitters,5,470
 ,None,garnish with large bouquet of spearmint,6,470
 60.0,ml,beefeater gin,0,471
 22.5,ml,heavy cream,1,471
@@ -2179,7 +2179,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,rye whiskey,0,485
 22.5,ml,lemon juice,1,485
 15.0,ml,grade b maple syrup,2,485
-2.0,dash,peychaud's bitters,3,485
+2.0,dash,peychaud’s bitters,3,485
 15.0,ml,egg whites,4,485
 22.5,ml,lemon juice,5,485
 60.0,ml,rye whiskey,0,486
@@ -2198,7 +2198,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 1.0,dash,angostura,2,489
 45.0,ml,scotch whiskey,0,490
 45.0,ml,italian vermouth,1,490
-2.0,dash,bitters,2,490
+2.0,dash,generic bitters,2,490
 22.5,ml,lemon juice,3,490
 75.0,ml,scotch whiskey,0,491
 0.75,None,dolin sweet vermouth,1,491
@@ -2315,31 +2315,31 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 37.5,ml,gin,4,520
 240.0,ml,crushed ice,5,520
 60.0,ml,rye whiskey,0,521
-3.0,dash,peychauds bitters,1,521
+3.0,dash,peychaud’s bitters,1,521
 2.0,dash,angostura bitters,2,521
 1.0,None,sugar,3,521
 1.0,tsp,sugar,0,522
-3.0,dash,peychaud bitters,1,522
+3.0,dash,peychaud’s bitters,1,522
 2.0,None,whiskey,2,522
 30.0,ml,vs cognac,0,523
 30.0,ml,rye whiskey,1,523
 15.0,ml,simple syrup,2,523
-2.0,dash,peychauds bitters,3,523
+2.0,dash,peychaud’s bitters,3,523
 2.0,dash,angostura bitters,4,523
 90.0,ml,rye whiskey,0,524
 22.5,ml,simple syrup,1,524
 50.0,ml,cognac,0,525
 10.0,ml,absinthe,1,525
 1.0,None,sugar,2,525
-2.0,dash,peychauds bitters,3,525
+2.0,dash,peychaud’s bitters,3,525
 1.0,None,sugar,0,526
-1.0,dash,angostura or peychauds bitters,1,526
+1.0,dash,angostura bitters,1,526
 60.0,ml,rye whiskey,2,526
 0.5,tsp,sugar,0,527
 60.0,ml,whiskey,1,527
-2.0,dash,peychauds bitters,2,527
+2.0,dash,peychaud’s bitters,2,527
 1.0,None,small barspoonful gum syrup,0,528
-3.0,drop,selner bitters,1,528
+3.0,drop,generic bitters,1,528
 1.0,None,jigger sazerac brandy,2,528
 60.0,ml,southern comfort,0,529
 60.0,ml,cranberry juice,1,529
@@ -2716,12 +2716,12 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,carpano antica sweet vermouth,2,613
 7.5,ml,bndictine,3,613
 1.0,dash,angostura bitters,4,613
-1.0,dash,peychauds bitters,5,613
+1.0,dash,peychaud’s bitters,5,613
 30.0,ml,rye whiskey,0,614
 30.0,ml,cognac,1,614
 30.0,ml,sweet vermouth,2,614
 1.0,tsp,bndictine,3,614
-2.0,dash,peychauds bitters,4,614
+2.0,dash,peychaud’s bitters,4,614
 2.0,dash,angostura bitters,5,614
 40.0,ml,bourbon whiskey,0,615
 20.0,ml,sweet vermouth,1,615
