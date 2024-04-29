@@ -27,7 +27,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,water,5,5
 45.0,ml,rye whiskey,0,6
 15.0,ml,scotch whiskey,1,6
-7.5,ml,spiced rich syrup,2,6
+7.5,ml,simple syrup,2,6
 30.0,ml,southern comfort,0,7
 30.0,ml,amaretto,1,7
 15.0,ml,sloe gin,2,7
@@ -71,7 +71,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,amaretto,0,18
 22.5,ml,bourbon whiskey,1,18
 22.5,ml,lemon juice,2,18
-1.0,tsp,rich simple syrup,3,18
+1.0,tsp,simple syrup,3,18
 15.0,ml,"egg white, beaten",4,18
 60.0,ml,amaretto,0,19
 22.5,ml,lemon juice,1,19
@@ -489,7 +489,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,grapefruit juice,1,112
 22.5,ml,honey,2,112
 60.0,ml,8 or 15-year el dorado rum,0,113
-7.5,ml,demerara simple syrup,1,113
+7.5,ml,simple syrup,1,113
 30.0,ml,amaretto,0,114
 30.0,ml,baileys irish cream,1,114
 30.0,ml,tia maria,2,114
@@ -525,7 +525,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,peach schnapps,2,122
 30.0,ml,grapefruit juice,3,122
 30.0,ml,mango juice,4,122
-,dash,orgeat  syrup,5,122
+,dash,orgeat syrup,5,122
 30.0,ml,gold or dark rum,0,123
 30.0,ml,crème de banane,1,123
 15.0,ml,apricot brandy,2,123
@@ -721,7 +721,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,ml,bourbon whiskey,1,164
 ,ml,calvados,2,164
 ,ml,hine h cognac,3,164
-1.0,tsp,rich demerara syrup,4,164
+1.0,tsp,demerara syrup,4,164
 ,dash,angostura bitters,5,164
 1.0,dash,bittermens xocolatl mole bitters,6,164
 75.0,ml,gin,0,165
@@ -1385,7 +1385,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 75.0,ml,elijah craig 12,0,318
 15.0,ml,allspice dram,1,318
 22.5,ml,lime juice,2,318
-15.0,ml,simple syrup 1:1,3,318
+15.0,ml,simple syrup,3,318
 2.0,dash,angostura bitters,4,318
 15.0,ml,dark rum,0,319
 15.0,ml,root beer schnapps,1,319
@@ -1463,12 +1463,12 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,1,333
 15.0,ml,orange curaçao,2,333
 7.5,ml,rock candy syrup,3,333
-7.5,ml,orgeat almond syrup,4,333
+7.5,ml,orgeat syrup,4,333
 45.0,ml,myers’s dark or other dark jamaican rum,0,334
 30.0,ml,martinique rhum vieux or other aged rum,1,334
 15.0,ml,orange curaçao,2,334
 7.5,ml,simple syrup,3,334
-15.0,ml,orgeat or almond-flavored syrup,4,334
+15.0,ml,orgeat syrup,4,334
 22.5,ml,lime juice,5,334
 15.0,ml,orange juice,6,334
 1.0,None,orange blossom,7,334
@@ -1538,7 +1538,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,white rum,0,349
 10.0,ml,maraschino,1,349
 60.0,ml,pineapple juice,2,349
-10.0,ml,"grenadine syrup""",3,349
+10.0,ml,pomegranate syrup,3,349
 60.0,ml,light rum,0,350
 30.0,ml,pineapple juice,1,350
 7.5,ml,maraschino liqueur,2,350
@@ -1733,7 +1733,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,orange juice,4,396
 15.0,ml,passion fruit juice,5,396
 15.0,ml,pineapple juice,6,396
-15.0,ml,almond or orgeat syrup,7,396
+15.0,ml,orgeat syrup,7,396
 ,None,mint sprig,8,396
 22.5,ml,lime juice,9,396
 60.0,ml,tequila,0,397
@@ -1828,7 +1828,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 2.0,dash,angostura bitters,1,417
 1.0,None,rye whiskey,2,417
 1.5,None,whiskey,0,418
-0.25,None,parts rich simple syrup,1,418
+0.25,None,simple syrup,1,418
 ,None,orange slice,0,419
 ,None,sugar,1,419
 90.0,ml,orange-flavored vodka,2,419
@@ -1942,7 +1942,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,1,443
 15.0,ml,simple syrup,2,443
 3.0,None,cucumber slices,3,443
-,None,muddle cucumber and simple syrup,4,443
+,None,simple syrup,4,443
 22.5,ml,lemon juice,5,443
 60.0,ml,pimms no. 1 cup,0,444
 22.5,ml,lemon juice,1,444
@@ -2083,7 +2083,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 90.0,ml,demerara rum,3,469
 90.0,ml,demerara rum,0,470
 22.5,ml,lime juice,1,470
-15.0,ml,rich demerara syrup,2,470
+15.0,ml,demerara syrup,2,470
 3.0,dash,angostura bitters,3,470
 1.0,None,bunch spearmint,4,470
 ,None,generic bitters,5,470
@@ -2178,7 +2178,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,a few dashes absinthe,3,484
 60.0,ml,rye whiskey,0,485
 22.5,ml,lemon juice,1,485
-15.0,ml,grade b maple syrup,2,485
+15.0,ml,maple syrup,2,485
 2.0,dash,peychaud’s bitters,3,485
 15.0,ml,egg whites,4,485
 22.5,ml,lemon juice,5,485
@@ -2338,7 +2338,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.5,tsp,sugar,0,527
 60.0,ml,whiskey,1,527
 2.0,dash,peychaud’s bitters,2,527
-1.0,None,small barspoonful gum syrup,0,528
+1.0,None,gum syrup,0,528
 3.0,drop,generic bitters,1,528
 1.0,None,jigger sazerac brandy,2,528
 60.0,ml,southern comfort,0,529
@@ -2477,7 +2477,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,1,561
 0.5,tbsp,sugar,2,561
 1.0,None,egg white,3,561
-2.0,dash,raspberry or grenadine syrup,4,561
+2.0,dash,pomegranate syrup,4,561
 1.0,None,glass sloe gin,5,561
 45.0,ml,sloe gin,0,562
 45.0,ml,orange juice,1,562
