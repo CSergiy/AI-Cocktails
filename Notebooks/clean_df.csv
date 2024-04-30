@@ -742,9 +742,9 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,sweet vermouth,1,168
 22.5,ml,brandy,2,168
 22.5,ml,lemon juice,0,169
-0.25,None,wine glass kina lillet,1,169
-0.25,None,wine glass cointreau,2,169
-0.25,None,wine glass dry gin,3,169
+45.0,ml,kina lillet,1,169
+45.0,ml,cointreau,2,169
+45.0,ml,dry gin,3,169
 1.0,dash,absinthe,4,169
 22.5,ml,beefeater gin,0,170
 22.5,ml,lillet blanc,1,170
