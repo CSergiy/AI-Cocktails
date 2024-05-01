@@ -58,7 +58,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,dry vermouth,1,14
 30.0,ml,pineapple juice,2,14
 60.0,ml,rye whiskey,0,15
-22.5,ml,noilly prat dry vermouth,1,15
+22.5,ml,dry vermouth,1,15
 22.5,ml,pineapple juice,2,15
 45.0,ml,bourbon whiskey,0,16
 22.5,ml,lemon juice,1,16
@@ -99,14 +99,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,grapefruit juice,2,25
 ,None,orange slice,3,25
 40.0,ml,campari,0,26
-30.0,ml,noilly prat dry vermouth,1,26
+30.0,ml,dry vermouth,1,26
 30.0,ml,st. germain,2,26
 45.0,ml,gin,0,27
 15.0,ml,galliano,1,27
 15.0,ml,crème de banane,2,27
 15.0,ml,grapefruit juice,3,27
 45.0,ml,rye whiskey,0,28
-15.0,ml,noilly prat dry vermouth,1,28
+15.0,ml,dry vermouth,1,28
 7.5,ml,green chartreuse,2,28
 7.5,ml,luxardo maraschino liqueur,3,28
 60.0,ml,cognac,0,29
@@ -252,7 +252,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 30.0,ml,plymouth gin,2,59
 1.0,dash,orange bitters,3,59
 30.0,ml,tanqueray gin,0,60
-30.0,ml,dolin sweet vermouth,1,60
+30.0,ml,sweet vermouth,1,60
 30.0,ml,green chartreuse,2,60
 1.0,dash,orange bitters,3,60
 45.0,ml,gin,0,61
@@ -260,7 +260,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,green chartreuse,2,61
 2.0,dash,orange bitters,3,61
 45.0,ml,plymouth gin,0,62
-22.5,ml,carpano antica sweet vermouth,1,62
+22.5,ml,sweet vermouth,1,62
 15.0,ml,green chartreuse,2,62
 1.0,dash,angostura bitters,3,62
 22.5,ml,tequila,0,63
@@ -308,7 +308,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,scotch whiskey,0,72
 22.5,ml,orange juice,1,72
 15.0,ml,cherry heering,2,72
-15.0,ml,carpano antica sweet vermouth,3,72
+15.0,ml,sweet vermouth,3,72
 60.0,ml,silver tequila,0,73
 22.5,ml,lime juice,1,73
 1.0,None,"clove garlic, finely minced",2,73
@@ -444,8 +444,8 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lemon juice,3,100
 60.0,ml,beefeater gin,0,101
 22.5,ml,orange juice,1,101
-15.0,ml,dolin dry vermouth,2,101
-15.0,ml,carpano antica sweet vermouth,3,101
+15.0,ml,dry vermouth,2,101
+15.0,ml,sweet vermouth,3,101
 60.0,ml,gin,0,102
 7.5,ml,sweet vermouth,1,102
 7.5,ml,dry vermouth,2,102
@@ -460,10 +460,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,orange juice,3,104
 45.0,ml,gin,0,105
 22.5,ml,orange juice,1,105
-1.0,tsp,french vermouth,2,105
-1.0,tsp,italian vermouth,3,105
+1.0,tsp,vermouth,2,105
+1.0,tsp,vermouth,3,105
 60.0,ml,rye whiskey,0,106
-22.5,ml,dolin dry vermouth,1,106
+22.5,ml,dry vermouth,1,106
 7.5,ml,luxardo maraschino liqueur,2,106
 7.5,ml,amer picon,3,106
 60.0,ml,rye whiskey,0,107
@@ -471,7 +471,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 2.0,tsp,maraschino liqueur,2,107
 2.0,tsp,torani amer,3,107
 60.0,ml,rye whiskey,0,108
-30.0,ml,dolin dry vermouth,1,108
+30.0,ml,dry vermouth,1,108
 7.5,ml,luxardo maraschino liqueur,2,108
 7.5,ml,bigallet china china amer,3,108
 1.0,drop,angostura bitters,4,108
@@ -625,7 +625,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,cointreau,2,142
 30.0,ml,sweet-and-sour,3,142
 7.5,ml,orange juice,4,142
-60.0,ml,dolin dry vermouth,0,143
+60.0,ml,dry vermouth,0,143
 22.5,ml,benedictine,1,143
 7.5,ml,vieux pontarlier absinthe,2,143
 1.0,dash,orange bitters,3,143
@@ -680,7 +680,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,raspberry syrup,1,155
 22.5,ml,lemon juice,2,155
 60.0,ml,rye whiskey,0,156
-22.5,ml,dolin rouge sweet vermouth,1,156
+22.5,ml,sweet vermouth,1,156
 22.5,ml,benedictine,2,156
 3.0,dash,st. george absinthe,3,156
 3.0,dash,peychaud’s bitters,4,156
@@ -1071,7 +1071,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 20.0,ml,crme de menthe,1,246
 60.0,ml,rye whiskey,0,247
 15.0,ml,yellow chartreuse,1,247
-15.0,ml,bianco vermouth,2,247
+15.0,ml,dry vermouth,2,247
 1.0,dash,angostura bitters,3,247
 1.0,dash,orange bitters,4,247
 60.0,ml,rye whiskey,0,248
@@ -1322,7 +1322,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,6,303
 ,ml,smith & cross rum,0,304
 ,ml,campari,1,304
-,ml,carpano antica sweet vermouth,2,304
+,ml,sweet vermouth,2,304
 90.0,ml,dry white wine,0,305
 10.0,ml,crme de cassis,1,305
 45.0,ml,gin,0,306
@@ -1509,10 +1509,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 2.0,dash,angostura bitters,2,340
 ,None,garnish with montmorency cherries,3,340
 50.0,ml,rye whiskey,0,341
-20.0,ml,red vermouth,1,341
+20.0,ml,sweet vermouth,1,341
 1.0,dash,angostura bitters,2,341
 45.0,ml,haymans old tom gin,0,342
-45.0,ml,dolin sweet vermouth,1,342
+45.0,ml,sweet vermouth,1,342
 7.5,ml,luxardo maraschino liqueur,2,342
 2.0,dash,bokers bitters,3,342
 60.0,ml,sweet vermouth,0,343
@@ -1530,7 +1530,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,maraschino liqueur,2,346
 ,dash,orange bitters,3,346
 180.0,ml,gin,0,347
-180.0,ml,french vermouth,1,347
+180.0,ml,vermouth,1,347
 1.0,tbsp,curacao or maraschino,2,347
 1.25,tsp,orange bitters,3,347
 75.0,ml,vodka,0,348
@@ -1783,18 +1783,18 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,whipped cream.,5,405
 ,ml,scarlet ibis rum,0,406
 ,ml,cruzan black strap rum,1,406
-,ml,dolin rouge vermouth,2,406
+,ml,sweet vermouth,2,406
 1.0,tsp,lazzaroni amaretto,3,406
 1.0,dash,whiskey,4,406
 60.0,ml,rye whiskey,0,407
-22.5,ml,dolin dry vermouth,1,407
+22.5,ml,dry vermouth,1,407
 22.5,ml,campari,2,407
 45.0,ml,rye whiskey,0,408
 22.5,ml,dry vermouth,1,408
 22.5,ml,campari,2,408
 45.0,ml,rye whiskey,0,409
 22.5,ml,campari,1,409
-22.5,ml,dolin dry vermouth,2,409
+22.5,ml,dry vermouth,2,409
 22.5,ml,lemon juice,3,409
 45.0,ml,gold rum,0,410
 15.0,ml,cranberry juice,1,410
@@ -1890,7 +1890,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,orange juice,2,430
 30.0,ml,gin,0,431
 30.0,ml,crème de cassis,1,431
-30.0,ml,noilly prat dry vermouth,2,431
+30.0,ml,dry vermouth,2,431
 7.5,ml,passion fruit liqueur,0,432
 60.0,ml,bombay sapphire gin,1,432
 ,None,lemon twist,2,432
@@ -2194,14 +2194,14 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 15.0,ml,tia maria coffee liqueur,1,488
 2.0,dash,orange bitters,2,488
 2.0,None,parts scotch,0,489
-1.0,None,part vermouth,1,489
+1.0,None,vermouth,1,489
 1.0,dash,angostura,2,489
 45.0,ml,scotch whiskey,0,490
-45.0,ml,italian vermouth,1,490
+45.0,ml,vermouth,1,490
 2.0,dash,generic bitters,2,490
 22.5,ml,lemon juice,3,490
 75.0,ml,scotch whiskey,0,491
-0.75,None,dolin sweet vermouth,1,491
+0.75,None,sweet vermouth,1,491
 2.0,dash,orange bitters,2,491
 75.0,ml,scotch,0,492
 30.0,ml,sweet vermouth,1,492
@@ -2209,7 +2209,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,scotch,0,493
 30.0,ml,sweet vermouth,1,493
 60.0,ml,compass box asyla scotch,0,494
-22.5,ml,carpano antica formula vermouth,1,494
+22.5,ml,sweet vermouth,1,494
 2.0,dash,angostura bitters,2,494
 20.0,ml,kirsch,0,495
 40.0,ml,dry vermouth,1,495
@@ -2535,7 +2535,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,lemon twist,3,576
 2.0,None,fuji apple slices,0,577
 ,ml,rye whiskey,1,577
-,ml,dolin dry vermouth,2,577
+,ml,dry vermouth,2,577
 ,ml,amaro nonino,3,577
 1.0,tsp,maple syrup,4,577
 45.0,ml,gin,0,578
@@ -2586,7 +2586,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,lime juice,2,589
 52.5,ml,bourbon whiskey,0,590
 22.5,ml,campari,1,590
-15.0,ml,dolin sweet vermouth,2,590
+15.0,ml,sweet vermouth,2,590
 7.5,ml,st. george nola coffee liqueur,3,590
 45.0,ml,amber martinician rhum,0,591
 15.0,ml,demerara rum,1,591
@@ -2713,7 +2713,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,lemon twist,6,612
 30.0,ml,rye whiskey,0,613
 30.0,ml,hine v.s.o.p. cognac,1,613
-30.0,ml,carpano antica sweet vermouth,2,613
+30.0,ml,sweet vermouth,2,613
 7.5,ml,bndictine,3,613
 1.0,dash,angostura bitters,4,613
 1.0,dash,peychaud’s bitters,5,613
