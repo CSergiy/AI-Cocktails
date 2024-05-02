@@ -329,7 +329,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 7.5,ml,maraschino liqueur,3,75
 30.0,ml,light rum,0,76
 30.0,ml,blue curaçao,1,76
-30.0,ml,cream of coconut,2,76
+30.0,ml,coconut cream,2,76
 60.0,ml,pineapple juice,3,76
 ,None,pineapple wedge,4,76
 ,None,maraschino cherry,5,76
@@ -816,7 +816,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,baileys irish cream,0,187
 22.5,ml,dark crème de cacao,1,187
 22.5,ml,vodka,2,187
-0.25,cup,chocolate ice cream,3,187
+0.25,cup,ice cream,3,187
 ,None,chocolate shavings,4,187
 22.5,ml,brandy,0,188
 22.5,ml,applejack or calvados,1,188
@@ -1687,7 +1687,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,unsweetened cocoa powder,4,388
 15.0,ml,amaretto,0,389
 15.0,ml,kahlúa,1,389
-15.0,ml,irish cream liqueur,2,389
+15.0,ml,baileys irish cream,2,389
 30.0,ml,heavy cream,3,389
 30.0,ml,gold tequila,4,389
 60.0,ml,silver rum,0,390
@@ -1777,10 +1777,10 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 ,None,freshly grated or ground nutmeg,5,404
 60.0,ml,tequila,0,405
 22.5,ml,agave nectar,1,405
-30.0,ml,heavy whipping cream,2,405
+30.0,ml,heavy cream,2,405
 60.0,ml,milk,3,405
 ,None,oaxacan chocolate powder,4,405
-,None,whipped cream.,5,405
+,None,heavy cream,5,405
 ,ml,scarlet ibis rum,0,406
 ,ml,cruzan black strap rum,1,406
 ,ml,sweet vermouth,2,406
@@ -2282,7 +2282,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,heavy cream,2,512
 1.0,tsp,sugar,3,512
 22.5,ml,frangelico,0,513
-22.5,ml,irish cream liqueur,1,513
+22.5,ml,baileys irish cream,1,513
 22.5,ml,vodka,2,513
 25.0,ml,vodka,0,514
 22.5,ml,lemon juice,1,514
@@ -2373,7 +2373,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 60.0,ml,scotch,0,535
 22.5,ml,lemon juice,1,535
 22.5,ml,kahlúa,0,536
-22.5,ml,irish cream liqueur,1,536
+22.5,ml,baileys irish cream,1,536
 22.5,ml,amaretto,2,536
 22.5,ml,vodka,3,536
 50.0,ml,vodka,0,537
@@ -2655,7 +2655,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 2.0,None,bar spoons of agave nectar,2,601
 45.0,ml,silver tequila,0,602
 15.0,ml,white crème de cacao,1,602
-,None,whipped cream,2,602
+,None,heavy cream,2,602
 ,None,unsweetened cocoa powder,3,602
 60.0,ml,rye whiskey,0,603
 15.0,ml,fernet-branca,1,603
@@ -2693,7 +2693,7 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 45.0,ml,rhum barbancourt,0,609
 15.0,ml,pernod,1,609
 15.0,ml,amaretto,2,609
-0.25,cup,softened vanilla ice cream,3,609
+0.25,cup,ice cream,3,609
 ,None,freshly grated or ground nutmeg,4,609
 ,None,chocolate shavings,5,609
 60.0,ml,gin,0,610
