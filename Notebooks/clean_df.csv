@@ -1,815 +1,814 @@
 quantity,unit,ingredient,ingredient_step,recipe_id
-45.0,ml,dark rum,0,0
+45,ml,dark rum,0,0
 22.5,ml,lime juice,1,0
-15.0,ml,sugar,2,0
-1.0,dash,angostura bitters,3,0
-6.0,drop,pernod,4,0
-240.0,ml,crushed ice,5,0
-60.0,ml,silver tequila,0,1
-22.5,ml,marie brizard crme de cacao,1,1
+15,ml,sugar,2,0
+1,dash,angostura,3,0
+6,drop,pernod,4,0
+240,ml,crushed ice,5,0
+60,ml,silver tequila,0,1
+22.5,ml,marie brizard creme de cacao,1,1
 22.5,ml,lemon juice,2,1
-45.0,ml,gin,0,2
-22.5,ml,mari brizard white crme de cacao,1,2
+45,ml,gin,0,2
+22.5,ml,mari brizard white creme de cacao,1,2
 22.5,ml,lillet blanc,2,2
 22.5,ml,lemon juice,3,2
-45.0,ml,pernod,0,3
-1.0,None,sugar,1,3
-150.0,ml,cold filtered water,2,3
-30.0,ml,gold tequila,0,4
-30.0,ml,gold rum,1,4
-60.0,ml,grapefruit juice,2,4
-90.0,ml,pineapple juice,3,4
+45,ml,pernod,0,3
+1,None,sugar,1,3
+150,ml,water,2,3
+30,ml,gold tequila,0,4
+30,ml,gold rum,1,4
+60,ml,grapefruit juice,2,4
+90,ml,pineapple juice,3,4
 37.5,ml,brandy,0,5
-15.0,ml,amontillado sherry,1,5
+15,ml,amontillado sherry,1,5
 22.5,ml,lemon juice,2,5
 22.5,ml,lime juice,3,5
-15.0,ml,demerara syrup,4,5
-30.0,ml,water,5,5
-45.0,ml,rye whiskey,0,6
-15.0,ml,scotch whiskey,1,6
+15,ml,demerara syrup,4,5
+30,ml,water,5,5
+45,ml,rye whiskey,0,6
+15,ml,scotch whiskey,1,6
 7.5,ml,simple syrup,2,6
-30.0,ml,southern comfort,0,7
-30.0,ml,amaretto,1,7
-15.0,ml,sloe gin,2,7
-30.0,ml,orange juice,3,7
-30.0,ml,southern comfort,0,8
-30.0,ml,amaretto,1,8
-15.0,ml,sloe gin,2,8
+30,ml,southern comfort,0,7
+30,ml,amaretto,1,7
+15,ml,sloe gin,2,7
+30,ml,orange juice,3,7
+30,ml,southern comfort,0,8
+30,ml,amaretto,1,8
+15,ml,sloe gin,2,8
 22.5,ml,lemon juice,3,8
 ,None,maraschino cherry,4,8
 ,None,lemon wedge,5,8
-45.0,ml,gin,0,9
-15.0,ml,yellow chartreuse,1,9
+45,ml,gin,0,9
+15,ml,yellow chartreuse,1,9
 67.5,ml,gin,0,10
 22.5,ml,yellow chartreuse,1,10
-2.0,dash,orange bitters,2,10
-30.0,ml,cognac,0,11
-30.0,ml,crme de cacao,1,11
-30.0,ml,cream,2,11
-45.0,ml,grand marnier,0,12
+2,dash,orange bitters,2,10
+30,ml,cognac,0,11
+30,ml,creme de cacao,1,11
+30,ml,cream,2,11
+45,ml,grand marnier,0,12
 22.5,ml,gin,1,12
 22.5,ml,dry vermouth,2,12
 7.5,ml,sweet vermouth,3,12
-2.0,dash,angostura bitters,4,12
-45.0,ml,rye whiskey,0,13
+2,dash,angostura,4,12
+45,ml,rye whiskey,0,13
 22.5,ml,dry vermouth,1,13
 22.5,ml,pineapple juice,2,13
-60.0,ml,rye whiskey,0,14
-15.0,ml,dry vermouth,1,14
-30.0,ml,pineapple juice,2,14
-60.0,ml,rye whiskey,0,15
+60,ml,rye whiskey,0,14
+15,ml,dry vermouth,1,14
+30,ml,pineapple juice,2,14
+60,ml,rye whiskey,0,15
 22.5,ml,dry vermouth,1,15
 22.5,ml,pineapple juice,2,15
-45.0,ml,bourbon whiskey,0,16
+45,ml,bourbon whiskey,0,16
 22.5,ml,lemon juice,1,16
-15.0,ml,galliano,2,16
-1.0,tsp,orgeat syrup,3,16
-150.0,ml,chilled club soda,4,16
-60.0,ml,amaretto,0,17
-45.0,ml,white crème de cacao,1,17
-30.0,ml,heavy cream,2,17
-45.0,ml,amaretto,0,18
+15,ml,galliano,2,16
+1,tsp,orgeat syrup,3,16
+150,ml,club soda,4,16
+60,ml,amaretto,0,17
+45,ml,white crème de cacao,1,17
+30,ml,heavy cream,2,17
+45,ml,amaretto,0,18
 22.5,ml,bourbon whiskey,1,18
 22.5,ml,lemon juice,2,18
-1.0,tsp,simple syrup,3,18
-15.0,ml,"egg white, beaten",4,18
-60.0,ml,amaretto,0,19
+1,tsp,simple syrup,3,18
+15,ml,"egg white, beaten",4,18
+60,ml,amaretto,0,19
 22.5,ml,lemon juice,1,19
 ,None,maraschino cherry,2,19
-30.0,ml,light rum,0,20
-10.0,ml,apple schnapps,1,20
-2.0,dash,passion fruit liqueur,2,20
-30.0,ml,cranberry juice,3,20
-30.0,ml,gin,0,21
-30.0,ml,apricot brandy,1,21
-30.0,ml,calvados,2,21
+30,ml,light rum,0,20
+10,ml,apple schnapps,1,20
+2,dash,passion fruit liqueur,2,20
+30,ml,cranberry juice,3,20
+30,ml,gin,0,21
+30,ml,apricot brandy,1,21
+30,ml,calvados,2,21
 7.5,ml,crème de cacao,0,22
 7.5,ml,crème de violette,1,22
 7.5,ml,brandy,2,22
 7.5,ml,heavy cream,3,22
-60.0,ml,chilled white crème de cacao,0,23
-15.0,ml,heavy cream,1,23
+60,ml,white crème de cacao,0,23
+15,ml,heavy cream,1,23
 ,None,maraschino cherry,2,23
-45.0,ml,angostura bitters,0,24
+45,ml,angostura,0,24
 22.5,ml,lime juice,1,24
-30.0,ml,simple syrup,2,24
-1.0,None,egg white,3,24
-45.0,ml,gin,0,25
-15.0,ml,bénédictine,1,25
-60.0,ml,grapefruit juice,2,25
+30,ml,simple syrup,2,24
+1,None,egg white,3,24
+45,ml,gin,0,25
+15,ml,bénédictine,1,25
+60,ml,grapefruit juice,2,25
 ,None,orange slice,3,25
-40.0,ml,campari,0,26
-30.0,ml,dry vermouth,1,26
-30.0,ml,st. germain,2,26
-45.0,ml,gin,0,27
-15.0,ml,galliano,1,27
-15.0,ml,crème de banane,2,27
-15.0,ml,grapefruit juice,3,27
-45.0,ml,rye whiskey,0,28
-15.0,ml,dry vermouth,1,28
+40,ml,campari,0,26
+30,ml,dry vermouth,1,26
+30,ml,st. germain,2,26
+45,ml,gin,0,27
+15,ml,galliano,1,27
+15,ml,crème de banane,2,27
+15,ml,grapefruit juice,3,27
+45,ml,rye whiskey,0,28
+15,ml,dry vermouth,1,28
 7.5,ml,green chartreuse,2,28
 7.5,ml,luxardo maraschino liqueur,3,28
-60.0,ml,cognac,0,29
+60,ml,cognac,0,29
 22.5,ml,lemon juice,1,29
 22.5,ml,maraschino liquor,2,29
-1.0,None,egg white,3,29
-45.0,ml,cognac,0,30
+1,None,egg white,3,29
+45,ml,cognac,0,30
 22.5,ml,absinthe,1,30
-1.0,tsp,maraschino,2,30
+1,tsp,maraschino,2,30
 22.5,ml,lemon juice,3,30
-2.0,tsp,egg white,4,30
-45.0,ml,light rum,0,31
-15.0,ml,apricot liqueur,1,31
-75.0,ml,pineapple juice,2,31
+2,tsp,egg white,4,30
+45,ml,light rum,0,31
+15,ml,apricot liqueur,1,31
+75,ml,pineapple juice,2,31
 22.5,ml,lemon juice,3,31
 7.5,ml,galliano,4,31
 ,None,orange slice,5,31
-60.0,ml,baileys,0,32
-90.0,ml,chai,1,32
+60,ml,baileys,0,32
+90,ml,chai,1,32
 ,None,sugar,2,32
 ,None,cinnamon stick,3,32
-45.0,ml,gin,0,33
-15.0,ml,maraschino,1,33
+45,ml,gin,0,33
+15,ml,maraschino,1,33
 22.5,ml,lemon juice,2,33
-45.0,ml,silver tequila,0,34
-15.0,ml,cointreau,1,34
+45,ml,silver tequila,0,34
+15,ml,cointreau,1,34
 22.5,ml,lime juice,2,34
 22.5,ml,lemon juice,3,34
 0.25,cup,diced ripe avocado,4,34
-30.0,ml,half-and-half,5,34
-1.0,tsp,sugar,6,34
+30,ml,half-and-half,5,34
+1,tsp,sugar,6,34
 22.5,ml,lime juice,7,34
 ,None,avocado slice,8,34
-60.0,ml,bourbon whiskey,0,35
+60,ml,bourbon whiskey,0,35
 7.5,ml,crème de cacao,1,35
 7.5,ml,galliano,2,35
 22.5,ml,egg white,3,35
-2.0,dash,chocolate bitters,4,35
+2,dash,chocolate bitters,4,35
 ,None,nutmeg,5,35
-15.0,ml,bénédictine,0,36
-15.0,ml,cognac,1,36
-20.0,ml,kahlua,0,37
-20.0,ml,baileys irish cream,0,38
-20.0,ml,grand marnier,1,38
-45.0,ml,rum,0,39
+15,ml,bénédictine,0,36
+15,ml,cognac,1,36
+20,ml,kahlua,0,37
+20,ml,baileys irish cream,0,38
+20,ml,grand marnier,1,38
+45,ml,rum,0,39
 22.5,ml,lime juice,1,39
-10.0,ml,grenadine,2,39
-30.0,ml,dark rum,0,40
-15.0,ml,coconut rum,1,40
-15.0,ml,coffee liqueur,2,40
-120.0,ml,pineapple juice,3,40
+10,ml,grenadine,2,39
+30,ml,dark rum,0,40
+15,ml,coconut rum,1,40
+15,ml,coffee liqueur,2,40
+120,ml,pineapple juice,3,40
 22.5,ml,lemon juice,4,40
-1.0,tbsp,dark rum,5,40
+1,tbsp,dark rum,5,40
 ,None,pineapple wedge,6,40
 ,None,maraschino cherry,7,40
-45.0,ml,gin,0,41
-60.0,ml,guava nectar,1,41
+45,ml,gin,0,41
+60,ml,guava nectar,1,41
 22.5,ml,lime juice,2,41
-30.0,ml,pomegranate syrup,3,41
-120.0,ml,chilled club soda,4,41
+30,ml,pomegranate syrup,3,41
+120,ml,club soda,4,41
 22.5,ml,lime juice,5,41
 ,None,orange blossom,6,41
-30.0,ml,rum,0,42
-20.0,ml,crème de cacao,1,42
-15.0,ml,crème de banane,2,42
-60.0,ml,heavy cream,3,42
-1.0,None,"ripe banana, peeled and sliced",4,42
-45.0,ml,gold rum,0,43
-15.0,ml,galliano,1,43
-60.0,ml,pineapple juice,2,43
+30,ml,rum,0,42
+20,ml,crème de cacao,1,42
+15,ml,crème de banane,2,42
+60,ml,heavy cream,3,42
+1,None,banana,4,42
+45,ml,gold rum,0,43
+15,ml,galliano,1,43
+60,ml,pineapple juice,2,43
 22.5,ml,lime juice,3,43
 22.5,ml,lime juice,0,44
 ,None,sugar,1,44
-60.0,ml,gold rum,2,44
-15.0,ml,cointreau,3,44
+60,ml,gold rum,2,44
+15,ml,cointreau,3,44
 7.5,ml,maraschino liqueur,4,44
 7.5,ml,cherry brandy,5,44
 22.5,ml,lime juice,6,44
 22.5,ml,lime juice,7,44
-60.0,ml,gin,0,45
-15.0,ml,white crème de cacao,1,45
-1.0,None,egg white,2,45
+60,ml,gin,0,45
+15,ml,white crème de cacao,1,45
+1,None,egg white,2,45
 0.5,tsp,grenadine,3,45
-60.0,ml,gin,0,46
+60,ml,gin,0,46
 22.5,ml,honey,1,46
 22.5,ml,lemon juice,2,46
-60.0,ml,gin,0,47
+60,ml,gin,0,47
 22.5,ml,honey,1,47
 22.5,ml,lemon juice,2,47
-60.0,ml,gin,0,48
+60,ml,gin,0,48
 22.5,ml,honey,1,48
 22.5,ml,lemon juice,2,48
-30.0,ml,gin,0,49
+30,ml,gin,0,49
 ,ml,campari,1,49
-15.0,ml,limoncello,2,49
-15.0,ml,mandarine napoléon,3,49
+15,ml,limoncello,2,49
+15,ml,mandarine napoléon,3,49
 ,ml,orange juice,4,49
 22.5,ml,lime juice,5,49
-45.0,ml,blended whiskey,0,50
+45,ml,blended whiskey,0,50
 22.5,ml,harveys bristol cream sherry,1,50
 22.5,ml,lemon juice,2,50
-30.0,ml,simple syrup,3,50
-45.0,ml,orange juice,4,50
-45.0,ml,cranberry juice,5,50
-30.0,ml,chilled 7-up,6,50
-30.0,ml,chilled club soda,7,50
+30,ml,simple syrup,3,50
+45,ml,orange juice,4,50
+45,ml,cranberry juice,5,50
+30,ml,7-up,6,50
+30,ml,club soda,7,50
 ,None,whole strawberry,8,50
 ,None,lemon wedge,9,50
-,None,mint sprig,10,50
-45.0,ml,blended whiskey,0,51
-15.0,ml,drambuie,1,51
+,None,mint,10,50
+45,ml,blended whiskey,0,51
+15,ml,drambuie,1,51
 7.5,ml,kirsch,2,51
-30.0,ml,light rum,0,52
-30.0,ml,cognac,1,52
-30.0,ml,triple sec,2,52
+30,ml,light rum,0,52
+30,ml,cognac,1,52
+30,ml,triple sec,2,52
 22.5,ml,lemon juice,3,52
 22.5,ml,brandy,0,53
 22.5,ml,rum,1,53
 22.5,ml,cointreau,2,53
 22.5,ml,lemon juice,3,53
-30.0,ml,brandy,0,54
-30.0,ml,gin,1,54
-30.0,ml,cointreau,2,54
+30,ml,brandy,0,54
+30,ml,gin,1,54
+30,ml,cointreau,2,54
 22.5,ml,lemon juice,3,54
-30.0,ml,brandy,0,55
-30.0,ml,light rum,1,55
-30.0,ml,cointreau,2,55
+30,ml,brandy,0,55
+30,ml,light rum,1,55
+30,ml,cointreau,2,55
 22.5,ml,lemon juice,3,55
-45.0,ml,brandy,0,56
-15.0,ml,bndictine,1,56
-15.0,ml,cointreau,2,56
+45,ml,brandy,0,56
+15,ml,bénédictine,1,56
+15,ml,cointreau,2,56
 22.5,ml,lemon juice,3,56
-30.0,ml,light rum,0,57
-30.0,ml,cointreau,1,57
-30.0,ml,cognac,2,57
+30,ml,light rum,0,57
+30,ml,cointreau,1,57
+30,ml,cognac,2,57
 22.5,ml,lemon juice,3,57
-30.0,ml,brandy,0,58
-30.0,ml,light rum,1,58
-30.0,ml,cointreau,2,58
+30,ml,brandy,0,58
+30,ml,light rum,1,58
+30,ml,cointreau,2,58
 22.5,ml,lemon juice,3,58
-30.0,ml,green chartreuse,0,59
-30.0,ml,sweet vermouth,1,59
-30.0,ml,gin,2,59
-1.0,dash,orange bitters,3,59
-30.0,ml,gin,0,60
-30.0,ml,sweet vermouth,1,60
-30.0,ml,green chartreuse,2,60
-1.0,dash,orange bitters,3,60
-45.0,ml,gin,0,61
+30,ml,green chartreuse,0,59
+30,ml,sweet vermouth,1,59
+30,ml,gin,2,59
+1,dash,orange bitters,3,59
+30,ml,gin,0,60
+30,ml,sweet vermouth,1,60
+30,ml,green chartreuse,2,60
+1,dash,orange bitters,3,60
+45,ml,gin,0,61
 22.5,ml,sweet vermouth,1,61
 22.5,ml,green chartreuse,2,61
-2.0,dash,orange bitters,3,61
-45.0,ml,gin,0,62
+2,dash,orange bitters,3,61
+45,ml,gin,0,62
 22.5,ml,sweet vermouth,1,62
-15.0,ml,green chartreuse,2,62
-1.0,dash,angostura bitters,3,62
+15,ml,green chartreuse,2,62
+1,dash,angostura,3,62
 22.5,ml,tequila,0,63
 22.5,ml,white crème de cacao,1,63
 7.5,ml,amaretto,2,63
-45.0,ml,heavy cream,3,63
+45,ml,heavy cream,3,63
 22.5,ml,lime juice,0,64
 ,None,salt,1,64
-45.0,ml,tequila,2,64
+45,ml,tequila,2,64
 22.5,ml,orange liqueur,3,64
-45.0,ml,sweet-and-sour,4,64
-0.5,cup,orange cherry tomatoes,5,64
-1.0,None,"clove garlic, finely minced",6,64
-1.0,None,chopped green onion,7,64
-3.0,dash,worcestershire sauce,8,64
-2.0,None,orange cherry tomatoes,9,64
+0.5,cup,orange cherry tomatoes,4,64
+1,None,minced clove garlic,5,64
+1,None,chopped green onion,6,64
+3,dash,worcestershire sauce,7,64
+2,None,orange cherry tomatoes,8,64
 7.5,ml,dry vermouth,0,65
 ,None,black olive,1,65
-30.0,ml,tequila,0,66
-30.0,ml,vodka,1,66
-60.0,ml,kahlúa,2,66
-30.0,ml,gold rum,0,67
+30,ml,tequila,0,66
+30,ml,vodka,1,66
+60,ml,kahlúa,2,66
+30,ml,gold rum,0,67
 7.5,ml,southern comfort,1,67
-1.0,tsp,sugar,2,67
+1,tsp,sugar,2,67
 22.5,ml,lime juice,3,67
-60.0,ml,irish whiskey,0,68
+60,ml,irish whiskey,0,68
 7.5,ml,cointreau,1,68
 7.5,ml,absinthe substitute,2,68
 ,dash,maraschino liqueur,3,68
-,dash,angostura bitters,4,68
+,dash,angostura,4,68
 ,None,lemon twist,5,68
-90.0,ml,bourbon whiskey,0,69
-30.0,ml,cranberry juice,1,69
+90,ml,bourbon whiskey,0,69
+30,ml,cranberry juice,1,69
 22.5,ml,lemon juice,2,69
-30.0,ml,simple syrup,3,69
+30,ml,simple syrup,3,69
 ,None,lemon wedge,4,69
 22.5,ml,scotch whiskey,0,70
 22.5,ml,cherry heering,1,70
 22.5,ml,sweet vermouth,2,70
-30.0,ml,orange juice,3,70
+30,ml,orange juice,3,70
 22.5,ml,scotch whiskey,0,71
 22.5,ml,sweet vermouth,1,71
 22.5,ml,orange juice,2,71
 22.5,ml,cherry heering,3,71
-45.0,ml,scotch whiskey,0,72
+45,ml,scotch whiskey,0,72
 22.5,ml,orange juice,1,72
-15.0,ml,cherry heering,2,72
-15.0,ml,sweet vermouth,3,72
-60.0,ml,silver tequila,0,73
+15,ml,cherry heering,2,72
+15,ml,sweet vermouth,3,72
+60,ml,silver tequila,0,73
 22.5,ml,lime juice,1,73
-1.0,None,"clove garlic, finely minced",2,73
+1,None,minced clove garlic,2,73
 0.25,cup,chopped cucumber,3,73
-3.0,dash,worcestershire sauce,4,73
-3.0,dash,tabasco sauce or other hot sauce,5,73
-150.0,ml,tomato or v8 juice,6,73
+3,dash,worcestershire sauce,4,73
+3,dash,hot sauce,5,73
+150,ml,tomato juice,6,73
 22.5,ml,lime juice,7,73
 ,None,celery stalk,8,73
-15.0,ml,blue curaçao,0,74
-15.0,ml,brandy,1,74
-15.0,ml,parfait amour,2,74
-15.0,ml,heavy cream,3,74
+15,ml,blue curaçao,0,74
+15,ml,brandy,1,74
+15,ml,parfait amour,2,74
+15,ml,heavy cream,3,74
 22.5,ml,lemon juice,4,74
-45.0,ml,bourbon whiskey,0,75
-30.0,ml,pineapple juice,1,75
+45,ml,bourbon whiskey,0,75
+30,ml,pineapple juice,1,75
 22.5,ml,lemon juice,2,75
 7.5,ml,maraschino liqueur,3,75
-30.0,ml,light rum,0,76
-30.0,ml,blue curaçao,1,76
-30.0,ml,coconut cream,2,76
-60.0,ml,pineapple juice,3,76
+30,ml,light rum,0,76
+30,ml,blue curaçao,1,76
+30,ml,coconut cream,2,76
+60,ml,pineapple juice,3,76
 ,None,pineapple wedge,4,76
 ,None,maraschino cherry,5,76
 22.5,ml,lime juice,0,77
 ,None,kosher salt,1,77
-60.0,ml,tequila,2,77
-30.0,ml,blue curaçao,3,77
-30.0,ml,cointreau,4,77
+60,ml,tequila,2,77
+30,ml,blue curaçao,3,77
+30,ml,cointreau,4,77
 22.5,ml,lime juice,5,77
 ,None,lemon wedge,0,78
 ,None,sugar,1,78
-60.0,ml,rum,2,78
-15.0,ml,blue curaçao,3,78
-15.0,ml,sweet-and-sour,4,78
+60,ml,rum,2,78
+15,ml,blue curaçao,3,78
+15,ml,sweet-and-sour,4,78
 ,None,orange blossom,5,78
-30.0,ml,gin,0,79
-30.0,ml,cointreau,1,79
+30,ml,gin,0,79
+30,ml,cointreau,1,79
 ,dash,blue curaçao,2,79
-120.0,ml,chilled club soda,3,79
+120,ml,club soda,3,79
 22.5,ml,tequila,0,80
 7.5,ml,blue curaçao,1,80
-3.0,dash,galliano,2,80
-45.0,ml,heavy cream,3,80
-45.0,ml,tequila,0,81
-45.0,ml,vodka,1,81
-15.0,ml,"blue curaçao """,2,81
-60.0,ml,highland malt scotch,0,82
+3,dash,galliano,2,80
+45,ml,heavy cream,3,80
+45,ml,tequila,0,81
+45,ml,vodka,1,81
+15,ml,blue curaçao,2,81
+60,ml,highland malt scotch,0,82
 22.5,ml,sweet vermouth,1,82
-15.0,ml,benedictine,2,82
-60.0,ml,amaretto,0,83
-120.0,ml,orange juice,1,83
-60.0,ml,chilled club soda,2,83
+15,ml,bénédictine,2,82
+60,ml,amaretto,0,83
+120,ml,orange juice,1,83
+60,ml,club soda,2,83
 ,None,orange slice,3,83
-45.0,ml,light rum,0,84
+45,ml,light rum,0,84
 22.5,ml,calvados,1,84
 0.5,tsp,sweet vermouth,2,84
 22.5,ml,lime juice,0,85
 ,None,salt,1,85
-45.0,ml,silver tequila,2,85
-30.0,ml,midori liqueur,3,85
-15.0,ml,orange liqueur,4,85
+45,ml,silver tequila,2,85
+30,ml,midori liqueur,3,85
+15,ml,orange liqueur,4,85
 22.5,ml,lime juice,5,85
-1.0,tbsp,sugar,6,85
+1,tbsp,sugar,6,85
 ,None,lemon twist,7,85
-45.0,ml,cachaça,0,86
-30.0,ml,frangelico,1,86
-15.0,ml,cointreau,2,86
+45,ml,cachaça,0,86
+30,ml,frangelico,1,86
+15,ml,cointreau,2,86
 22.5,ml,lime juice,3,86
 22.5,ml,cranberry juice,4,86
-1.0,tbsp,honey,5,86
-2.0,None,cranberries,6,86
+1,tbsp,honey,5,86
+2,None,cranberries,6,86
 22.5,ml,lime juice,7,86
-45.0,ml,gin,0,87
-45.0,ml,apricot brandy,1,87
+45,ml,gin,0,87
+45,ml,apricot brandy,1,87
 22.5,ml,lemon juice,2,87
 ,dash,grenadine,3,87
-45.0,ml,bourbon whiskey,0,88
-30.0,ml,campari,1,88
-30.0,ml,sweet vermouth,2,88
-60.0,ml,rye whiskey,0,89
-30.0,ml,campari,1,89
-30.0,ml,sweet vermouth,2,89
+45,ml,bourbon whiskey,0,88
+30,ml,campari,1,88
+30,ml,sweet vermouth,2,88
+60,ml,rye whiskey,0,89
+30,ml,campari,1,89
+30,ml,sweet vermouth,2,89
 ,None,lemon wedge,0,90
-60.0,ml,bourbon whiskey,1,90
-150.0,ml,ginger ale,2,90
+60,ml,bourbon whiskey,1,90
+150,ml,ginger ale,2,90
 ,None,lemon wedge,0,91
 ,None,sugar,1,91
 ,None,lemon twist,2,91
-60.0,ml,bourbon whiskey,3,91
-15.0,ml,cointreau,4,91
+60,ml,bourbon whiskey,3,91
+15,ml,cointreau,4,91
 22.5,ml,lemon juice,5,91
-60.0,ml,bourbon whiskey,0,92
-15.0,ml,dark crème de cacao,1,92
-120.0,ml,milk,2,92
+60,ml,bourbon whiskey,0,92
+15,ml,dark crème de cacao,1,92
+120,ml,milk,2,92
 ,dash,vanilla extract,3,92
 0.25,tsp,ground cinnamon,4,92
-,None,freshly grated or ground nutmeg,5,92
-75.0,ml,bourbon whiskey,0,93
-15.0,ml,southern comfort,1,93
+,None,ground nutmeg,5,92
+75,ml,bourbon whiskey,0,93
+15,ml,southern comfort,1,93
 22.5,ml,lemon juice,2,93
-180.0,ml,chilled club soda,3,93
+180,ml,club soda,3,93
 ,None,lemon wedge,4,93
-60.0,ml,bourbon whiskey,0,94
-15.0,ml,apricot brandy,1,94
+60,ml,bourbon whiskey,0,94
+15,ml,apricot brandy,1,94
 22.5,ml,lemon juice,2,94
-180.0,ml,ginger ale,3,94
+180,ml,ginger ale,3,94
 ,None,lemon wedge,4,94
-60.0,ml,bourbon whiskey,0,95
-30.0,ml,dark crème de cacao,1,95
-2.0,None,vanilla beans or 1/2 teaspoon vanilla extract,2,95
-40.0,ml,gin,0,96
+60,ml,bourbon whiskey,0,95
+30,ml,dark crème de cacao,1,95
+2,None,vanilla bean,2,95
+40,ml,gin,0,96
 22.5,ml,lemon juice,1,96
-10.0,ml,sugar,2,96
-15.0,ml,blackberry liqueur,3,96
-5.0,None,blackberries,0,97
-1.0,tsp,sugar,1,97
+10,ml,sugar,2,96
+15,ml,blackberry liqueur,3,96
+5,None,blackberries,0,97
+1,tsp,sugar,1,97
 22.5,ml,lime juice,2,97
-45.0,ml,gin,3,97
-15.0,ml,crème de mûre,4,97
-120.0,ml,chilled club soda,5,97
+45,ml,gin,3,97
+15,ml,crème de mûre,4,97
+120,ml,club soda,5,97
 22.5,ml,lime juice,6,97
-45.0,ml,rum,0,98
+45,ml,rum,0,98
 22.5,ml,b&b,1,98
-45.0,ml,lemon wedge,2,98
-1.0,tsp,egg white,3,98
-2.0,dash,orange bitters,4,98
-45.0,ml,gold tequila,0,99
-30.0,ml,kahlúa,1,99
-30.0,ml,rye whiskey,0,100
-30.0,ml,applejack,1,100
+45,ml,lemon wedge,2,98
+1,tsp,egg white,3,98
+2,dash,orange bitters,4,98
+45,ml,gold tequila,0,99
+30,ml,kahlúa,1,99
+30,ml,rye whiskey,0,100
+30,ml,applejack,1,100
 22.5,ml,curaao,2,100
 22.5,ml,lemon juice,3,100
-60.0,ml,gin,0,101
+60,ml,gin,0,101
 22.5,ml,orange juice,1,101
-15.0,ml,dry vermouth,2,101
-15.0,ml,sweet vermouth,3,101
-60.0,ml,gin,0,102
+15,ml,dry vermouth,2,101
+15,ml,sweet vermouth,3,101
+60,ml,gin,0,102
 7.5,ml,sweet vermouth,1,102
 7.5,ml,dry vermouth,2,102
-30.0,ml,orange juice,3,102
-60.0,ml,gin,0,103
+30,ml,orange juice,3,102
+60,ml,gin,0,103
 7.5,ml,sweet vermouth,1,103
 7.5,ml,dry vermouth,2,103
-30.0,ml,orange juice,3,103
-45.0,ml,gin,0,104
+30,ml,orange juice,3,103
+45,ml,gin,0,104
 7.5,ml,sweet vermouth,1,104
 7.5,ml,dry vermouth,2,104
-45.0,ml,orange juice,3,104
-45.0,ml,gin,0,105
+45,ml,orange juice,3,104
+45,ml,gin,0,105
 22.5,ml,orange juice,1,105
-1.0,tsp,vermouth,2,105
-1.0,tsp,vermouth,3,105
-60.0,ml,rye whiskey,0,106
+1,tsp,vermouth,2,105
+1,tsp,vermouth,3,105
+60,ml,rye whiskey,0,106
 22.5,ml,dry vermouth,1,106
 7.5,ml,luxardo maraschino liqueur,2,106
 7.5,ml,amer picon,3,106
-60.0,ml,rye whiskey,0,107
+60,ml,rye whiskey,0,107
 22.5,ml,dry vermouth,1,107
-2.0,tsp,maraschino liqueur,2,107
-2.0,tsp,torani amer,3,107
-60.0,ml,rye whiskey,0,108
-30.0,ml,dry vermouth,1,108
+2,tsp,maraschino liqueur,2,107
+2,tsp,torani amer,3,107
+60,ml,rye whiskey,0,108
+30,ml,dry vermouth,1,108
 7.5,ml,luxardo maraschino liqueur,2,108
 7.5,ml,bigallet china china amer,3,108
-1.0,drop,angostura bitters,4,108
-45.0,ml,rye whiskey,0,109
+1,drop,angostura,4,108
+45,ml,rye whiskey,0,109
 22.5,ml,sweet vermouth,1,109
 ,dash,maraschino liqueur,2,109
 ,None,lemon twist,3,109
-60.0,ml,bourbon whiskey,0,110
-30.0,ml,grapefruit juice,1,110
-15.0,ml,honey,2,110
-60.0,ml,bourbon whiskey,0,111
-30.0,ml,grapefruit juice,1,111
-15.0,ml,honey,2,111
-60.0,ml,bourbon whiskey,0,112
-30.0,ml,grapefruit juice,1,112
+60,ml,bourbon whiskey,0,110
+30,ml,grapefruit juice,1,110
+15,ml,honey,2,110
+60,ml,bourbon whiskey,0,111
+30,ml,grapefruit juice,1,111
+15,ml,honey,2,111
+60,ml,bourbon whiskey,0,112
+30,ml,grapefruit juice,1,112
 22.5,ml,honey,2,112
-60.0,ml,premium aged rum,0,113
+60,ml,rum,0,113
 7.5,ml,simple syrup,1,113
-30.0,ml,amaretto,0,114
-30.0,ml,baileys irish cream,1,114
-30.0,ml,tia maria,2,114
-60.0,ml,heavy cream,3,114
-60.0,ml,butterscotch schnapps,0,115
-45.0,ml,baileys irish cream,1,115
-180.0,ml,milk,2,115
-15.0,ml,chocolate syrup,3,115
-60.0,ml,tequila,0,116
-30.0,ml,grand marnier,1,116
+30,ml,amaretto,0,114
+30,ml,baileys irish cream,1,114
+30,ml,tia maria,2,114
+60,ml,heavy cream,3,114
+60,ml,butterscotch schnapps,0,115
+45,ml,baileys irish cream,1,115
+180,ml,milk,2,115
+15,ml,chocolate syrup,3,115
+60,ml,tequila,0,116
+30,ml,grand marnier,1,116
 22.5,ml,lime juice,2,116
 22.5,ml,lime juice,3,116
-30.0,ml,sambuca,0,117
-30.0,ml,kahlúa or tia maria,1,117
-30.0,ml,heavy cream,2,117
-30.0,ml,scotch whiskey,0,118
-30.0,ml,irish whiskey,1,118
+30,ml,sambuca,0,117
+30,ml,kahlúa,1,117
+30,ml,heavy cream,2,117
+30,ml,scotch whiskey,0,118
+30,ml,irish whiskey,1,118
 22.5,ml,lemon juice,2,118
-15.0,ml,kassatly chtaura orgeat,3,118
-30.0,ml,scotch whiskey,0,119
-30.0,ml,irish whiskey,1,119
+15,ml,kassatly chtaura orgeat,3,118
+30,ml,scotch whiskey,0,119
+30,ml,irish whiskey,1,119
 22.5,ml,lemon juice,2,119
 22.5,ml,orgeat,3,119
-60.0,ml,blended whiskey,0,120
-15.0,ml,cointreau,1,120
-1.0,tsp,simple syrup,2,120
-2.0,dash,angostura bitters,3,120
-30.0,ml,white crème de cacao,0,121
-30.0,ml,crème de banane,1,121
-30.0,ml,heavy cream,2,121
-45.0,ml,gin,0,122
-15.0,ml,limoncello,1,122
+60,ml,blended whiskey,0,120
+15,ml,cointreau,1,120
+1,tsp,simple syrup,2,120
+2,dash,angostura,3,120
+30,ml,white crème de cacao,0,121
+30,ml,crème de banane,1,121
+30,ml,heavy cream,2,121
+45,ml,gin,0,122
+15,ml,limoncello,1,122
 7.5,ml,peach schnapps,2,122
-30.0,ml,grapefruit juice,3,122
-30.0,ml,mango juice,4,122
+30,ml,grapefruit juice,3,122
+30,ml,mango juice,4,122
 ,dash,orgeat syrup,5,122
-30.0,ml,dark rum,0,123
-30.0,ml,crème de banane,1,123
-15.0,ml,apricot brandy,2,123
+30,ml,dark rum,0,123
+30,ml,crème de banane,1,123
+15,ml,apricot brandy,2,123
 22.5,ml,lemon juice,3,123
 ,dash,sloe gin,4,123
 ,None,banana slice,5,123
-30.0,ml,gin,0,124
-30.0,ml,crème de banane,1,124
-30.0,ml,blue curaçao,2,124
+30,ml,gin,0,124
+30,ml,crème de banane,1,124
+30,ml,blue curaçao,2,124
 22.5,ml,lemon juice,3,124
-15.0,ml,heavy cream,4,124
+15,ml,heavy cream,4,124
 ,dash,grenadine,5,124
 ,None,orange slice,6,124
 ,None,maraschino cherry,7,124
-75.0,ml,light rum,0,125
-15.0,ml,cointreau,1,125
-15.0,ml,maraschino liqueur,2,125
+75,ml,light rum,0,125
+15,ml,cointreau,1,125
+15,ml,maraschino liqueur,2,125
 22.5,ml,lime juice,3,125
-45.0,ml,bourbon whiskey,0,126
+45,ml,bourbon whiskey,0,126
 22.5,ml,sweet marsala,1,126
 22.5,ml,kahlúa,2,126
-30.0,ml,heavy cream,3,126
-40.0,ml,old tom gin,0,127
-10.0,ml,marachino,1,127
-10.0,ml,orange bitters,2,127
+30,ml,heavy cream,3,126
+40,ml,gin,0,127
+10,ml,marachino,1,127
+10,ml,orange bitters,2,127
 22.5,ml,lemon juice,3,127
-45.0,ml,gold rum,0,128
+45,ml,gold rum,0,128
 22.5,ml,calvados,1,128
-45.0,ml,orange juice,2,128
+45,ml,orange juice,2,128
 22.5,ml,lime juice,3,128
-1.0,tsp,sugar,4,128
+1,tsp,sugar,4,128
 22.5,ml,lime juice,5,128
-45.0,ml,gold rum,0,129
+45,ml,gold rum,0,129
 22.5,ml,light rum,1,129
 7.5,ml,tia maria,2,129
 7.5,ml,triple sec,3,129
 22.5,ml,lime juice,4,129
 ,dash,grenadine,5,129
-,None,mint sprig,6,129
-90.0,ml,chilled champagne,0,130
-10.0,ml,cognac,1,130
-2.0,dash,angostura bitters,2,130
-1.0,None,sugar,3,130
-45.0,ml,cognac,0,131
+,None,mint,6,129
+90,ml,champagne,0,130
+10,ml,cognac,1,130
+2,dash,angostura,2,130
+1,None,sugar,3,130
+45,ml,cognac,0,131
 22.5,ml,lemon juice,1,131
-15.0,ml,green chartreuse,2,131
-15.0,ml,simple syrup,3,131
-2.0,dash,angostura bitters,4,131
-60.0,ml,hine vsop cognac,0,132
+15,ml,green chartreuse,2,131
+15,ml,simple syrup,3,131
+2,dash,angostura,4,131
+60,ml,hine h cognac,0,132
 22.5,ml,lemon juice,1,132
-15.0,ml,green chartreuse,2,132
+15,ml,green chartreuse,2,132
 7.5,ml,simple syrup,3,132
-1.0,dash,angostura bitters,4,132
-3.0,None,glasses cognac,0,133
-1.0,None,glass chartreuse,1,133
+1,dash,angostura,4,132
+3,None,cognac,0,133
+1,None,glass chartreuse,1,133
 22.5,ml,lemon juice,2,133
-1.0,dash,angostura bitters,3,133
-45.0,ml,cognac,0,134
-15.0,ml,green chartreuse,1,134
+1,dash,angostura,3,133
+45,ml,cognac,0,134
+15,ml,green chartreuse,1,134
 22.5,ml,lemon juice,2,134
 3.75,ml,simple syrup,3,134
-2.0,dash,angostura bitters,4,134
-45.0,ml,silver tequila,0,135
+2,dash,angostura,4,134
+45,ml,silver tequila,0,135
 0.5,tsp,cointreau,1,135
-30.0,ml,orange juice,2,135
+30,ml,orange juice,2,135
 22.5,ml,lemon juice,3,135
 7.5,ml,grenadine,4,135
 ,None,orange slice,5,135
-30.0,ml,apricot brandy,0,136
-30.0,ml,sloe gin,1,136
+30,ml,apricot brandy,0,136
+30,ml,sloe gin,1,136
 22.5,ml,lime juice,2,136
-30.0,ml,marie brizard apry,0,137
-30.0,ml,sloe gin,1,137
+30,ml,marie brizard apry,0,137
+30,ml,sloe gin,1,137
 22.5,ml,lime juice,2,137
 37.5,ml,green chartreuse,0,138
-30.0,ml,pineapple juice,1,138
+30,ml,pineapple juice,1,138
 22.5,ml,lime juice,2,138
-15.0,ml,velvet falernum,3,138
-60.0,ml,gin,0,139
+15,ml,velvet falernum,3,138
+60,ml,gin,0,139
 22.5,ml,cherry heering,1,139
 7.5,ml,crème de cassis,2,139
 22.5,ml,lemon juice,3,139
 7.5,ml,simple syrup,4,139
 ,None,lemon wedge,5,139
 ,None,maraschino cherry,6,139
-,None,mint sprig,7,139
-30.0,ml,gold tequila,0,140
-30.0,ml,cherry brandy,1,140
+,None,mint,7,139
+30,ml,gold tequila,0,140
+30,ml,cherry brandy,1,140
 22.5,ml,lime juice,2,140
-30.0,ml,apple juice,3,140
+30,ml,apple juice,3,140
 22.5,ml,lime juice,4,140
 22.5,ml,amaretto,0,141
 22.5,ml,baileys irish cream,1,141
 22.5,ml,dark crème de cacao,2,141
-45.0,ml,gold tequila,0,142
+45,ml,gold tequila,0,142
 22.5,ml,godiva liqueur,1,142
-15.0,ml,cointreau,2,142
-30.0,ml,sweet-and-sour,3,142
+15,ml,cointreau,2,142
+30,ml,sweet-and-sour,3,142
 7.5,ml,orange juice,4,142
-60.0,ml,dry vermouth,0,143
-22.5,ml,benedictine,1,143
+60,ml,dry vermouth,0,143
+22.5,ml,bénédictine,1,143
 7.5,ml,vieux pontarlier absinthe,2,143
-1.0,dash,orange bitters,3,143
-45.0,ml,bourbon whiskey,0,144
-30.0,ml,brandy,1,144
-15.0,ml,triple sec,2,144
-120.0,ml,ginger ale,3,144
+1,dash,orange bitters,3,143
+45,ml,bourbon whiskey,0,144
+30,ml,brandy,1,144
+15,ml,triple sec,2,144
+120,ml,ginger ale,3,144
 22.5,ml,lime juice,0,145
-1.0,tbsp,honey,1,145
-30.0,ml,damiana liqueur,2,145
-45.0,ml,rum,3,145
-90.0,ml,tangerine juice,4,145
-30.0,ml,gin,0,146
-30.0,ml,dry vermouth,1,146
-15.0,ml,triple sec,2,146
-15.0,ml,apricot brandy,3,146
+1,tbsp,honey,1,145
+30,ml,damiana liqueur,2,145
+45,ml,rum,3,145
+90,ml,tangerine juice,4,145
+30,ml,gin,0,146
+30,ml,dry vermouth,1,146
+15,ml,triple sec,2,146
+15,ml,apricot brandy,3,146
 37.5,ml,gin,0,147
 22.5,ml,lime juice,1,147
 22.5,ml,lime juice,2,147
-75.0,ml,blended scotch,0,148
-15.0,ml,sweet vermouth,1,148
-,dash,angostura bitters,2,148
+75,ml,blended scotch,0,148
+15,ml,sweet vermouth,1,148
+,dash,angostura,2,148
 ,None,maraschino cherry,3,148
-45.0,ml,silver tequila,0,149
+45,ml,silver tequila,0,149
 22.5,ml,lime juice,1,149
 ,None,kosher salt,2,149
-1.0,None,gin,0,150
-15.0,ml,yellow chartreuse,1,150
-15.0,ml,grapefruit juice,2,150
+1,None,gin,0,150
+15,ml,yellow chartreuse,1,150
+15,ml,grapefruit juice,2,150
 7.5,ml,simple syrup,3,150
 22.5,ml,lemon juice,4,150
-60.0,ml,gin,0,151
+60,ml,gin,0,151
 22.5,ml,yellow chartreuse,1,151
 22.5,ml,grapefruit juice,2,151
 22.5,ml,lemon juice,3,151
-45.0,ml,gin,0,152
+45,ml,gin,0,152
 22.5,ml,simple syrup,1,152
 22.5,ml,lemon juice,2,152
 7.5,ml,raspberry syrup,3,152
-2.0,tsp,egg white,4,152
-60.0,ml,gin,0,153
+2,tsp,egg white,4,152
+60,ml,gin,0,153
 22.5,ml,lemon juice,1,153
 22.5,ml,simple syrup,2,153
-5.0,None,raspberries,3,153
-1.0,None,egg white,4,153
-60.0,ml,gin,0,154
+5,None,raspberries,3,153
+1,None,egg white,4,153
+60,ml,gin,0,154
 22.5,ml,lemon juice,1,154
-15.0,ml,simple syrup,2,154
-1.0,tsp,bonne maman raspberry preserves,3,154
-1.0,None,egg white,4,154
-45.0,ml,gin,0,155
-15.0,ml,raspberry syrup,1,155
+15,ml,simple syrup,2,154
+1,tsp,bonne maman raspberry preserves,3,154
+1,None,egg white,4,154
+45,ml,gin,0,155
+15,ml,raspberry syrup,1,155
 22.5,ml,lemon juice,2,155
-60.0,ml,rye whiskey,0,156
+60,ml,rye whiskey,0,156
 22.5,ml,sweet vermouth,1,156
-22.5,ml,benedictine,2,156
-3.0,dash,st. george absinthe,3,156
-3.0,dash,peychaud’s bitters,4,156
-60.0,ml,rye whiskey,0,157
-15.0,ml,benedictine,1,157
-15.0,ml,sweet vermouth,2,157
-3.0,dash,peychaud’s bitters,3,157
-3.0,dash,angostura bitters,4,157
-3.0,dash,absinthe,5,157
-30.0,ml,rye whiskey,0,158
-30.0,ml,cognac,1,158
-15.0,ml,benedictine,2,158
-2.0,dash,peychauds,3,158
-1.0,dash,absinthe,4,158
-30.0,ml,gin,0,159
-30.0,ml,kahlúa,1,159
-30.0,ml,heavy cream,2,159
-45.0,ml,coconut rum,0,160
-0.5,cup,coconut sorbet or gelato,1,160
+22.5,ml,bénédictine,2,156
+3,dash,absinthe,3,156
+3,dash,peychaud’s bitters,4,156
+60,ml,rye whiskey,0,157
+15,ml,bénédictine,1,157
+15,ml,sweet vermouth,2,157
+3,dash,peychaud’s bitters,3,157
+3,dash,angostura,4,157
+3,dash,absinthe,5,157
+30,ml,rye whiskey,0,158
+30,ml,cognac,1,158
+15,ml,bénédictine,2,158
+2,dash,peychauds,3,158
+1,dash,absinthe,4,158
+30,ml,gin,0,159
+30,ml,kahlúa,1,159
+30,ml,heavy cream,2,159
+45,ml,coconut rum,0,160
+0.5,cup,coconut sorbet ,1,160
 22.5,ml,lime juice,2,160
-30.0,ml,coconut milk,3,160
-30.0,ml,pineapple juice,4,160
+30,ml,coconut milk,3,160
+30,ml,pineapple juice,4,160
 ,None,pineapple wedge,5,160
-,None,dusting of ground nutmeg,6,160
-45.0,ml,bourbon whiskey,0,161
+,None,nutmeg,6,160
+45,ml,bourbon whiskey,0,161
 22.5,ml,crème de cacao,1,161
 22.5,ml,lemon juice,2,161
-45.0,ml,whiskey,0,162
-15.0,ml,grand marnier,1,162
+45,ml,whiskey,0,162
+15,ml,grand marnier,1,162
 22.5,ml,lemon juice,2,162
 ,None,orange twist,3,162
-60.0,ml,tequila,0,163
-60.0,ml,grapefruit juice,1,163
-15.0,ml,campari,2,163
-90.0,ml,chilled club soda,3,163
+60,ml,tequila,0,163
+60,ml,grapefruit juice,1,163
+15,ml,campari,2,163
+90,ml,club soda,3,163
 ,None,orange twist,4,163
 ,ml,rye whiskey,0,164
 ,ml,bourbon whiskey,1,164
 ,ml,calvados,2,164
 ,ml,hine h cognac,3,164
-1.0,tsp,demerara syrup,4,164
-,dash,angostura bitters,5,164
-1.0,dash,bittermens xocolatl mole bitters,6,164
-75.0,ml,gin,0,165
+1,tsp,demerara syrup,4,164
+,dash,angostura,5,164
+1,dash,bittermens xocolatl mole bitters,6,164
+75,ml,gin,0,165
 22.5,ml,lime juice,1,165
 22.5,ml,lime juice,2,165
-60.0,ml,spiced rum,0,166
-0.5,None,"banana, peeled and sliced",1,166
-0.25,cup,or frozen raspberries,2,166
+60,ml,spiced rum,0,166
+0.5,None,banana,1,166
+0.25,cup,frozen raspberries,2,166
 22.5,ml,lime juice,3,166
-15.0,ml,simple syrup,4,166
-2.0,None,raspberries,5,166
+15,ml,simple syrup,4,166
+2,None,None,5,166
 22.5,ml,lime juice,6,166
-45.0,ml,cognac,0,167
-15.0,ml,applejack,1,167
-30.0,ml,sweet vermouth,2,167
-2.0,dash,angostura bitters,3,167
-60.0,ml,applejack,0,168
+45,ml,cognac,0,167
+15,ml,applejack,1,167
+30,ml,sweet vermouth,2,167
+2,dash,angostura,3,167
+60,ml,applejack,0,168
 22.5,ml,sweet vermouth,1,168
 22.5,ml,brandy,2,168
 22.5,ml,lemon juice,0,169
-45.0,ml,kina lillet,1,169
-45.0,ml,cointreau,2,169
-45.0,ml,gin,3,169
-1.0,dash,absinthe,4,169
+45,ml,kina lillet,1,169
+45,ml,cointreau,2,169
+45,ml,gin,3,169
+1,dash,absinthe,4,169
 22.5,ml,gin,0,170
 22.5,ml,lillet blanc,1,170
 22.5,ml,orange curaçao,2,170
 22.5,ml,lemon juice,3,170
-40.0,ml,citron vodka,0,171
-15.0,ml,cointreau,1,171
+40,ml,citron vodka,0,171
+15,ml,cointreau,1,171
 22.5,ml,lime juice,2,171
-30.0,ml,cranberry juice,3,171
-60.0,ml,gin,0,172
-30.0,ml,cointreau,1,172
-30.0,ml,apricot brandy,2,172
-60.0,ml,citron vodka,0,173
+30,ml,cranberry juice,3,171
+60,ml,gin,0,172
+30,ml,cointreau,1,172
+30,ml,apricot brandy,2,172
+60,ml,citron vodka,0,173
 22.5,ml,cointreau,1,173
-30.0,ml,cranberry juice,2,173
+30,ml,cranberry juice,2,173
 22.5,ml,lime juice,3,173
 ,None,lemon twist,4,173
-45.0,ml,gin,0,174
+45,ml,gin,0,174
 22.5,ml,lemon juice,1,174
 7.5,ml,grenadine,2,174
 22.5,ml,ruby port,3,174
 22.5,ml,lime juice,0,175
-60.0,ml,light rum,1,175
-180.0,ml,chilled cola,2,175
-50.0,ml,light rum,3,175
-120.0,ml,cola,4,175
+60,ml,light rum,1,175
+180,ml,cola,2,175
+50,ml,light rum,3,175
+120,ml,cola,4,175
 22.5,ml,lime juice,5,175
-50.0,ml,light rum,0,176
-120.0,ml,cola,1,176
+50,ml,light rum,0,176
+120,ml,cola,1,176
 22.5,ml,lime juice,2,176
-30.0,ml,light rum,0,177
-30.0,ml,cointreau,1,177
+30,ml,light rum,0,177
+30,ml,cointreau,1,177
 22.5,ml,lime juice,2,177
 22.5,ml,lime juice,3,177
-1.0,tbsp,sugar,0,178
+1,tbsp,sugar,0,178
 22.5,ml,lime juice,1,178
-0.25,cup,thinly sliced english cucumber,2,178
-45.0,ml,silver tequila,3,178
-30.0,ml,cointreau,4,178
-60.0,ml,light rum,0,179
+0.25,cup,english cucumber,2,178
+45,ml,silver tequila,3,178
+30,ml,cointreau,4,178
+60,ml,light rum,0,179
 22.5,ml,lime juice,1,179
 22.5,ml,simple syrup,2,179
-60.0,ml,rum,0,180
+60,ml,rum,0,180
 22.5,ml,lime juice,1,180
 22.5,ml,simple syrup,2,180
-60.0,ml,light rum,0,181
+60,ml,light rum,0,181
 22.5,ml,lime juice,1,181
-15.0,ml,simple syrup,2,181
-60.0,ml,rum,0,182
-1.0,tsp,gum syrup,1,182
+15,ml,simple syrup,2,181
+60,ml,rum,0,182
+1,tsp,gum syrup,1,182
 22.5,ml,lime juice,2,182
-45.0,ml,light rum,0,183
+45,ml,light rum,0,183
 22.5,ml,lime juice,1,183
-15.0,ml,simple syrup,2,183
+15,ml,simple syrup,2,183
 22.5,ml,lime juice,0,184
-6.0,tsp,sugar,1,184
-360.0,ml,bacardi cups,2,184
-120.0,ml,mineral water,3,184
+6,tsp,sugar,1,184
+360,ml,bacardi cups,2,184
+120,ml,water,3,184
 ,None,crushed ice,4,184
-45.0,ml,irish whiskey,0,185
+45,ml,irish whiskey,0,185
 22.5,ml,drambuie,1,185
 22.5,ml,lemon juice,2,185
-120.0,ml,ginger ale,3,185
+120,ml,ginger ale,3,185
 ,None,lemon twist,4,185
-30.0,ml,gin,0,186
+30,ml,gin,0,186
 22.5,ml,campari,1,186
 52.5,ml,orange juice,2,186
 ,None,orange slice,3,186
@@ -819,1984 +818,1980 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 0.25,cup,ice cream,3,187
 ,None,chocolate shavings,4,187
 22.5,ml,brandy,0,188
-22.5,ml,applejack or calvados,1,188
+22.5,ml,applejack,1,188
 22.5,ml,triple sec,2,188
 22.5,ml,lemon juice,3,188
 22.5,ml,applejack,0,189
 22.5,ml,cognac,1,189
 22.5,ml,lemon juice,2,189
-30.0,ml,cointreau,3,189
-60.0,ml,single-malt scotch,0,190
-30.0,ml,ginger liqueur,1,190
+30,ml,cointreau,3,189
+60,ml,single-malt scotch,0,190
+30,ml,ginger liqueur,1,190
 ,None,lemon twist,2,190
-30.0,ml,gin,0,191
-30.0,ml,cognac,1,191
-15.0,ml,dry vermouth,2,191
-15.0,ml,sweet vermouth,3,191
-2.0,dash,angostura bitters,4,191
-45.0,ml,blended whiskey,0,192
-15.0,ml,southern comfort,1,192
+30,ml,gin,0,191
+30,ml,cognac,1,191
+15,ml,dry vermouth,2,191
+15,ml,sweet vermouth,3,191
+2,dash,angostura,4,191
+45,ml,blended whiskey,0,192
+15,ml,southern comfort,1,192
 22.5,ml,lime juice,2,192
-1.0,tsp,sugar,3,192
+1,tsp,sugar,3,192
 ,None,orange slice,4,192
 ,None,peach slice,5,192
-45.0,ml,blended whiskey,0,193
-15.0,ml,sweet vermouth,1,193
-15.0,ml,cointreau,2,193
+45,ml,blended whiskey,0,193
+15,ml,sweet vermouth,1,193
+15,ml,cointreau,2,193
 22.5,ml,lime juice,3,193
-,None,mint sprig,4,193
-60.0,ml,gin,5,193
-2.0,drop,peach bitters,6,193
-2.0,None,mint leafs,7,193
-45.0,ml,gin,0,194
-15.0,ml,cherry brandy,1,194
-90.0,ml,orange juice,2,194
-150.0,ml,ginger beer,3,194
+,None,mint,4,193
+60,ml,gin,5,193
+2,drop,peach bitters,6,193
+2,None,mint,7,193
+45,ml,gin,0,194
+15,ml,cherry brandy,1,194
+90,ml,orange juice,2,194
+150,ml,ginger beer,3,194
 ,None,orange slice,4,194
-60.0,ml,rye whiskey,0,195
-15.0,ml,apple brandy,1,195
-15.0,ml,green chartreuse,2,195
-30.0,ml,gin,0,196
-30.0,ml,galliano,1,196
+60,ml,rye whiskey,0,195
+15,ml,apple brandy,1,195
+15,ml,green chartreuse,2,195
+30,ml,gin,0,196
+30,ml,galliano,1,196
 22.5,ml,lime juice,2,196
-150.0,ml,chilled club soda,3,196
+150,ml,club soda,3,196
 ,None,mint sprig,4,196
-30.0,ml,amaretto,0,197
-15.0,ml,orange curaçao,1,197
-15.0,ml,vanilla-flavored vodka,2,197
-60.0,ml,orange juice,3,197
-60.0,ml,heavy cream,4,197
-60.0,ml,rye whiskey,0,198
+30,ml,amaretto,0,197
+15,ml,orange curaçao,1,197
+15,ml,vanilla-flavored vodka,2,197
+60,ml,orange juice,3,197
+60,ml,heavy cream,4,197
+60,ml,rye whiskey,0,198
 22.5,ml,dry vermouth,1,198
-3.0,dash,angostura bitters,2,198
+3,dash,angostura,2,198
 ,None,lemon twist,3,198
-30.0,ml,pernod,0,199
-30.0,ml,dry vermouth,1,199
-30.0,ml,sweet vermouth,2,199
-45.0,ml,gin,0,200
-30.0,ml,simple syrup,1,200
+30,ml,pernod,0,199
+30,ml,dry vermouth,1,199
+30,ml,sweet vermouth,2,199
+45,ml,gin,0,200
+30,ml,simple syrup,1,200
 22.5,ml,lemon juice,2,200
-1.0,None,egg white,3,200
+1,None,egg white,3,200
 ,None,sugar,4,200
-1.0,None,egg,0,201
-1.0,tsp,sugar,1,201
-60.0,ml,liquor,2,201
-240.0,ml,milk,3,201
-2.0,None,large eggs,0,202
-90.0,ml,sugar,1,202
-60.0,ml,brandy,2,202
-60.0,ml,spiced rum,3,202
-180.0,ml,whole milk,4,202
-120.0,ml,heavy cream,5,202
+1,None,egg,0,201
+1,tsp,sugar,1,201
+60,ml,liquor,2,201
+240,ml,milk,3,201
+2,None,large eggs,0,202
+90,ml,sugar,1,202
+60,ml,brandy,2,202
+60,ml,spiced rum,3,202
+180,ml,whole milk,4,202
+120,ml,heavy cream,5,202
 0.5,tsp,grated nutmeg,6,202
-,None,garnish with grated nutmeg,7,202
-1.0,tbsp,sugar,0,203
-1.0,tbsp,water,1,203
-1.0,None,egg,2,203
-60.0,ml,cognac brandy,3,203
-30.0,ml,rum,4,203
-90.0,ml,milk,5,203
+,None,nutmeg,7,202
+1,tbsp,sugar,0,203
+1,tbsp,water,1,203
+1,None,egg,2,203
+60,ml,cognac ,3,203
+30,ml,rum,4,203
+90,ml,milk,5,203
 22.5,ml,lime juice,0,204
-45.0,ml,tequila,1,204
-15.0,ml,crème de cassis,2,204
-120.0,ml,ginger ale,3,204
-45.0,ml,vodka,0,205
-15.0,ml,blue curaçao,1,205
-60.0,ml,sweet-and-sour,2,205
-120.0,ml,chilled 7-up,3,205
+45,ml,tequila,1,204
+15,ml,crème de cassis,2,204
+120,ml,ginger ale,3,204
+45,ml,vodka,0,205
+15,ml,blue curaçao,1,205
+60,ml,sweet-and-sour,2,205
+120,ml,7-up,3,205
 ,None,lemon wedge,4,205
-60.0,ml,irish whiskey,0,206
+60,ml,irish whiskey,0,206
 7.5,ml,green chartreuse,1,206
 7.5,ml,green crème de menthe,2,206
 ,None,green cocktail olive,3,206
-45.0,ml,vodka,0,207
-15.0,ml,tuaca,1,207
-15.0,ml,white crème de cacao,2,207
-90.0,ml,tangerine beverage,3,207
+45,ml,vodka,0,207
+15,ml,tuaca,1,207
+15,ml,white crème de cacao,2,207
+90,ml,tangerine beverage,3,207
 ,None,orange slice,4,207
-,None,mint sprig,5,207
+,None,mint,5,207
 22.5,ml,rye whiskey,0,208
 22.5,ml,lemon juice,1,208
 22.5,ml,maraschino liqueur,2,208
 22.5,ml,green chartreuse,3,208
-60.0,ml,blended whiskey,0,209
-15.0,ml,cointreau,1,209
-15.0,ml,dubonnet rouge,2,209
+60,ml,blended whiskey,0,209
+15,ml,cointreau,1,209
+15,ml,dubonnet rouge,2,209
 ,None,lemon twist,3,209
-45.0,ml,gin,0,210
-15.0,ml,apricot brandy,1,210
+45,ml,gin,0,210
+15,ml,apricot brandy,1,210
 22.5,ml,lime juice,2,210
 7.5,ml,grenadine,3,210
 52.5,ml,scotch,0,211
-45.0,ml,apple cider,1,211
-15.0,ml,averna amaro,2,211
+45,ml,apple cider,1,211
+15,ml,averna amaro,2,211
 22.5,ml,lemon juice,3,211
-1.0,tsp,demerara syrup,4,211
+1,tsp,demerara syrup,4,211
 0.5,tsp,st. elizabeth allspice dram,5,211
-2.0,dash,angostura bitters,6,211
+2,dash,angostura,6,211
 22.5,ml,gin,0,212
 7.5,ml,kirsch,1,212
 7.5,ml,triple sec,2,212
-45.0,ml,orange juice,3,212
+45,ml,orange juice,3,212
 22.5,ml,lemon juice,4,212
 ,None,orange twist,5,212
-45.0,ml,gold rum,0,213
+45,ml,gold rum,0,213
 7.5,ml,triple sec,1,213
 7.5,ml,maraschino liqueur,2,213
 22.5,ml,orange juice,3,213
-60.0,ml,gin,0,214
+60,ml,gin,0,214
 22.5,ml,lime juice,1,214
-150.0,ml,ginger ale,2,214
+150,ml,ginger ale,2,214
 22.5,ml,lime juice,3,214
-45.0,ml,silver tequila,0,215
-150.0,ml,orange juice,1,215
-15.0,ml,galliano,2,215
-30.0,ml,gin,0,216
+45,ml,silver tequila,0,215
+150,ml,orange juice,1,215
+15,ml,galliano,2,215
+30,ml,gin,0,216
 22.5,ml,lemon juice,1,216
-2.0,dash,sugar,2,216
-60.0,ml,champagne,3,216
-35.0,ml,cognac,0,217
-35.0,ml,disaronno,1,217
-45.0,ml,bourbon whiskey,0,218
-45.0,ml,brandy,1,218
-15.0,ml,grand marnier,2,218
+2,dash,sugar,2,216
+60,ml,champagne,3,216
+35,ml,cognac,0,217
+35,ml,disaronno,1,217
+45,ml,bourbon whiskey,0,218
+45,ml,brandy,1,218
+15,ml,grand marnier,2,218
 22.5,ml,lemon juice,3,218
-45.0,ml,tequila,0,219
+45,ml,tequila,0,219
 22.5,ml,blue curaçao,1,219
-15.0,ml,crème de cacao,2,219
+15,ml,crème de cacao,2,219
 7.5,ml,crème de menthe,3,219
-60.0,ml,heavy cream,4,219
-60.0,ml,light rum,0,220
+60,ml,heavy cream,4,219
+60,ml,light rum,0,220
 22.5,ml,lime juice,1,220
-15.0,ml,simple syrup,2,220
+15,ml,simple syrup,2,220
 ,dash,maraschino liqueur,3,220
-60.0,ml,gold tequila,0,221
+60,ml,gold tequila,0,221
 7.5,ml,triple sec,1,221
 0.25,cup,pineapple pieces,2,221
 22.5,ml,lime juice,3,221
-6.0,None,small mint leaves,0,222
-90.0,ml,bourbon whiskey,1,222
+6,None,mint,0,222
+90,ml,bourbon whiskey,1,222
 22.5,ml,lemon juice,2,222
-30.0,ml,simple syrup,3,222
-,None,mint sprig,4,222
-1.0,cup,"seeded, cubed watermelon",0,223
-45.0,ml,light rum,1,223
+30,ml,simple syrup,3,222
+,None,mint,4,222
+1,cup,watermelon,0,223
+45,ml,light rum,1,223
 22.5,ml,lime juice,2,223
 0.25,cup,lime sorbet,3,223
 22.5,ml,lime juice,4,223
 ,None,sugar,0,224
-1.0,tbsp,water,1,224
-12.0,None,mint sprigs,2,224
-60.0,ml,cognac,3,224
-60.0,ml,peach brandy,4,224
-75.0,ml,gin,0,225
+1,tbsp,water,1,224
+12,None,mint,2,224
+60,ml,cognac,3,224
+60,ml,peach brandy,4,224
+75,ml,gin,0,225
 22.5,ml,lime juice,1,225
-75.0,ml,gin,0,226
+75,ml,gin,0,226
 22.5,ml,lime juice,1,226
-60.0,ml,gin,0,227
+60,ml,gin,0,227
 22.5,ml,lime juice,1,227
 22.5,ml,simple,2,227
-60.0,ml,gin,0,228
+60,ml,gin,0,228
 22.5,ml,lime juice,1,228
 22.5,ml,lime juice,2,228
-60.0,ml,gin,0,229
+60,ml,gin,0,229
 22.5,ml,lime juice,1,229
 22.5,ml,lime juice,2,229
-10.0,None,mint leaves,0,230
+10,None,mint,0,230
 22.5,ml,lime juice,1,230
 22.5,ml,lemon juice,2,230
-1.0,tsp,sugar,3,230
-60.0,ml,gin,4,230
-,None,mint sprig,5,230
-60.0,ml,gin,0,231
-15.0,ml,cointreau,1,231
+1,tsp,sugar,3,230
+60,ml,gin,4,230
+,None,mint,5,230
+60,ml,gin,0,231
+15,ml,cointreau,1,231
 22.5,ml,lemon juice,2,231
-150.0,ml,chilled club soda,3,231
+150,ml,club soda,3,231
 ,None,lemon wedge,4,231
-60.0,ml,gin,0,232
-15.0,ml,orange juice,1,232
+60,ml,gin,0,232
+15,ml,orange juice,1,232
 22.5,ml,lemon juice,2,232
-2.0,dash,grenadine,3,232
-35.0,ml,scotch,0,233
-35.0,ml,disaronno,1,233
-35.0,ml,vodka,0,234
-35.0,ml,disaronno,1,234
+2,dash,grenadine,3,232
+35,ml,scotch,0,233
+35,ml,disaronno,1,233
+35,ml,vodka,0,234
+35,ml,disaronno,1,234
 67.5,ml,bourbon whiskey,0,235
-15.0,ml,amaretto,1,235
-2.0,dash,angostura bitters,2,235
-30.0,ml,scotch,0,236
-30.0,ml,amaretto,1,236
-60.0,ml,scotch,2,236
-30.0,ml,amaretto,3,236
-45.0,ml,gin,0,237
-15.0,ml,citron vodka,1,237
-30.0,ml,cointreau,2,237
+15,ml,amaretto,1,235
+2,dash,angostura,2,235
+30,ml,scotch,0,236
+30,ml,amaretto,1,236
+60,ml,scotch,2,236
+30,ml,amaretto,3,236
+45,ml,gin,0,237
+15,ml,citron vodka,1,237
+30,ml,cointreau,2,237
 7.5,ml,brandy,3,237
-4.0,None,ginger,4,237
+4,None,ginger,4,237
 ,None,ginger,5,237
-60.0,ml,tequila,0,238
+60,ml,tequila,0,238
 22.5,ml,lime juice,1,238
-15.0,ml,vanilla syrup,2,238
+15,ml,vanilla syrup,2,238
 7.5,ml,passion fruit syrup,3,238
 7.5,ml,campari,4,238
-15.0,ml,soda water,5,238
-45.0,ml,white crème de cacao,0,239
+15,ml,soda water,5,238
+45,ml,white crème de cacao,0,239
 22.5,ml,galliano,1,239
-45.0,ml,heavy cream,2,239
-20.0,ml,galliano,0,240
-20.0,ml,triple sec,1,240
-20.0,ml,orange juice,2,240
-10.0,ml,cream,3,240
-60.0,ml,rhum barbancourt,0,241
-45.0,ml,lillet,1,241
-15.0,ml,limoncello liqueur,2,241
+45,ml,heavy cream,2,239
+20,ml,galliano,0,240
+20,ml,triple sec,1,240
+20,ml,orange juice,2,240
+10,ml,cream,3,240
+60,ml,rhum barbancourt,0,241
+45,ml,lillet,1,241
+15,ml,limoncello liqueur,2,241
 ,None,lemon twist,3,241
-45.0,ml,vodka,0,242
-30.0,ml,pineapple juice,1,242
+45,ml,vodka,0,242
+30,ml,pineapple juice,1,242
 22.5,ml,galliano,2,242
 22.5,ml,dark rum,0,243
 22.5,ml,bourbon whiskey,1,243
 22.5,ml,coffee liqueur,2,243
-45.0,ml,gin,0,244
-30.0,ml,cointreau,1,244
-30.0,ml,pineapple juice,2,244
+45,ml,gin,0,244
+30,ml,cointreau,1,244
+30,ml,pineapple juice,2,244
 0.5,tsp,grenadine,3,244
-45.0,ml,light rum,0,245
+45,ml,light rum,0,245
 22.5,ml,green chartreuse,1,245
 22.5,ml,lime juice,2,245
-1.0,tbsp,sugar,3,245
-90.0,ml,chilled club soda,4,245
+1,tbsp,sugar,3,245
+90,ml,club soda,4,245
 22.5,ml,lime juice,5,245
-50.0,ml,cognac,0,246
-20.0,ml,crme de menthe,1,246
-60.0,ml,rye whiskey,0,247
-15.0,ml,yellow chartreuse,1,247
-15.0,ml,dry vermouth,2,247
-1.0,dash,angostura bitters,3,247
-1.0,dash,orange bitters,4,247
-60.0,ml,rye whiskey,0,248
-30.0,ml,punt e mes,1,248
-1.0,tsp,yellow chartreuse,2,248
-1.0,dash,angostura bitters,3,248
-60.0,ml,rhum barbancourt,0,249
-60.0,ml,guava nectar,1,249
+50,ml,cognac,0,246
+20,ml,crme de menthe,1,246
+60,ml,rye whiskey,0,247
+15,ml,yellow chartreuse,1,247
+15,ml,dry vermouth,2,247
+1,dash,angostura,3,247
+1,dash,orange bitters,4,247
+60,ml,rye whiskey,0,248
+30,ml,punt e mes,1,248
+1,tsp,yellow chartreuse,2,248
+1,dash,angostura,3,248
+60,ml,rhum barbancourt,0,249
+60,ml,guava nectar,1,249
 22.5,ml,lime juice,2,249
-1.0,tsp,sugar,3,249
+1,tsp,sugar,3,249
 22.5,ml,lime juice,4,249
-60.0,ml,peach schnapps,0,250
-30.0,ml,vodka,1,250
-120.0,ml,orange juice,2,250
+60,ml,peach schnapps,0,250
+30,ml,vodka,1,250
+120,ml,orange juice,2,250
 ,None,orange slice,3,250
 ,None,peach slice,4,250
-60.0,ml,cognac,0,251
-30.0,ml,sweet vermouth,1,251
-2.0,dash,angostura,2,251
-45.0,ml,rye whiskey,0,252
-30.0,ml,lillet blanc,1,252
-15.0,ml,lairds bonded apple brandy,2,252
+60,ml,cognac,0,251
+30,ml,sweet vermouth,1,251
+2,dash,angostura,2,251
+45,ml,rye whiskey,0,252
+30,ml,lillet blanc,1,252
+15,ml,lairds bonded apple brandy,2,252
 7.5,ml,green chartreuse,3,252
-3.0,dash,angostura bitters,4,252
-45.0,ml,vodka,0,253
-150.0,ml,orange juice,1,253
-15.0,ml,galliano,2,253
-45.0,ml,vodka,3,253
-15.0,ml,galliano,4,253
-90.0,ml,orange juice,5,253
-45.0,ml,gold rum,0,254
+3,dash,angostura,4,252
+45,ml,vodka,0,253
+150,ml,orange juice,1,253
+15,ml,galliano,2,253
+45,ml,vodka,3,253
+15,ml,galliano,4,253
+90,ml,orange juice,5,253
+45,ml,gold rum,0,254
 22.5,ml,cointreau,1,254
 22.5,ml,lemon juice,2,254
-30.0,ml,dark rum,0,255
-15.0,ml,peach schnapps,1,255
-150.0,ml,pineapple juice,2,255
+30,ml,dark rum,0,255
+15,ml,peach schnapps,1,255
+150,ml,pineapple juice,2,255
 7.5,ml,grenadine,3,255
-60.0,ml,gin,0,256
-15.0,ml,orange curaçao,1,256
+60,ml,gin,0,256
+15,ml,orange curaçao,1,256
 22.5,ml,lime juice,2,256
 7.5,ml,orange juice,3,256
 ,None,lemon twist,4,256
-45.0,ml,dark rum,0,257
-30.0,ml,light rum,1,257
-30.0,ml,frangelico,2,257
-15.0,ml,kahlúa,3,257
-90.0,ml,pineapple juice,4,257
+45,ml,dark rum,0,257
+30,ml,light rum,1,257
+30,ml,frangelico,2,257
+15,ml,kahlúa,3,257
+90,ml,pineapple juice,4,257
 22.5,ml,lime juice,5,257
-1.0,tbsp,simple syrup,6,257
+1,tbsp,simple syrup,6,257
 22.5,ml,lime juice,7,257
 22.5,ml,cognac,0,258
 22.5,ml,cointreau,1,258
 22.5,ml,lemon juice,2,258
 22.5,ml,lillet blanc,3,258
-40.0,ml,brandy,0,259
-120.0,ml,ginger ale,1,259
-1.0,None,small pat of soft butter,0,260
-1.0,tsp,sugar,1,260
+40,ml,brandy,0,259
+120,ml,ginger ale,1,259
+1,None,small pat of soft butter,0,260
+1,tsp,sugar,1,260
 ,None,vanilla extract,2,260
-60.0,ml,dark rum,3,260
+60,ml,dark rum,3,260
 ,None,hot water,4,260
-30.0,ml,cognac,0,261
-15.0,ml,dark rum,1,261
-2.0,tsp,sugar,2,261
-180.0,ml,hot milk,3,261
-1.0,tbsp,sugar,0,262
-2.0,tbsp,water,1,262
-60.0,ml,cognac,2,262
-30.0,ml,rum,3,262
+30,ml,cognac,0,261
+15,ml,dark rum,1,261
+2,tsp,sugar,2,261
+180,ml,milk,3,261
+1,tbsp,sugar,0,262
+2,tbsp,water,1,262
+60,ml,cognac,2,262
+30,ml,rum,3,262
 ,None,lemon wedge,0,263
 ,None,kosher salt,1,263
-45.0,ml,tequila,2,263
+45,ml,tequila,2,263
 22.5,ml,peppermint schnapps,3,263
 22.5,ml,grapefruit juice,4,263
-1.0,tsp,sugar,5,263
-30.0,ml,sugar,0,264
-90.0,ml,selected liquor,1,264
-3.0,None,cloves,2,264
-1.0,dash,ground cinnamon,3,264
-15.0,ml,rum,0,265
-1.0,tsp,honey,1,265
+1,tsp,sugar,5,263
+30,ml,sugar,0,264
+90,ml,selected liquor,1,264
+3,None,minced clove garlic,2,264
+1,dash,ground cinnamon,3,264
+15,ml,rum,0,265
+1,tsp,honey,1,265
 22.5,ml,lemon juice,2,265
-1.0,tsp,sugar,0,266
-30.0,ml,water,1,266
-60.0,ml,whiskey,2,266
-3.0,None,whole cloves,0,267
-1.0,None,cinnamon stick,1,267
-1.0,tsp,honey,2,267
-150.0,ml,boiling water,3,267
-60.0,ml,rye whiskey,4,267
-1.0,None,glass spirit,0,268
-1.0,None,sugar,1,268
-1.0,tsp,sugar,0,269
-120.0,ml,water,1,269
-60.0,ml,spirits,2,269
-60.0,ml,rum,0,270
-30.0,ml,pineapple juice,1,270
+1,tsp,sugar,0,266
+30,ml,water,1,266
+60,ml,whiskey,2,266
+3,None,minced clove garlic,0,267
+1,None,cinnamon stick,1,267
+1,tsp,honey,2,267
+150,ml,water,3,267
+60,ml,rye whiskey,4,267
+1,None,glass spirit,0,268
+1,None,sugar,1,268
+1,tsp,sugar,0,269
+120,ml,water,1,269
+60,ml,spirits,2,269
+60,ml,rum,0,270
+30,ml,pineapple juice,1,270
 22.5,ml,lime juice,2,270
-15.0,ml,simple syrup,3,270
+15,ml,simple syrup,3,270
 7.5,ml,rothman & winter orchard apricot,4,270
-45.0,ml,premium aged rum,0,271
+45,ml,rum,0,271
 22.5,ml,lime juice,1,271
 22.5,ml,pineapple syrup,2,271
-15.0,ml,apricot brandy,3,271
-1.0,drop,angostura bitters,4,271
-45.0,ml,dark rum,0,272
-30.0,ml,light rum,1,272
-15.0,ml,passion fruit juice,2,272
-45.0,ml,orange juice,3,272
+15,ml,apricot brandy,3,271
+1,drop,angostura,4,271
+45,ml,dark rum,0,272
+30,ml,light rum,1,272
+15,ml,passion fruit juice,2,272
+45,ml,orange juice,3,272
 22.5,ml,lime juice,4,272
-30.0,ml,pineapple juice,5,272
-,dash,angostura bitters,6,272
+30,ml,pineapple juice,5,272
+,dash,angostura,6,272
 22.5,ml,lime juice,7,272
 ,None,pineapple wedge,8,272
-45.0,ml,rum,0,273
+45,ml,rum,0,273
 22.5,ml,lemon juice,1,273
-30.0,ml,cointreau,2,273
-45.0,ml,cranberry juice,3,273
+30,ml,cointreau,2,273
+45,ml,cranberry juice,3,273
 22.5,ml,lime juice,4,273
 ,None,lemon twist,5,273
-45.0,ml,irish whiskey,0,274
-1.0,tsp,sugar,1,274
-120.0,ml,cold coffee,2,274
-60.0,ml,heavy cream,3,274
-60.0,ml,gin,0,275
+45,ml,irish whiskey,0,274
+1,tsp,sugar,1,274
+120,ml,cold coffee,2,274
+60,ml,heavy cream,3,274
+60,ml,gin,0,275
 22.5,ml,lemon juice,1,275
 22.5,ml,lime juice,2,275
-90.0,ml,chilled club soda,3,275
+90,ml,club soda,3,275
 ,None,lemon twist,4,275
-60.0,ml,rye whiskey,0,276
+60,ml,rye whiskey,0,276
 7.5,ml,luxardo maraschino liqueur,1,276
 7.5,ml,simple syrup,2,276
-2.0,dash,angostura bitters,3,276
-1.0,dash,absinthe,4,276
+2,dash,angostura,3,276
+1,dash,absinthe,4,276
 67.5,ml,rye whiskey,0,277
-15.0,ml,maraschino liqueur,1,277
-1.0,dash,absinthe,2,277
-3.0,dash,peychaud’s bitters,3,277
-30.0,ml,fernet branca,0,278
-30.0,ml,green chartreuse,1,278
+15,ml,maraschino liqueur,1,277
+1,dash,absinthe,2,277
+3,dash,peychaud’s bitters,3,277
+30,ml,fernet branca,0,278
+30,ml,green chartreuse,1,278
 22.5,ml,lime juice,2,278
-30.0,ml,simple syrup,3,278
-25.0,ml,gin,0,279
-50.0,ml,aperol,1,279
+30,ml,simple syrup,3,278
+25,ml,gin,0,279
+50,ml,aperol,1,279
 22.5,ml,lemon juice,2,279
-2.0,dash,angostura bitters,3,279
-60.0,ml,aperol,0,280
-30.0,ml,gin,1,280
+2,dash,angostura,3,279
+60,ml,aperol,0,280
+30,ml,gin,1,280
 22.5,ml,lemon juice,2,280
-1.0,dash,angostura bitters,3,280
-30.0,ml,irish whiskey,0,281
-2.0,tsp,sugar,1,281
-120.0,ml,strong black coffee,2,281
-45.0,ml,irish whiskey,0,282
-15.0,ml,light rum,1,282
-15.0,ml,sloe gin,2,282
+1,dash,angostura,3,280
+30,ml,irish whiskey,0,281
+2,tsp,sugar,1,281
+120,ml,strong black coffee,2,281
+45,ml,irish whiskey,0,282
+15,ml,light rum,1,282
+15,ml,sloe gin,2,282
 22.5,ml,lemon juice,3,282
-1.0,tsp,sugar,4,282
+1,tsp,sugar,4,282
 ,None,peach slice,5,282
 ,None,orange slice,6,282
-3.0,None,raspberries,7,282
+3,None,raspberries,7,282
 ,None,maraschino cherry,8,282
-45.0,ml,applejack,0,283
-2.0,dash,grenadine,1,283
+45,ml,applejack,0,283
+2,dash,grenadine,1,283
 22.5,ml,lemon juice,2,283
-60.0,ml,lairds bonded apple brandy,0,284
+60,ml,lairds bonded apple brandy,0,284
 22.5,ml,lemon juice,1,284
 22.5,ml,grenadine,2,284
-45.0,ml,light rum,0,285
+45,ml,light rum,0,285
 0.5,tsp,cointreau,1,285
 0.5,tsp,green crème de menthe,2,285
 22.5,ml,lime juice,3,285
-1.0,tsp,sugar,4,285
+1,tsp,sugar,4,285
 22.5,ml,lime juice,5,285
-45.0,ml,applejack,0,286
+45,ml,applejack,0,286
 22.5,ml,grenadine,1,286
 22.5,ml,lemon juice,2,286
-15.0,ml,pineapple juice,3,286
-1.0,dash,angostura bitters,4,286
-45.0,ml,gin,0,287
-15.0,ml,dry red wine,1,287
-15.0,ml,dark rum,2,287
-15.0,ml,orange juice,3,287
-60.0,ml,dark rum,0,288
-15.0,ml,tia maria,1,288
-60.0,ml,hine vsop cognac,0,289
-15.0,ml,kassatly chtaura orgeat,1,289
-2.0,dash,angostura bitters,2,289
-75.0,ml,cognac,0,290
-15.0,ml,orgeat,1,290
-3.0,dash,angostura,2,290
-60.0,ml,blended whiskey,0,291
-15.0,ml,ruby port,1,291
+15,ml,pineapple juice,3,286
+1,dash,angostura,4,286
+45,ml,gin,0,287
+15,ml,dry red wine,1,287
+15,ml,dark rum,2,287
+15,ml,orange juice,3,287
+60,ml,dark rum,0,288
+15,ml,tia maria,1,288
+60,ml,hine h cognac,0,289
+15,ml,kassatly chtaura orgeat,1,289
+2,dash,angostura,2,289
+75,ml,cognac,0,290
+15,ml,orgeat,1,290
+3,dash,angostura,2,290
+60,ml,blended whiskey,0,291
+15,ml,ruby port,1,291
 22.5,ml,lemon juice,2,291
-1.0,tsp,sugar,3,291
-150.0,ml,chilled club soda,4,291
+1,tsp,sugar,3,291
+150,ml,club soda,4,291
 ,None,pineapple wedge,5,291
 ,None,orange slice,6,291
-45.0,ml,gin,0,292
-2.0,tsp,sweet vermouth,1,292
+45,ml,gin,0,292
+2,tsp,sweet vermouth,1,292
 7.5,ml,black sambuca,2,292
-45.0,ml,gin,0,293
-15.0,ml,green chartreuse,1,293
-15.0,ml,yellow chartreuse,2,293
-60.0,ml,gin,0,294
+45,ml,gin,0,293
+15,ml,green chartreuse,1,293
+15,ml,yellow chartreuse,2,293
+60,ml,gin,0,294
 7.5,ml,crème de noyaux,1,294
 7.5,ml,white crème de cacao,2,294
 22.5,ml,lemon juice,3,294
 ,dash,orange bitters,4,294
-45.0,ml,gin,0,295
+45,ml,gin,0,295
 22.5,ml,lemon juice,1,295
-15.0,ml,sugar,2,295
-60.0,ml,soda water,3,295
+15,ml,sugar,2,295
+60,ml,soda water,3,295
 22.5,ml,campari,0,296
 22.5,ml,lime juice,1,296
-15.0,ml,sugar,2,296
-120.0,ml,pineapple juice,3,296
-45.0,ml,dark rum,4,296
-45.0,ml,dark rum,0,297
-45.0,ml,pineapple juice,1,297
+15,ml,sugar,2,296
+120,ml,pineapple juice,3,296
+45,ml,dark rum,4,296
+45,ml,dark rum,0,297
+45,ml,pineapple juice,1,297
 22.5,ml,campari,2,297
 22.5,ml,lime juice,3,297
-15.0,ml,simple syrup,4,297
-30.0,ml,gin,0,298
-15.0,ml,orange juice,1,298
-15.0,ml,cranberry juice,2,298
+15,ml,simple syrup,4,297
+30,ml,gin,0,298
+15,ml,orange juice,1,298
+15,ml,cranberry juice,2,298
 ,dash,grenadine,3,298
-120.0,ml,chilled champagne,4,298
-45.0,ml,gin,0,299
-15.0,ml,dry vermouth,1,299
+120,ml,champagne,4,298
+45,ml,gin,0,299
+15,ml,dry vermouth,1,299
 7.5,ml,parfait amour,2,299
 7.5,ml,orange juice,3,299
-30.0,ml,vodka,0,300
-30.0,ml,triple sec,1,300
+30,ml,vodka,0,300
+30,ml,triple sec,1,300
 22.5,ml,lime juice,2,300
-75.0,ml,bourbon whiskey,0,301
-15.0,ml,bénédictine,1,301
+75,ml,bourbon whiskey,0,301
+15,ml,bénédictine,1,301
 ,None,lemon twist,2,301
-45.0,ml,bourbon whiskey,0,302
+45,ml,bourbon whiskey,0,302
 7.5,ml,southern comfort,1,302
 7.5,ml,white crème de menthe,2,302
 22.5,ml,lime juice,0,303
 ,None,sugar,1,303
-45.0,ml,gin,2,303
-30.0,ml,tuaca,3,303
+45,ml,gin,2,303
+30,ml,tuaca,3,303
 22.5,ml,lime juice,4,303
-1.0,tsp,sugar,5,303
+1,tsp,sugar,5,303
 22.5,ml,lime juice,6,303
 ,ml,rum,0,304
 ,ml,campari,1,304
 ,ml,sweet vermouth,2,304
-90.0,ml,dry white wine,0,305
-10.0,ml,crme de cassis,1,305
-45.0,ml,gin,0,306
-15.0,ml,dry vermouth,1,306
-15.0,ml,melon liqueur,2,306
+90,ml,dry white wine,0,305
+10,ml,crème de cassis,1,305
+45,ml,gin,0,306
+15,ml,dry vermouth,1,306
+15,ml,melon liqueur,2,306
 22.5,ml,lemon juice,3,306
-60.0,ml,gin,0,307
+60,ml,gin,0,307
 ,dash,cherry brandy,1,307
 ,dash,grenadine,2,307
 22.5,ml,lemon juice,3,307
-2.0,None,mint sprigs,4,307
-30.0,ml,gold tequila,0,308
-15.0,ml,cointreau,1,308
-15.0,ml,pineapple juice,2,308
-15.0,ml,orange juice,3,308
-2.0,dash,grenadine,4,308
-60.0,ml,silver tequila,0,309
+2,None,mint,4,307
+30,ml,gold tequila,0,308
+15,ml,cointreau,1,308
+15,ml,pineapple juice,2,308
+15,ml,orange juice,3,308
+2,dash,grenadine,4,308
+60,ml,silver tequila,0,309
 7.5,ml,pineapple juice,1,309
-3.0,dash,angostura bitters,2,309
-120.0,ml,chilled club soda,3,309
+3,dash,angostura,2,309
+120,ml,club soda,3,309
 ,None,lemon wedge,4,309
-45.0,ml,light rum,0,310
+45,ml,light rum,0,310
 22.5,ml,sweet vermouth,1,310
 7.5,ml,crème de cacao,2,310
 22.5,ml,lime juice,3,310
 ,dash,grenadine,4,310
-60.0,ml,light rum,0,311
+60,ml,light rum,0,311
 7.5,ml,maraschino liqueur,1,311
 22.5,ml,lime juice,2,311
-1.0,tsp,sugar,3,311
-30.0,ml,gin,0,312
-30.0,ml,campari,1,312
+1,tsp,sugar,3,311
+30,ml,gin,0,312
+30,ml,campari,1,312
 22.5,ml,lime juice,2,312
 ,dash,simple syrup,3,312
 22.5,ml,lime juice,4,312
-30.0,ml,gin,0,313
-15.0,ml,green chatreuse,1,313
-15.0,ml,luxardo maraschino,2,313
+30,ml,gin,0,313
+15,ml,green chatreuse,1,313
+15,ml,luxardo maraschino,2,313
 22.5,ml,lime juice,3,313
-60.0,ml,rum,0,314
-1.0,None,sugar,1,314
-3.0,dash,peychaud’s bitters,2,314
-1.0,dash,angostura bitters,3,314
-1.0,dash,bittermens xocolatl mole bitters,4,314
-1.0,dash,absinthe,5,314
-1.0,None,lemon twist,6,314
-,None,rinse glass with absinthe,7,314
+60,ml,rum,0,314
+1,None,sugar,1,314
+3,dash,peychaud’s bitters,2,314
+1,dash,angostura,3,314
+1,dash,bittermens xocolatl mole bitters,4,314
+1,dash,absinthe,5,314
+1,None,lemon twist,6,314
+,None,absinthe,7,314
 ,None,gin,0,315
 ,ml,orange juice,1,315
 22.5,ml,lemon juice,2,315
-2.0,dash,grenadine,3,315
-25.0,ml,vodka citron,0,316
-20.0,ml,triple sec,1,316
+2,dash,grenadine,3,315
+25,ml,vodka citron,0,316
+20,ml,triple sec,1,316
 22.5,ml,lemon juice,2,316
 22.5,ml,lemon juice,0,317
-30.0,ml,grand marnier,1,317
+30,ml,grand marnier,1,317
 22.5,ml,lemon juice,2,317
-15.0,ml,orange juice,3,317
+15,ml,orange juice,3,317
 ,None,lemon twist,4,317
-75.0,ml,elijah craig 12,0,318
-15.0,ml,allspice dram,1,318
+75,ml,elijah craig 12,0,318
+15,ml,allspice dram,1,318
 22.5,ml,lime juice,2,318
-15.0,ml,simple syrup,3,318
-2.0,dash,angostura bitters,4,318
-15.0,ml,dark rum,0,319
-15.0,ml,root beer schnapps,1,319
-15.0,ml,jägermeister,2,319
-15.0,ml,rum,3,319
-15.0,ml,dark rum,0,320
-15.0,ml,rum,1,320
-15.0,ml,jägermeister,2,320
-60.0,ml,pierre ferrand ambre cognac,0,321
+15,ml,simple syrup,3,318
+2,dash,angostura,4,318
+15,ml,dark rum,0,319
+15,ml,root beer schnapps,1,319
+15,ml,jägermeister,2,319
+15,ml,rum,3,319
+15,ml,dark rum,0,320
+15,ml,rum,1,320
+15,ml,jägermeister,2,320
+60,ml,pierre ferrand ambre cognac,0,321
 7.5,ml,pear liqueur,1,321
-7.5,ml,benedictine,2,321
+7.5,ml,bénédictine,2,321
 22.5,ml,lemon juice,3,321
 7.5,ml,sugar,4,321
-1.0,dash,peychaud’s bitters,5,321
-60.0,ml,tequila,0,322
-45.0,ml,orange juice,1,322
-15.0,ml,maraschino liqueur,2,322
+1,dash,peychaud’s bitters,5,321
+60,ml,tequila,0,322
+45,ml,orange juice,1,322
+15,ml,maraschino liqueur,2,322
 7.5,ml,frangelico,3,322
 ,None,orange slice,4,322
 22.5,ml,green chartreuse,0,323
 22.5,ml,cointreau,1,323
 22.5,ml,kirsch,2,323
 0.25,tsp,maraschino liqueur,3,323
-45.0,ml,amaretto,0,324
-45.0,ml,white crème de menthe,1,324
-2.0,dash,angostura bitters,2,324
+45,ml,amaretto,0,324
+45,ml,white crème de menthe,1,324
+2,dash,angostura,2,324
 ,None,lemon wedge,3,324
 22.5,ml,light rum,0,325
 22.5,ml,gin,1,325
 22.5,ml,vodka,2,325
 22.5,ml,tequila,3,325
-22.5,ml,cointreau or triple sec,4,325
+22.5,ml,cointreau,4,325
 22.5,ml,lime juice,5,325
 22.5,ml,orange juice,6,325
-90.0,ml,chilled cola,7,325
+90,ml,cola,7,325
 ,None,lemon wedge,8,325
-15.0,ml,tequila,0,326
-15.0,ml,vodka,1,326
-15.0,ml,light rum,2,326
-15.0,ml,triple sec,3,326
-15.0,ml,gin,4,326
+15,ml,tequila,0,326
+15,ml,vodka,1,326
+15,ml,light rum,2,326
+15,ml,triple sec,3,326
+15,ml,gin,4,326
 22.5,ml,lemon juice,5,326
-30.0,ml,gomme syrup,6,326
-1.0,dash,cola,7,326
-30.0,ml,bourbon whiskey,0,327
-30.0,ml,light rum,1,327
-15.0,ml,white crème de cacao,2,327
+30,ml,gomme syrup,6,326
+1,dash,cola,7,326
+30,ml,bourbon whiskey,0,327
+30,ml,light rum,1,327
+15,ml,white crème de cacao,2,327
 7.5,ml,crème de menthe,3,327
 22.5,ml,lemon juice,0,328
 22.5,ml,chambord,1,328
 22.5,ml,cranberry juice,2,328
-30.0,ml,gin,0,329
-15.0,ml,campari,1,329
-15.0,ml,dry vermouth,2,329
-15.0,ml,cointreau,3,329
-45.0,ml,tequila,0,330
+30,ml,gin,0,329
+15,ml,campari,1,329
+15,ml,dry vermouth,2,329
+15,ml,cointreau,3,329
+45,ml,tequila,0,330
 22.5,ml,tangerine juice,1,330
-30.0,ml,sweet-and-sour,2,330
-4.0,None,mint leaves,3,330
+30,ml,sweet-and-sour,2,330
+4,None,mint,3,330
 ,None,tangerine slice,4,330
-,None,mint sprig,5,330
-60.0,ml,rum,0,331
+,None,mint,5,330
+60,ml,rum,0,331
 22.5,ml,lime juice,1,331
-15.0,ml,french garnier orgeat,2,331
-15.0,ml,orange curaçao,3,331
+15,ml,french garnier orgeat,2,331
+15,ml,orange curaçao,3,331
 7.5,ml,rock candy syrup,4,331
-,None,shake on ice and strain,5,331
-,None,garnish with mint sprig,6,331
-40.0,ml,light rum,0,332
-20.0,ml,dark rum,1,332
-15.0,ml,orange curaçao,2,332
-15.0,ml,orgeat syrup,3,332
+,None,mint,5,331
+40,ml,light rum,0,332
+20,ml,dark rum,1,332
+15,ml,orange curaçao,2,332
+15,ml,orgeat syrup,3,332
 22.5,ml,lime juice,4,332
-60.0,ml,premium aged rum,0,333
+60,ml,rum,0,333
 22.5,ml,lime juice,1,333
-15.0,ml,orange curaçao,2,333
+15,ml,orange curaçao,2,333
 7.5,ml,rock candy syrup,3,333
 7.5,ml,orgeat syrup,4,333
-45.0,ml,dark rum,0,334
-30.0,ml,premium aged rum,1,334
-15.0,ml,orange curaçao,2,334
+45,ml,dark rum,0,334
+30,ml,rum,1,334
+15,ml,orange curaçao,2,334
 7.5,ml,simple syrup,3,334
-15.0,ml,orgeat syrup,4,334
+15,ml,orgeat syrup,4,334
 22.5,ml,lime juice,5,334
-15.0,ml,orange juice,6,334
-1.0,None,orange blossom,7,334
-1.0,None,orange twist,8,334
-60.0,ml,gold rum,0,335
+15,ml,orange juice,6,334
+1,None,orange blossom,7,334
+1,None,orange twist,8,334
+60,ml,gold rum,0,335
 22.5,ml,lime juice,1,335
 22.5,ml,turbinado syrup,2,335
 7.5,ml,cointreau,3,335
 7.5,ml,orgeat,4,335
-15.0,ml,ron zacapa 23,5,335
-,None,shake on ice and strain,6,335
-,None,premium aged rum,7,335
-22.5,ml,lime juice,8,335
-60.0,ml,blended scotch,0,336
+15,ml,ron zacapa 23,5,335
+,None,rum,6,335
+22.5,ml,lime juice,7,335
+60,ml,blended scotch,0,336
 22.5,ml,lime juice,1,336
-150.0,ml,ginger ale,2,336
+150,ml,ginger ale,2,336
 ,None,lemon wedge,3,336
-60.0,ml,light rum,0,337
-30.0,ml,mandarine napoléon liqueur,1,337
-30.0,ml,passion fruit syrup,2,337
-120.0,ml,pineapple juice,3,337
+60,ml,light rum,0,337
+30,ml,mandarine napoléon liqueur,1,337
+30,ml,passion fruit syrup,2,337
+120,ml,pineapple juice,3,337
 ,None,pineapple wedge,4,337
 ,None,tangerine slice,5,337
 7.5,ml,mandarine napoléon,0,338
 ,dash,cointreau,1,338
-45.0,ml,gin,2,338
-15.0,ml,vodka,3,338
+45,ml,gin,2,338
+15,ml,vodka,3,338
 ,None,orange twist,4,338
-2.0,dash,curacao or maraschino,0,339
-30.0,ml,rye whiskey,1,339
-60.0,ml,vermouth,2,339
-3.0,dash,angostura bitters,3,339
-2.0,None,lumps of ice,4,339
-,None,shake on ice and strain into claret glass,5,339
-,None,lemon wedge,6,339
-75.0,ml,rye whiskey,0,340
-30.0,ml,dolin rouge,1,340
-2.0,dash,angostura bitters,2,340
+2,dash,curacao,0,339
+30,ml,rye whiskey,1,339
+60,ml,vermouth,2,339
+3,dash,angostura,3,339
+2,None,lumps of ice,4,339
+,None,lemon wedge,5,339
+75,ml,rye whiskey,0,340
+30,ml,dolin rouge,1,340
+2,dash,angostura,2,340
 ,None,garnish with montmorency cherries,3,340
-50.0,ml,rye whiskey,0,341
-20.0,ml,sweet vermouth,1,341
-1.0,dash,angostura bitters,2,341
-45.0,ml,old tom gin,0,342
-45.0,ml,sweet vermouth,1,342
+50,ml,rye whiskey,0,341
+20,ml,sweet vermouth,1,341
+1,dash,angostura,2,341
+45,ml,old tom gin,0,342
+45,ml,sweet vermouth,1,342
 7.5,ml,luxardo maraschino liqueur,2,342
-2.0,dash,bokers bitters,3,342
-60.0,ml,sweet vermouth,0,343
-30.0,ml,old tom gin,1,343
-1.0,tsp,maraschino liqueur,2,343
-1.0,dash,bokers bitters,3,343
-60.0,ml,gin,0,344
-30.0,ml,sweet vermouth,1,344
+2,dash,bokers bitters,3,342
+60,ml,sweet vermouth,0,343
+30,ml,old tom gin,1,343
+1,tsp,maraschino liqueur,2,343
+1,dash,bokers bitters,3,343
+60,ml,gin,0,344
+30,ml,sweet vermouth,1,344
 7.5,ml,maraschino liqueur,2,344
-60.0,ml,gin,0,345
-30.0,ml,sweet vermouth,1,345
-2.0,dash,angostura,2,345
-60.0,ml,old tom gin,0,346
-15.0,ml,sweet vermouth,1,346
+60,ml,gin,0,345
+30,ml,sweet vermouth,1,345
+2,dash,angostura,2,345
+60,ml,old tom gin,0,346
+15,ml,sweet vermouth,1,346
 7.5,ml,maraschino liqueur,2,346
 ,dash,orange bitters,3,346
-180.0,ml,gin,0,347
-180.0,ml,vermouth,1,347
-1.0,tbsp,curacao or maraschino,2,347
+180,ml,gin,0,347
+180,ml,vermouth,1,347
+1,tbsp,curacao,2,347
 1.25,tsp,orange bitters,3,347
-75.0,ml,vodka,0,348
-4.0,dash,dry vermouth,1,348
-60.0,ml,light rum,0,349
-10.0,ml,maraschino,1,349
-60.0,ml,pineapple juice,2,349
-10.0,ml,pomegranate syrup,3,349
-60.0,ml,light rum,0,350
-30.0,ml,pineapple juice,1,350
+75,ml,vodka,0,348
+4,dash,dry vermouth,1,348
+60,ml,light rum,0,349
+10,ml,maraschino,1,349
+60,ml,pineapple juice,2,349
+10,ml,pomegranate syrup,3,349
+60,ml,light rum,0,350
+30,ml,pineapple juice,1,350
 7.5,ml,maraschino liqueur,2,350
-1.0,dash,grenadine,3,350
-60.0,ml,light rum,0,351
-30.0,ml,pineapple,1,351
+1,dash,grenadine,3,350
+60,ml,light rum,0,351
+30,ml,pineapple,1,351
 7.5,ml,grenadine,2,351
 7.5,ml,maraschino,3,351
-45.0,ml,gold tequila,0,352
-90.0,ml,pineapple juice,1,352
+45,ml,gold tequila,0,352
+90,ml,pineapple juice,1,352
 22.5,ml,lime juice,2,352
-45.0,ml,sloe gin,0,353
+45,ml,sloe gin,0,353
 22.5,ml,triple sec,1,353
-2.0,dash,orange bitters,2,353
-45.0,ml,melon liqueur,0,354
-30.0,ml,brandy,1,354
-30.0,ml,heavy cream,2,354
-30.0,ml,vodka,0,355
-30.0,ml,midori or other melon liqueur,1,355
-120.0,ml,orange juice,2,355
+2,dash,orange bitters,2,353
+45,ml,melon liqueur,0,354
+30,ml,brandy,1,354
+30,ml,heavy cream,2,354
+30,ml,vodka,0,355
+30,ml,melon liqueur,1,355
+120,ml,orange juice,2,355
 ,None,orange slice,3,355
 ,None,watermelon wedge,4,355
-60.0,ml,gin,0,356
-30.0,ml,watermelon juice,1,356
+60,ml,gin,0,356
+30,ml,watermelon juice,1,356
 22.5,ml,lemon juice,2,356
-15.0,ml,aperol,3,356
-15.0,ml,simple syrup,4,356
-45.0,ml,cherry brandy,0,357
-45.0,ml,maraschino liqueur,1,357
+15,ml,aperol,3,356
+15,ml,simple syrup,4,356
+45,ml,cherry brandy,0,357
+45,ml,maraschino liqueur,1,357
 ,None,maraschino cherry,2,357
-60.0,ml,black currant vodka,0,358
+60,ml,black currant vodka,0,358
 22.5,ml,cointreau,1,358
 22.5,ml,cranberry juice,2,358
 22.5,ml,lime juice,3,358
-30.0,ml,gold tequila,0,359
-90.0,ml,cranberry juice,1,359
-15.0,ml,orange juice,2,359
+30,ml,gold tequila,0,359
+90,ml,cranberry juice,1,359
+15,ml,orange juice,2,359
 22.5,ml,lime juice,3,359
 ,None,orange slice,4,359
-60.0,ml,gold tequila,0,360
+60,ml,gold tequila,0,360
 22.5,ml,lime juice,1,360
-1.0,tsp,simple syrup,2,360
-120.0,ml,ginger ale,3,360
-60.0,ml,tequila,0,361
+1,tsp,simple syrup,2,360
+120,ml,ginger ale,3,360
+60,ml,tequila,0,361
 22.5,ml,lime juice,1,361
-90.0,ml,chilled cola,2,361
+90,ml,cola,2,361
 22.5,ml,lime juice,3,361
-60.0,ml,mezcal,0,362
+60,ml,mezcal,0,362
 22.5,ml,lime juice,1,362
-1.0,tsp,simple syrup,2,362
-120.0,ml,ginger beer,3,362
-45.0,ml,gin,0,363
-45.0,ml,galliano,1,363
+1,tsp,simple syrup,2,362
+120,ml,ginger beer,3,362
+45,ml,gin,0,363
+45,ml,galliano,1,363
 22.5,ml,lemon juice,2,363
-75.0,ml,champagne,0,364
-75.0,ml,orange juice,1,364
-45.0,ml,kahlúa,0,365
-45.0,ml,vodka,1,365
-90.0,ml,chilled club soda,2,365
+75,ml,champagne,0,364
+75,ml,orange juice,1,364
+45,ml,kahlúa,0,365
+45,ml,vodka,1,365
+90,ml,club soda,2,365
 22.5,ml,bourbon whiskey,0,366
 22.5,ml,peppermint schnapps,1,366
 22.5,ml,vodka,2,366
-15.0,ml,kahlúa,3,366
-12.0,None,mint sprigs,0,367
+15,ml,kahlúa,3,366
+12,None,mint,0,367
 ,ml,simple syrup,1,367
-60.0,ml,bourbon whiskey,2,367
-4.0,None,sprigs mint,0,368
+60,ml,bourbon whiskey,2,367
+4,None,mint,0,368
 0.5,tbsp,sugar,1,368
-1.0,None,rye whiskey,2,368
-120.0,ml,bourbon whiskey,0,369
-1.0,tsp,simple syrup,1,369
-6.0,None,mint sprigs,2,369
-60.0,ml,bourbon whiskey,0,370
-4.0,None,mint sprigs,1,370
-1.0,tsp,sugar,2,370
-2.0,tsp,water,3,370
-10.0,None,sprigs mint,0,371
-1.0,tsp,sugar,1,371
-30.0,ml,spring water,2,371
-90.0,ml,bourbon whiskey,3,371
-60.0,ml,makers mark,0,372
-1.0,None,sugar,1,372
-1.0,None,sugar,2,372
-3.0,dash,angostura bitters,3,372
-1.0,dash,peychaud’s bitters,4,372
-1.0,None,splash soda,5,372
-10.0,None,sprigs mint,0,373
-1.0,tsp,sugar,1,373
-30.0,ml,spring water,2,373
-90.0,ml,bourbon whiskey,3,373
-60.0,ml,makers mark,0,374
-1.0,None,sugar,1,374
-1.0,None,sugar,2,374
-3.0,dash,angostura bitters,3,374
-1.0,dash,peychaud’s bitters,4,374
-1.0,None,splash soda,5,374
-50.0,ml,cognac,0,375
-20.0,ml,crme de menthe,1,375
-45.0,ml,bourbon whiskey,0,376
-45.0,ml,southern comfort,1,376
+1,None,rye whiskey,2,368
+120,ml,bourbon whiskey,0,369
+1,tsp,simple syrup,1,369
+6,None,mint,2,369
+60,ml,bourbon whiskey,0,370
+4,None,mint,1,370
+1,tsp,sugar,2,370
+2,tsp,water,3,370
+10,None,mint,0,371
+1,tsp,sugar,1,371
+30,ml,spring water,2,371
+90,ml,bourbon whiskey,3,371
+60,ml,makers mark,0,372
+1,None,sugar,1,372
+1,None,sugar,2,372
+3,dash,angostura,3,372
+1,dash,peychaud’s bitters,4,372
+1,None,splash soda,5,372
+10,None,mint,0,373
+1,tsp,sugar,1,373
+30,ml,spring water,2,373
+90,ml,bourbon whiskey,3,373
+60,ml,makers mark,0,374
+1,None,sugar,1,374
+1,None,sugar,2,374
+3,dash,angostura,3,374
+1,dash,peychaud’s bitters,4,374
+1,None,splash soda,5,374
+50,ml,cognac,0,375
+20,ml,crme de menthe,1,375
+45,ml,bourbon whiskey,0,376
+45,ml,southern comfort,1,376
 22.5,ml,kahlúa,0,377
 22.5,ml,white crème de menthe,1,377
 22.5,ml,white crème de cacao,2,377
-40.0,ml,light rum,0,378
+40,ml,light rum,0,378
 22.5,ml,lime juice,1,378
-6.0,None,mint sprigs,2,378
-2.0,tsp,sugar,3,378
+6,None,mint,2,378
+2,tsp,sugar,3,378
 ,None,soda water,4,378
-50.0,ml,gin,0,379
-30.0,ml,orange juice,1,379
-2.0,drop,absinth,2,379
-2.0,drop,grenadine,3,379
-45.0,ml,gin,0,380
-30.0,ml,orange juice,1,380
-1.0,tsp,bénédictine,2,380
-4.0,dash,grenadine,3,380
-57.0,ml,rye whiskey,0,381
-12.5,ml,bndictine,1,381
-3.0,dash,angostura bitters,2,381
-60.0,ml,cognac,0,382
-15.0,ml,bndictine,1,382
+50,ml,gin,0,379
+30,ml,orange juice,1,379
+2,drop,absinth,2,379
+2,drop,grenadine,3,379
+45,ml,gin,0,380
+30,ml,orange juice,1,380
+1,tsp,bénédictine,2,380
+4,dash,grenadine,3,380
+57,ml,rye whiskey,0,381
+12.5,ml,bénédictine,1,381
+3,dash,angostura,2,381
+60,ml,cognac,0,382
+15,ml,bénédictine,1,382
 7.5,ml,fernet branca,2,382
-45.0,ml,gin,0,383
-90.0,ml,clam juice,1,383
+45,ml,gin,0,383
+90,ml,clam juice,1,383
 ,dash,red pepper sauce,2,383
-45.0,ml,vodka,0,384
-120.0,ml,ginger beer,1,384
+45,ml,vodka,0,384
+120,ml,ginger beer,1,384
 22.5,ml,lime juice,2,384
 22.5,ml,lime juice,3,384
-45.0,ml,sloe gin,0,385
+45,ml,sloe gin,0,385
 22.5,ml,sweet vermouth,1,385
-2.0,dash,angostura bitters,2,385
-14.0,None,mint leaves,0,386
-1.0,tsp,simple syrup,1,386
-120.0,ml,bourbon whiskey,2,386
-3.0,None,mint sprigs,3,386
-1.0,None,strawberry,0,387
+2,dash,angostura,2,385
+14,None,mint,0,386
+1,tsp,simple syrup,1,386
+120,ml,bourbon whiskey,2,386
+3,None,mint,3,386
+1,None,strawberry,0,387
 ,ml,gin,1,387
 ,ml,st. germain,2,387
 22.5,ml,lemon juice,3,387
 ,ml,yellow chartreuse,4,387
-30.0,ml,vodka,0,388
-30.0,ml,kahlúa,1,388
-30.0,ml,baileys irish cream,2,388
-30.0,ml,heavy cream,3,388
+30,ml,vodka,0,388
+30,ml,kahlúa,1,388
+30,ml,baileys irish cream,2,388
+30,ml,heavy cream,3,388
 ,None,unsweetened cocoa powder,4,388
-15.0,ml,amaretto,0,389
-15.0,ml,kahlúa,1,389
-15.0,ml,baileys irish cream,2,389
-30.0,ml,heavy cream,3,389
-30.0,ml,gold tequila,4,389
-60.0,ml,light rum,0,390
-30.0,ml,mandarine napoléon liqueur,1,390
-30.0,ml,mandarin  juice,2,390
+15,ml,amaretto,0,389
+15,ml,kahlúa,1,389
+15,ml,baileys irish cream,2,389
+30,ml,heavy cream,3,389
+30,ml,gold tequila,4,389
+60,ml,light rum,0,390
+30,ml,mandarine napoléon liqueur,1,390
+30,ml,mandarin  juice,2,390
 22.5,ml,lime juice,3,390
-1.0,tsp,sugar,4,390
+1,tsp,sugar,4,390
 22.5,ml,lime juice,5,390
-45.0,ml,gold rum,0,391
+45,ml,gold rum,0,391
 22.5,ml,apricot brandy,1,391
 22.5,ml,pineapple juice,2,391
 22.5,ml,lime juice,3,391
-30.0,ml,light puerto rican rum,0,392
-30.0,ml,gold rum,1,392
-30.0,ml,rum,2,392
+30,ml,light puerto rican rum,0,392
+30,ml,gold rum,1,392
+30,ml,rum,2,392
 22.5,ml,pimento dram,3,392
 22.5,ml,lime juice,4,392
-15.0,ml,grapefruit juice,5,392
-15.0,ml,rock candy syrup,6,392
-30.0,ml,dark rum,0,393
-30.0,ml,premium aged rum,1,393
-30.0,ml,premium aged rum,2,393
+15,ml,grapefruit juice,5,392
+15,ml,rock candy syrup,6,392
+30,ml,dark rum,0,393
+30,ml,rum,1,393
+30,ml,rum,2,393
 22.5,ml,lime juice,3,393
 22.5,ml,grapefruit juice,4,393
-15.0,ml,honey,5,393
-30.0,ml,light puerto rican rum,0,394
-30.0,ml,dark rum,1,394
-30.0,ml,rum,2,394
-30.0,ml,honey,3,394
+15,ml,honey,5,393
+30,ml,light puerto rican rum,0,394
+30,ml,dark rum,1,394
+30,ml,rum,2,394
+30,ml,honey,3,394
 22.5,ml,lime juice,4,394
 22.5,ml,grapefruit juice,5,394
 22.5,ml,soda water,6,394
-45.0,ml,rum,0,395
-30.0,ml,orange curaçao,1,395
+45,ml,rum,0,395
+30,ml,orange curaçao,1,395
 22.5,ml,lime juice,2,395
-60.0,ml,water,3,395
-60.0,ml,orange juice,4,395
-1.0,dash,angostura bitters,5,395
-30.0,ml,dark rum,0,396
-30.0,ml,gold rum,1,396
-30.0,ml,light rum,2,396
+60,ml,water,3,395
+60,ml,orange juice,4,395
+1,dash,angostura,5,395
+30,ml,dark rum,0,396
+30,ml,gold rum,1,396
+30,ml,light rum,2,396
 22.5,ml,lime juice,3,396
-15.0,ml,orange juice,4,396
-15.0,ml,passion fruit juice,5,396
-15.0,ml,pineapple juice,6,396
-15.0,ml,orgeat syrup,7,396
-,None,mint sprig,8,396
+15,ml,orange juice,4,396
+15,ml,passion fruit juice,5,396
+15,ml,pineapple juice,6,396
+15,ml,orgeat syrup,7,396
+,None,mint,8,396
 22.5,ml,lime juice,9,396
-60.0,ml,tequila,0,397
-30.0,ml,mandarine napoléon liqueur,1,397
+60,ml,tequila,0,397
+30,ml,mandarine napoléon liqueur,1,397
 22.5,ml,lime juice,2,397
-15.0,ml,orange juice,3,397
-1.0,tbsp,sugar,4,397
+15,ml,orange juice,3,397
+1,tbsp,sugar,4,397
 ,None,nectarine slice,5,397
-45.0,ml,bourbon whiskey,0,398
-15.0,ml,apricot brandy,1,398
-30.0,ml,grapefruit juice,2,398
+45,ml,bourbon whiskey,0,398
+15,ml,apricot brandy,1,398
+30,ml,grapefruit juice,2,398
 22.5,ml,lemon juice,3,398
-,dash,angostura bitters,4,398
-1.0,None,sugar,0,399
-,dash,angostura bitters,1,399
-60.0,ml,bourbon whiskey,2,399
+,dash,angostura,4,398
+1,None,sugar,0,399
+,dash,angostura,1,399
+60,ml,bourbon whiskey,2,399
 7.5,ml,herbsaint,3,399
 22.5,ml,lemon juice,4,399
 ,None,lemon twist,5,399
-45.0,ml,bourbon whiskey,0,400
+45,ml,bourbon whiskey,0,400
 22.5,ml,lime juice,1,400
-1.0,tsp,sugar,2,400
+1,tsp,sugar,2,400
 ,dash,grenadine,3,400
 ,None,orange twist,4,400
 ,None,lemon twist,5,400
-45.0,ml,gin,0,401
-15.0,ml,brandy,1,401
-15.0,ml,peach liqueur,2,401
+45,ml,gin,0,401
+15,ml,brandy,1,401
+15,ml,peach liqueur,2,401
 22.5,ml,lime juice,3,401
-150.0,ml,ginger ale,4,401
-45.0,ml,baileys irish cream,0,402
-45.0,ml,frangelico,1,402
-75.0,ml,vodka,0,403
-15.0,ml,frangelico,1,403
+150,ml,ginger ale,4,401
+45,ml,baileys irish cream,0,402
+45,ml,frangelico,1,402
+75,ml,vodka,0,403
+15,ml,frangelico,1,403
 ,None,orange twist,2,403
-30.0,ml,butterscotch schnapps,0,404
-30.0,ml,jägermeister,1,404
-30.0,ml,baileys irish cream,2,404
+30,ml,butterscotch schnapps,0,404
+30,ml,jägermeister,1,404
+30,ml,baileys irish cream,2,404
 7.5,ml,pastis,3,404
-15.0,ml,heavy cream,4,404
-,None,freshly grated or ground nutmeg,5,404
-60.0,ml,tequila,0,405
+15,ml,heavy cream,4,404
+,None,ground nutmeg,5,404
+60,ml,tequila,0,405
 22.5,ml,agave nectar,1,405
-30.0,ml,heavy cream,2,405
-60.0,ml,milk,3,405
+30,ml,heavy cream,2,405
+60,ml,milk,3,405
 ,None,oaxacan chocolate powder,4,405
 ,None,heavy cream,5,405
 ,ml,rum,0,406
 ,ml,dark rum,1,406
 ,ml,sweet vermouth,2,406
-1.0,tsp,lazzaroni amaretto,3,406
-1.0,dash,whiskey,4,406
-60.0,ml,rye whiskey,0,407
+1,tsp,lazzaroni amaretto,3,406
+1,dash,whiskey,4,406
+60,ml,rye whiskey,0,407
 22.5,ml,dry vermouth,1,407
 22.5,ml,campari,2,407
-45.0,ml,rye whiskey,0,408
+45,ml,rye whiskey,0,408
 22.5,ml,dry vermouth,1,408
 22.5,ml,campari,2,408
-45.0,ml,rye whiskey,0,409
+45,ml,rye whiskey,0,409
 22.5,ml,campari,1,409
 22.5,ml,dry vermouth,2,409
 22.5,ml,lemon juice,3,409
-45.0,ml,gold rum,0,410
-15.0,ml,cranberry juice,1,410
+45,ml,gold rum,0,410
+15,ml,cranberry juice,1,410
 22.5,ml,lime juice,2,410
 22.5,ml,lime juice,3,410
-2.0,tsp,simple syrup,0,411
-3.0,dash,angostura.,1,411
-120.0,ml,whiskey,2,411
-4.0,dash,gum syrup,0,412
-2.0,dash,generic bitters,1,412
-1.0,None,whiskey,2,412
+2,tsp,simple syrup,0,411
+3,dash,angostura,1,411
+120,ml,whiskey,2,411
+4,dash,gum syrup,0,412
+2,dash,generic bitters,1,412
+1,None,whiskey,2,412
 22.5,ml,lemon juice,3,412
-60.0,ml,rye whiskey,0,413
-1.0,None,sugar,1,413
-2.0,dash,angostura bitters,2,413
-45.0,ml,rye whiskey,0,414
-30.0,ml,lillet blanc,1,414
-15.0,ml,lairds bonded apple brandy,2,414
+60,ml,rye whiskey,0,413
+1,None,sugar,1,413
+2,dash,angostura,2,413
+45,ml,rye whiskey,0,414
+30,ml,lillet blanc,1,414
+15,ml,lairds bonded apple brandy,2,414
 7.5,ml,green chartreuse,3,414
-3.0,dash,angostura bitters,4,414
-1.0,None,sugar,0,415
-3.0,dash,angostura bitters,1,415
-90.0,ml,rye whiskey,2,415
-1.0,tsp,sugar,0,416
-2.0,dash,angostura bitters,1,416
-2.0,None,orange slice,2,416
-2.0,None,maraschino cherries,3,416
-,None,water or soda water,4,416
-60.0,ml,bourbon whiskey,5,416
-1.0,None,sugar,0,417
-2.0,dash,angostura bitters,1,417
-1.0,None,rye whiskey,2,417
+3,dash,angostura,4,414
+1,None,sugar,0,415
+3,dash,angostura,1,415
+90,ml,rye whiskey,2,415
+1,tsp,sugar,0,416
+2,dash,angostura,1,416
+2,None,orange slice,2,416
+2,None,maraschino cherries,3,416
+,None,soda water,4,416
+60,ml,bourbon whiskey,5,416
+1,None,sugar,0,417
+2,dash,angostura,1,417
+1,None,rye whiskey,2,417
 1.5,None,whiskey,0,418
 0.25,None,simple syrup,1,418
 ,None,orange slice,0,419
 ,None,sugar,1,419
-90.0,ml,orange-flavored vodka,2,419
+90,ml,orange-flavored vodka,2,419
 7.5,ml,orange flower water,3,419
 ,None,orange twist,4,419
 ,None,lemon wedge,0,420
 ,None,sugar,1,420
-60.0,ml,gin,2,420
-30.0,ml,crème de noyaux,3,420
-15.0,ml,tuaca,4,420
-15.0,ml,parfait amour,5,420
+60,ml,gin,2,420
+30,ml,crème de noyaux,3,420
+15,ml,tuaca,4,420
+15,ml,parfait amour,5,420
 22.5,ml,lemon juice,6,420
-45.0,ml,gin,0,421
-30.0,ml,passion fruit liqueur,1,421
+45,ml,gin,0,421
+30,ml,passion fruit liqueur,1,421
 7.5,ml,limoncello,2,421
 ,None,lemon twist,3,421
-45.0,ml,citron vodka,0,422
-45.0,ml,cointreau,1,422
+45,ml,citron vodka,0,422
+45,ml,cointreau,1,422
 22.5,ml,lime juice,2,422
-2.0,oz,cranberry juice,3,422
+2,oz,cranberry juice,3,422
 ,None,lemon twist,4,422
-45.0,ml,gin,0,423
-15.0,ml,dry vermouth,1,423
-15.0,ml,sweet vermouth,2,423
-1.0,tsp,white crème de menthe,3,423
-,dash,angostura bitters,4,423
-30.0,ml,gin,0,424
-30.0,ml,grapefruit juice,1,424
-15.0,ml,st. germain elderflower liqueur,2,424
+45,ml,gin,0,423
+15,ml,dry vermouth,1,423
+15,ml,sweet vermouth,2,423
+1,tsp,white crème de menthe,3,423
+,dash,angostura,4,423
+30,ml,gin,0,424
+30,ml,grapefruit juice,1,424
+15,ml,st. germain,2,424
 22.5,ml,lemon juice,3,424
-30.0,ml,mezcal,0,425
-30.0,ml,bourbon whiskey,1,425
-,dash,angostura bitters,2,425
+30,ml,mezcal,0,425
+30,ml,bourbon whiskey,1,425
+,dash,angostura,2,425
 ,dash,simple syrup,3,425
-90.0,ml,light rum,0,426
-15.0,ml,maraschino liqueur,1,426
-45.0,ml,grapefruit juice,2,426
+90,ml,light rum,0,426
+15,ml,maraschino liqueur,1,426
+45,ml,grapefruit juice,2,426
 22.5,ml,lime juice,3,426
 22.5,ml,lime juice,4,426
-45.0,ml,citron vodka,0,427
-120.0,ml,passion fruit juice,1,427
+45,ml,citron vodka,0,427
+120,ml,passion fruit juice,1,427
 22.5,ml,lime juice,2,427
 1.5,cup,"seeded, peeled, cubed papaya",3,427
-8.0,None,mint leaves,4,427
+8,None,mint,4,427
 22.5,ml,lime juice,5,427
 ,None,papaya slice,6,427
-,None,mint sprig,7,427
-2.0,cup,cubed ripe papaya,0,428
-180.0,ml,sweet-and-sour,1,428
-180.0,ml,silver tequila,2,428
-60.0,ml,damiana liqueur,3,428
+,None,mint,7,427
+2,cup,cubed ripe papaya,0,428
+180,ml,sweet-and-sour,1,428
+180,ml,silver tequila,2,428
+60,ml,damiana liqueur,3,428
 22.5,ml,lime juice,4,428
-20.0,ml,bourbon whiskey,0,429
-20.0,ml,amaro nonino quintessentia,1,429
-20.0,ml,aperol,2,429
+20,ml,bourbon whiskey,0,429
+20,ml,amaro nonino quintessentia,1,429
+20,ml,aperol,2,429
 22.5,ml,lemon juice,3,429
-35.0,ml,gin,0,430
-20.0,ml,apricot brandy,1,430
-15.0,ml,orange juice,2,430
-30.0,ml,gin,0,431
-30.0,ml,crème de cassis,1,431
-30.0,ml,dry vermouth,2,431
+35,ml,gin,0,430
+20,ml,apricot brandy,1,430
+15,ml,orange juice,2,430
+30,ml,gin,0,431
+30,ml,crème de cassis,1,431
+30,ml,dry vermouth,2,431
 7.5,ml,passion fruit liqueur,0,432
-60.0,ml,gin,1,432
+60,ml,gin,1,432
 ,None,lemon twist,2,432
-60.0,ml,ginger-infused vodka,0,433
-15.0,ml,chilled premium sake,1,433
+60,ml,ginger-infused vodka,0,433
+15,ml,premium sake,1,433
 ,None,orange twist,2,433
-45.0,ml,vodka,0,434
+45,ml,vodka,0,434
 22.5,ml,melon liqueur,1,434
-30.0,ml,pineapple juice,2,434
+30,ml,pineapple juice,2,434
 22.5,ml,lime juice,0,435
 ,None,sugar,1,435
-45.0,ml,light rum,2,435
-60.0,ml,grapefruit juice,3,435
+45,ml,light rum,2,435
+60,ml,grapefruit juice,3,435
 22.5,ml,lime juice,4,435
 22.5,ml,lemon juice,5,435
-1.0,tbsp,pomegranate syrup,6,435
+1,tbsp,pomegranate syrup,6,435
 22.5,ml,lime juice,7,435
-60.0,ml,light rum,0,436
+60,ml,light rum,0,436
 22.5,ml,lime juice,1,436
-1.0,tbsp,sugar,2,436
-120.0,ml,chilled club soda,3,436
+1,tbsp,sugar,2,436
+120,ml,club soda,3,436
 22.5,ml,lime juice,4,436
 ,None,maraschino cherry,5,436
-60.0,ml,gin,0,437
+60,ml,gin,0,437
 22.5,ml,orange curaçao,1,437
 22.5,ml,lime juice,2,437
-1.0,dash,angostura bitters,3,437
-1.0,dash,orange bitters,4,437
-45.0,ml,gin,0,438
-15.0,ml,cointreau,1,438
+1,dash,angostura,3,437
+1,dash,orange bitters,4,437
+45,ml,gin,0,438
+15,ml,cointreau,1,438
 22.5,ml,lime juice,2,438
-2.0,dash,angostura bitters,3,438
-60.0,ml,blended whiskey,0,439
+2,dash,angostura,3,438
+60,ml,blended whiskey,0,439
 22.5,ml,lemon juice,1,439
 11.25,ml,honey,2,439
 11.25,ml,sweetened ginger juice,3,439
-45.0,ml,white crème de cacao,0,440
-30.0,ml,peppermint schnapps,1,440
-30.0,ml,heavy cream,2,440
-15.0,ml,water,0,441
+45,ml,white crème de cacao,0,440
+30,ml,peppermint schnapps,1,440
+30,ml,heavy cream,2,440
+15,ml,water,0,441
 0.5,tsp,sugar,1,441
-2.0,dash,angostura bitters,2,441
-60.0,ml,pernod,3,441
-90.0,ml,pimm’s no. 1,0,442
-120.0,ml,chilled club soda,1,442
+2,dash,angostura,2,441
+60,ml,pernod,3,441
+90,ml,pimm’s no. 1,0,442
+120,ml,club soda,1,442
 ,None,cucumber spear,2,442
 ,None,lemon wedge,3,442
-60.0,ml,pimms no. 1 cup,0,443
+60,ml,pimms no. 1 cup,0,443
 22.5,ml,lemon juice,1,443
-15.0,ml,simple syrup,2,443
-3.0,None,cucumber slices,3,443
+15,ml,simple syrup,2,443
+3,None,cucumber slices,3,443
 ,None,simple syrup,4,443
 22.5,ml,lemon juice,5,443
-60.0,ml,pimms no. 1 cup,0,444
+60,ml,pimms no. 1 cup,0,444
 22.5,ml,lemon juice,1,444
 22.5,ml,lemon juice,2,444
 22.5,ml,lemon juice,3,444
 ,ml,simple syrup,4,444
-120.0,ml,club soda,5,444
-30.0,ml,light rum,0,445
-90.0,ml,pineapple juice,1,445
-30.0,ml,coconut milk,2,445
-60.0,ml,pineapple rum,0,446
+120,ml,club soda,5,444
+30,ml,light rum,0,445
+90,ml,pineapple juice,1,445
+30,ml,coconut milk,2,445
+60,ml,pineapple rum,0,446
 22.5,ml,lime juice,1,446
 22.5,ml,sugar,2,446
-45.0,ml,pineapple rum,0,447
+45,ml,pineapple rum,0,447
 22.5,ml,100 proof rhum agricole,1,447
 22.5,ml,lime juice,2,447
-15.0,ml,simple syrup,3,447
-45.0,ml,light rum,0,448
-60.0,ml,grapefruit juice,1,448
+15,ml,simple syrup,3,447
+45,ml,light rum,0,448
+60,ml,grapefruit juice,1,448
 22.5,ml,lime juice,2,448
-1.0,tsp,sugar,3,448
+1,tsp,sugar,3,448
 ,dash,grenadine,4,448
-30.0,ml,blended whiskey,0,449
-15.0,ml,crème de noyaux,1,449
-15.0,ml,amaretto,2,449
-15.0,ml,kirsch,3,449
+30,ml,blended whiskey,0,449
+15,ml,crème de noyaux,1,449
+15,ml,amaretto,2,449
+15,ml,kirsch,3,449
 22.5,ml,lemon juice,4,449
 ,None,lemon wedge,5,449
-30.0,ml,vodka,0,450
-30.0,ml,peach schnapps,1,450
-60.0,ml,cranberry juice,2,450
-60.0,ml,orange juice,3,450
+30,ml,vodka,0,450
+30,ml,peach schnapps,1,450
+60,ml,cranberry juice,2,450
+60,ml,orange juice,3,450
 22.5,ml,lime juice,4,450
-45.0,ml,vodka,0,451
-15.0,ml,triple sec,1,451
-30.0,ml,cranberry juice,2,451
+45,ml,vodka,0,451
+15,ml,triple sec,1,451
+30,ml,cranberry juice,2,451
 22.5,ml,lemon juice,3,451
 22.5,ml,lime juice,4,451
-150.0,ml,chilled 7-up,5,451
+150,ml,7-up,5,451
 ,None,lemon wedge,6,451
-60.0,ml,gin,0,452
-15.0,ml,guava nectar,1,452
-15.0,ml,orange juice,2,452
+60,ml,gin,0,452
+15,ml,guava nectar,1,452
+15,ml,orange juice,2,452
 ,None,orange twist,3,452
-45.0,ml,gin,0,453
+45,ml,gin,0,453
 22.5,ml,mandarine napoléon,1,453
-45.0,ml,grapefruit juice,2,453
+45,ml,grapefruit juice,2,453
 ,None,lemon twist,3,453
-30.0,ml,white crème de cacao,0,454
-30.0,ml,crème de noyaux,1,454
-30.0,ml,heavy cream,2,454
-45.0,ml,pisco,0,455
+30,ml,white crème de cacao,0,454
+30,ml,crème de noyaux,1,454
+30,ml,heavy cream,2,454
+45,ml,pisco,0,455
 22.5,ml,lemon juice,1,455
-20.0,ml,sugar,2,455
-1.0,None,raw egg white,3,455
-60.0,ml,light rum,0,456
-180.0,ml,pineapple juice,1,456
-60.0,ml,coconut cream,2,456
+20,ml,sugar,2,455
+1,None,raw egg white,3,455
+60,ml,light rum,0,456
+180,ml,pineapple juice,1,456
+60,ml,coconut cream,2,456
 ,None,pineapple wedge,3,456
 ,None,maraschino cherry,4,456
-60.0,ml,light rum,0,457
-30.0,ml,passion fruit liqueur,1,457
+60,ml,light rum,0,457
+30,ml,passion fruit liqueur,1,457
 ,cup,pineapple pieces,2,457
-30.0,ml,coconut cream,3,457
-30.0,ml,mango juice,4,457
+30,ml,coconut cream,3,457
+30,ml,mango juice,4,457
 22.5,ml,lime juice,5,457
-1.0,None,pineapple wedge,6,457
-1.0,None,mango slice,7,457
+1,None,pineapple wedge,6,457
+1,None,mango slice,7,457
 ,None,shaved coconut,8,457
-60.0,ml,dark rum,0,458
+60,ml,dark rum,0,458
 ,dash,cointreau,1,458
-45.0,ml,orange juice,2,458
-45.0,ml,pineapple juice,3,458
+45,ml,orange juice,2,458
+45,ml,pineapple juice,3,458
 22.5,ml,lime juice,4,458
-15.0,ml,simple syrup,5,458
+15,ml,simple syrup,5,458
 ,dash,grenadine,6,458
 ,None,orange slice,7,458
 ,None,maraschino cherry,8,458
-45.0,ml,dark rum,9,458
-35.0,ml,orange juice,10,458
-35.0,ml,pineapple juice,11,458
+45,ml,dark rum,9,458
+35,ml,orange juice,10,458
+35,ml,pineapple juice,11,458
 22.5,ml,lemon juice,12,458
-10.0,ml,grenadine,13,458
-10.0,ml,sugar,14,458
-4.0,dash,angostura bitters,15,458
-45.0,ml,dark rum,0,459
-35.0,ml,orange juice,1,459
-35.0,ml,pineapple juice,2,459
+10,ml,grenadine,13,458
+10,ml,sugar,14,458
+4,dash,angostura,15,458
+45,ml,dark rum,0,459
+35,ml,orange juice,1,459
+35,ml,pineapple juice,2,459
 22.5,ml,lemon juice,3,459
-10.0,ml,grenadine,4,459
-10.0,ml,sugar,5,459
-4.0,dash,angostura bitters,6,459
-45.0,ml,blended whiskey,0,460
-15.0,ml,pear brandy,1,460
-75.0,ml,grapefruit juice,2,460
-120.0,ml,chilled club soda,3,460
-15.0,ml,brandy,0,461
-45.0,ml,red port,1,461
-10.0,ml,egg yolk,2,461
-,None,pousse-café #1,0,462
-7.5,ml,grenadine,1,462
-7.5,ml,yellow chartreuse,2,462
-7.5,ml,crème de cassis,3,462
-7.5,ml,white crème de menthe,4,462
-7.5,ml,green chartreuse,5,462
-7.5,ml,brandy,6,462
+10,ml,grenadine,4,459
+10,ml,sugar,5,459
+4,dash,angostura,6,459
+45,ml,blended whiskey,0,460
+15,ml,pear brandy,1,460
+75,ml,grapefruit juice,2,460
+120,ml,club soda,3,460
+15,ml,brandy,0,461
+45,ml,red port,1,461
+10,ml,egg yolk,2,461
+7.5,ml,grenadine,0,462
+7.5,ml,yellow chartreuse,1,462
+7.5,ml,crème de cassis,2,462
+7.5,ml,white crème de menthe,3,462
+7.5,ml,green chartreuse,4,462
+7.5,ml,brandy,5,462
 ,None,lemon twist,0,463
-60.0,ml,blended whiskey,1,463
-15.0,ml,bénédictine,2,463
-15.0,ml,sweet vermouth,3,463
-2.0,dash,angostura bitters,4,463
-45.0,ml,light rum,0,464
-15.0,ml,dry vermouth,1,464
-15.0,ml,sweet vermouth,2,464
+60,ml,blended whiskey,1,463
+15,ml,bénédictine,2,463
+15,ml,sweet vermouth,3,463
+2,dash,angostura,4,463
+45,ml,light rum,0,464
+15,ml,dry vermouth,1,464
+15,ml,sweet vermouth,2,464
 7.5,ml,triple sec,3,464
 ,None,orange twist,4,464
 22.5,ml,lime juice,0,465
 ,None,sugar,1,465
-45.0,ml,silver tequila,2,465
-30.0,ml,tuaca,3,465
-30.0,ml,prickly pear juice,4,465
+45,ml,silver tequila,2,465
+30,ml,tuaca,3,465
+30,ml,prickly pear juice,4,465
 22.5,ml,lime juice,5,465
 22.5,ml,lime juice,6,465
-45.0,ml,scotch,0,466
-15.0,ml,lillet blanc,1,466
+45,ml,scotch,0,466
+15,ml,lillet blanc,1,466
 7.5,ml,drambuie,2,466
 ,None,orange slice,3,466
-60.0,ml,vodka,0,467
-90.0,ml,grapefruit juice,1,467
-90.0,ml,chilled purple grape juice,2,467
-45.0,ml,bénédictine,0,468
+60,ml,vodka,0,467
+90,ml,grapefruit juice,1,467
+90,ml,purple grape juice,2,467
+45,ml,bénédictine,0,468
 22.5,ml,dry vermouth,1,468
 22.5,ml,lemon juice,2,468
 ,None,lemon twist,3,468
 22.5,ml,lime juice,0,469
-15.0,ml,sugar,1,469
-6.0,None,mint leaves,2,469
-90.0,ml,rum,3,469
-90.0,ml,rum,0,470
+15,ml,sugar,1,469
+6,None,mint,2,469
+90,ml,rum,3,469
+90,ml,rum,0,470
 22.5,ml,lime juice,1,470
-15.0,ml,demerara syrup,2,470
-3.0,dash,angostura bitters,3,470
-1.0,None,bunch spearmint,4,470
+15,ml,demerara syrup,2,470
+3,dash,angostura,3,470
+1,None,spearmint,4,470
 ,None,generic bitters,5,470
-,None,garnish with large bouquet of spearmint,6,470
-60.0,ml,gin,0,471
+,None,spearmint,6,470
+60,ml,gin,0,471
 22.5,ml,heavy cream,1,471
 22.5,ml,simple syrup,2,471
 22.5,ml,lime juice,3,471
 22.5,ml,lemon juice,4,471
-5.0,drop,orange flower water,5,471
-1.0,None,egg white,6,471
+5,drop,orange flower water,5,471
+1,None,egg white,6,471
 22.5,ml,lemon juice,0,472
 0.5,tbsp,sugar,1,472
-1.0,None,egg white,2,472
-60.0,ml,gin,3,472
+1,None,egg white,2,472
+60,ml,gin,3,472
 0.5,tsp,orange flower water,4,472
-1.0,tbsp,sweet cream,5,472
-1.0,tbsp,sugar,0,473
-4.0,drop,orange flower water,1,473
+1,tbsp,sweet cream,5,472
+1,tbsp,sugar,0,473
+4,drop,orange flower water,1,473
 22.5,ml,lime juice,2,473
 22.5,ml,lemon juice,3,473
-1.0,None,old tom gin,4,473
-1.0,None,egg white,5,473
-0.5,None,glass crushed ice,6,473
-2.0,tbsp,rich milk or cream,7,473
-30.0,ml,seltzer,8,473
-45.0,ml,gin,0,474
+1,None,old tom gin,4,473
+1,None,egg white,5,473
+0.5,None,crushed ice,6,473
+2,tbsp,cream,7,473
+30,ml,seltzer,8,473
+45,ml,gin,0,474
 22.5,ml,lime juice,1,474
 22.5,ml,lemon juice,2,474
-30.0,ml,sugar,3,474
-60.0,ml,cream,4,474
-1.0,None,egg white,5,474
-3.0,dash,orange flower water,6,474
-2.0,drop,vanilla extract,7,474
+30,ml,sugar,3,474
+60,ml,cream,4,474
+1,None,egg white,5,474
+3,dash,orange flower water,6,474
+2,drop,vanilla extract,7,474
 ,None,soda water,8,474
-1.0,tbsp,sugar,0,475
-4.0,drop,orange flower water,1,475
+1,tbsp,sugar,0,475
+4,drop,orange flower water,1,475
 22.5,ml,lime juice,2,475
 22.5,ml,lemon juice,3,475
-1.0,None,old tom gin,4,475
-1.0,None,egg white,5,475
-0.5,None,glass crushed ice,6,475
-2.0,tbsp,rich milk or cream,7,475
-30.0,ml,seltzer,8,475
-,None,longdrink,0,476
-45.0,ml,gin,1,476
-22.5,ml,lime juice,2,476
-22.5,ml,lemon juice,3,476
-30.0,ml,sugar,4,476
-60.0,ml,cream,5,476
-1.0,None,egg white,6,476
-3.0,dash,orange flower water,7,476
-2.0,drop,vanilla extract,8,476
-,None,soda water,9,476
+1,None,old tom gin,4,475
+1,None,egg white,5,475
+0.5,None,crushed ice,6,475
+2,tbsp,cream,7,475
+30,ml,seltzer,8,475
+45,ml,gin,0,476
+22.5,ml,lime juice,1,476
+22.5,ml,lemon juice,2,476
+30,ml,sugar,3,476
+60,ml,cream,4,476
+1,None,egg white,5,476
+3,dash,orange flower water,6,476
+2,drop,vanilla extract,7,476
+,None,soda water,8,476
 22.5,ml,lemon juice,0,477
 0.5,tbsp,sugar,1,477
-1.0,None,egg white,2,477
-60.0,ml,gin,3,477
+1,None,egg white,2,477
+60,ml,gin,3,477
 0.5,tsp,orange flower water,4,477
-1.0,tbsp,sweet cream,5,477
-60.0,ml,gin,0,478
+1,tbsp,sweet cream,5,477
+60,ml,gin,0,478
 22.5,ml,heavy cream,1,478
 22.5,ml,simple syrup,2,478
 22.5,ml,lime juice,3,478
 22.5,ml,lemon juice,4,478
-5.0,drop,orange flower water,5,478
-1.0,None,egg white,6,478
+5,drop,orange flower water,5,478
+1,None,egg white,6,478
 0.25,cup,raspberries,0,479
-6.0,None,mint leaves,1,479
-60.0,ml,vodka,2,479
-30.0,ml,crème de framboise,3,479
-60.0,ml,rye whiskey,0,480
+6,None,mint,1,479
+60,ml,vodka,2,479
+30,ml,crème de framboise,3,479
+60,ml,rye whiskey,0,480
 22.5,ml,lemon juice,1,480
-15.0,ml,simple syrup,2,480
-15.0,ml,egg white,3,480
-3.0,drop,absinthe,0,481
-45.0,ml,whiskey,1,481
+15,ml,simple syrup,2,480
+15,ml,egg white,3,480
+3,drop,absinthe,0,481
+45,ml,whiskey,1,481
 22.5,ml,lemon juice,2,481
-15.0,ml,simple syrup,3,481
-1.0,None,egg white,4,481
-50.0,ml,rye whiskey,0,482
+15,ml,simple syrup,3,481
+1,None,egg white,4,481
+50,ml,rye whiskey,0,482
 22.5,ml,lemon juice,1,482
-20.0,ml,simple,2,482
-1.0,None,egg white,3,482
-60.0,ml,rye whiskey,0,483
+20,ml,simple,2,482
+1,None,egg white,3,482
+60,ml,rye whiskey,0,483
 22.5,ml,lemon juice,1,483
 22.5,ml,simple syrup,2,483
-1.0,None,egg white,3,483
-4.0,None,rye whiskey,0,484
-2.0,None,egg whites,1,484
+1,None,egg white,3,483
+4,None,rye whiskey,0,484
+2,None,egg whites,1,484
 22.5,ml,lemon juice,2,484
-,None,a few dashes absinthe,3,484
-60.0,ml,rye whiskey,0,485
+2,dash,absinthe,3,484
+60,ml,rye whiskey,0,485
 22.5,ml,lemon juice,1,485
-15.0,ml,maple syrup,2,485
-2.0,dash,peychaud’s bitters,3,485
-15.0,ml,egg whites,4,485
+15,ml,maple syrup,2,485
+2,dash,peychaud’s bitters,3,485
+15,ml,egg whites,4,485
 22.5,ml,lemon juice,5,485
-60.0,ml,rye whiskey,0,486
+60,ml,rye whiskey,0,486
 22.5,ml,sweet vermouth,1,486
-15.0,ml,cherry heering,2,486
-1.0,tsp,absinthe,3,486
-45.0,ml,gin,0,487
-15.0,ml,kirsch,1,487
-15.0,ml,campari,2,487
+15,ml,cherry heering,2,486
+1,tsp,absinthe,3,486
+45,ml,gin,0,487
+15,ml,kirsch,1,487
+15,ml,campari,2,487
 ,None,lemon twist,3,487
-60.0,ml,bourbon whiskey,0,488
-15.0,ml,tia maria coffee liqueur,1,488
-2.0,dash,orange bitters,2,488
-2.0,None,parts scotch,0,489
-1.0,None,vermouth,1,489
-1.0,dash,angostura,2,489
-45.0,ml,scotch whiskey,0,490
-45.0,ml,vermouth,1,490
-2.0,dash,generic bitters,2,490
+60,ml,bourbon whiskey,0,488
+15,ml,tia maria coffee liqueur,1,488
+2,dash,orange bitters,2,488
+2,None,parts scotch,0,489
+1,None,vermouth,1,489
+1,dash,angostura,2,489
+45,ml,scotch whiskey,0,490
+45,ml,vermouth,1,490
+2,dash,generic bitters,2,490
 22.5,ml,lemon juice,3,490
-75.0,ml,scotch whiskey,0,491
+75,ml,scotch whiskey,0,491
 0.75,None,sweet vermouth,1,491
-2.0,dash,orange bitters,2,491
-75.0,ml,scotch,0,492
-30.0,ml,sweet vermouth,1,492
-2.0,dash,angostura bitters,2,492
-60.0,ml,scotch,0,493
-30.0,ml,sweet vermouth,1,493
-60.0,ml,compass box asyla scotch,0,494
+2,dash,orange bitters,2,491
+75,ml,scotch,0,492
+30,ml,sweet vermouth,1,492
+2,dash,angostura,2,492
+60,ml,scotch,0,493
+30,ml,sweet vermouth,1,493
+60,ml,compass box asyla scotch,0,494
 22.5,ml,sweet vermouth,1,494
-2.0,dash,angostura bitters,2,494
-20.0,ml,kirsch,0,495
-40.0,ml,dry vermouth,1,495
-3.0,dash,strawberry syrup,2,495
-75.0,ml,gin,0,496
+2,dash,angostura,2,494
+20,ml,kirsch,0,495
+40,ml,dry vermouth,1,495
+3,dash,strawberry syrup,2,495
+75,ml,gin,0,496
 ,dash,cointreau,1,496
 ,dash,rose water,2,496
-3.0,None,rose petals,3,496
-30.0,ml,tequila,0,497
-15.0,ml,campari,1,497
-15.0,ml,dry vermouth,2,497
-15.0,ml,sweet vermouth,3,497
+3,None,rose petals,3,496
+30,ml,tequila,0,497
+15,ml,campari,1,497
+15,ml,dry vermouth,2,497
+15,ml,sweet vermouth,3,497
 ,None,lemon twist,4,497
-60.0,ml,mount gay eclipse,0,498
+60,ml,mount gay eclipse,0,498
 22.5,ml,lime juice,1,498
-15.0,ml,cointreau,2,498
-15.0,ml,falernum,3,498
-1.0,tbsp,99 bananas liqueur,0,499
-60.0,ml,rum,1,499
-,None,half a vanilla bean,2,499
-1.0,None,part grenadine,0,500
+15,ml,cointreau,2,498
+15,ml,falernum,3,498
+1,tbsp,99 bananas liqueur,0,499
+60,ml,rum,1,499
+0.5,None,vanilla bean,2,499
+1,None,part grenadine,0,500
 22.5,ml,lemon juice,1,500
-4.0,None,gin,2,500
-4.0,None,parts apple brandy,3,500
+4,None,gin,2,500
+4,None,parts apple brandy,3,500
 0.5,None,egg white,4,500
-30.0,ml,gin,0,501
+30,ml,gin,0,501
 22.5,ml,applejack,1,501
 22.5,ml,lime juice,2,501
 22.5,ml,grenadine,3,501
-45.0,ml,vodka,0,502
-15.0,ml,cranberry juice,1,502
-15.0,ml,blue curaçao,2,502
+45,ml,vodka,0,502
+15,ml,cranberry juice,1,502
+15,ml,blue curaçao,2,502
 ,None,lemon twist,3,502
-60.0,ml,gold tequila,0,503
-45.0,ml,cranberry juice,1,503
-30.0,ml,triple sec or cointreau,2,503
+60,ml,gold tequila,0,503
+45,ml,cranberry juice,1,503
+30,ml,cointreau,2,503
 22.5,ml,lime juice,3,503
-45.0,ml,light rum,0,504
-15.0,ml,cointreau,1,504
+45,ml,light rum,0,504
+15,ml,cointreau,1,504
 22.5,ml,lime juice,2,504
-15.0,ml,simple syrup,3,504
-,None,mint sprig,4,504
-60.0,ml,light rum,0,505
-90.0,ml,cranberry juice,1,505
-30.0,ml,pineapple juice,2,505
-75.0,ml,light rum,0,506
-180.0,ml,ginger ale,1,506
+15,ml,simple syrup,3,504
+,None,mint,4,504
+60,ml,light rum,0,505
+90,ml,cranberry juice,1,505
+30,ml,pineapple juice,2,505
+75,ml,light rum,0,506
+180,ml,ginger ale,1,506
 ,None,lemon twist,2,506
-75.0,ml,dark rum,0,507
-180.0,ml,ginger ale,1,507
+75,ml,dark rum,0,507
+180,ml,ginger ale,1,507
 ,None,lemon twist,2,507
-60.0,ml,premium aged rum,0,508
-30.0,ml,sweet vermouth,1,508
-1.0,dash,orange bitters,2,508
-1.0,dash,angostura bitters,3,508
-60.0,ml,dark rum,0,509
-15.0,ml,cointreau,1,509
-15.0,ml,ruby port,2,509
-,None,freshly grated or ground nutmeg,3,509
-60.0,ml,dark rum,0,510
+60,ml,rum,0,508
+30,ml,sweet vermouth,1,508
+1,dash,orange bitters,2,508
+1,dash,angostura,3,508
+60,ml,dark rum,0,509
+15,ml,cointreau,1,509
+15,ml,ruby port,2,509
+,None,ground nutmeg,3,509
+60,ml,dark rum,0,510
 22.5,ml,lemon juice,1,510
-15.0,ml,triple sec,2,510
-180.0,ml,ginger ale,3,510
+15,ml,triple sec,2,510
+180,ml,ginger ale,3,510
 ,None,lemon wedge,4,510
-60.0,ml,dark rum,0,511
-120.0,ml,chilled tonic water,1,511
+60,ml,dark rum,0,511
+120,ml,tonic water,1,511
 22.5,ml,lime juice,2,511
-30.0,ml,vodka,0,512
+30,ml,vodka,0,512
 7.5,ml,brown crème de cacao,1,512
-45.0,ml,heavy cream,2,512
-1.0,tsp,sugar,3,512
+45,ml,heavy cream,2,512
+1,tsp,sugar,3,512
 22.5,ml,frangelico,0,513
 22.5,ml,baileys irish cream,1,513
 22.5,ml,vodka,2,513
-25.0,ml,vodka,0,514
+25,ml,vodka,0,514
 22.5,ml,lemon juice,1,514
-15.0,ml,crme de cassis,2,514
-10.0,ml,sugar,3,514
-45.0,ml,scotch whiskey,0,515
-25.0,ml,drambuie,1,515
-45.0,ml,scotch,0,516
-30.0,ml,drambuie,1,516
+15,ml,crème de cassis,2,514
+10,ml,sugar,3,514
+45,ml,scotch whiskey,0,515
+25,ml,drambuie,1,515
+45,ml,scotch,0,516
+30,ml,drambuie,1,516
 ,None,lemon twist,2,516
 0,None,,3,516
-45.0,ml,scotch whiskey,4,516
-25.0,ml,drambuie,5,516
-60.0,ml,vodka,0,517
-15.0,ml,dry sake,1,517
-1.0,tsp,plum wine,2,517
+45,ml,scotch whiskey,4,516
+25,ml,drambuie,5,516
+60,ml,vodka,0,517
+15,ml,dry sake,1,517
+1,tsp,plum wine,2,517
 ,None,lemon wedge,0,518
 ,None,kosher salt,1,518
-60.0,ml,silver tequila,2,518
-180.0,ml,grapefruit juice,3,518
-60.0,ml,sloe gin,0,519
-30.0,ml,dry vermouth,1,519
-30.0,ml,sweet vermouth,2,519
+60,ml,silver tequila,2,518
+180,ml,grapefruit juice,3,518
+60,ml,sloe gin,0,519
+30,ml,dry vermouth,1,519
+30,ml,sweet vermouth,2,519
 ,dash,peychaud’s bitters,3,519
 ,None,maraschino cherry,4,519
 22.5,ml,lemon juice,0,520
-15.0,ml,passion fruit syrup,1,520
+15,ml,passion fruit syrup,1,520
 7.5,ml,falernum,2,520
 7.5,ml,orgeat,3,520
 37.5,ml,gin,4,520
-240.0,ml,crushed ice,5,520
-60.0,ml,rye whiskey,0,521
-3.0,dash,peychaud’s bitters,1,521
-2.0,dash,angostura bitters,2,521
-1.0,None,sugar,3,521
-1.0,tsp,sugar,0,522
-3.0,dash,peychaud’s bitters,1,522
-2.0,None,whiskey,2,522
-30.0,ml,vs cognac,0,523
-30.0,ml,rye whiskey,1,523
-15.0,ml,simple syrup,2,523
-2.0,dash,peychaud’s bitters,3,523
-2.0,dash,angostura bitters,4,523
-90.0,ml,rye whiskey,0,524
+240,ml,crushed ice,5,520
+60,ml,rye whiskey,0,521
+3,dash,peychaud’s bitters,1,521
+2,dash,angostura,2,521
+1,None,sugar,3,521
+1,tsp,sugar,0,522
+3,dash,peychaud’s bitters,1,522
+2,None,whiskey,2,522
+30,ml,hine h cognac,0,523
+30,ml,rye whiskey,1,523
+15,ml,simple syrup,2,523
+2,dash,peychaud’s bitters,3,523
+2,dash,angostura,4,523
+90,ml,rye whiskey,0,524
 22.5,ml,simple syrup,1,524
-50.0,ml,cognac,0,525
-10.0,ml,absinthe,1,525
-1.0,None,sugar,2,525
-2.0,dash,peychaud’s bitters,3,525
-1.0,None,sugar,0,526
-1.0,dash,angostura bitters,1,526
-60.0,ml,rye whiskey,2,526
+50,ml,cognac,0,525
+10,ml,absinthe,1,525
+1,None,sugar,2,525
+2,dash,peychaud’s bitters,3,525
+1,None,sugar,0,526
+1,dash,angostura,1,526
+60,ml,rye whiskey,2,526
 0.5,tsp,sugar,0,527
-60.0,ml,whiskey,1,527
-2.0,dash,peychaud’s bitters,2,527
-1.0,None,gum syrup,0,528
-3.0,drop,generic bitters,1,528
-1.0,None,jigger sazerac brandy,2,528
-60.0,ml,southern comfort,0,529
-60.0,ml,cranberry juice,1,529
+60,ml,whiskey,1,527
+2,dash,peychaud’s bitters,2,527
+1,None,gum syrup,0,528
+3,drop,generic bitters,1,528
+1,None,jigger sazerac brandy,2,528
+60,ml,southern comfort,0,529
+60,ml,cranberry juice,1,529
 22.5,ml,lime juice,2,529
 22.5,ml,lemon juice,3,529
-1.0,tsp,sugar,4,529
-60.0,ml,rye whiskey,0,530
-30.0,ml,dry vermouth,1,530
+1,tsp,sugar,4,529
+60,ml,rye whiskey,0,530
+30,ml,dry vermouth,1,530
 22.5,ml,lemon juice,2,530
 7.5,ml,grenadine,3,530
 ,None,orange bitters,4,530
-45.0,ml,rye whiskey,0,531
-30.0,ml,dry vermouth,1,531
+45,ml,rye whiskey,0,531
+30,ml,dry vermouth,1,531
 22.5,ml,lemon juice,2,531
 22.5,ml,grenadine,3,531
-60.0,ml,gold rum,0,532
-15.0,ml,brandy,1,532
-15.0,ml,dry vermouth,2,532
-45.0,ml,orange juice,3,532
+60,ml,gold rum,0,532
+15,ml,brandy,1,532
+15,ml,dry vermouth,2,532
+45,ml,orange juice,3,532
 22.5,ml,lemon juice,4,532
-15.0,ml,orgeat syrup,5,532
+15,ml,orgeat syrup,5,532
 ,None,pineapple wedge,6,532
 ,None,maraschino cherry,7,532
 ,None,edible flower,8,532
-60.0,ml,scotch,0,533
+60,ml,scotch,0,533
 ,None,lemon twist,1,533
-60.0,ml,scotch,0,534
-15.0,ml,port,1,534
-15.0,ml,drambuie,2,534
-,None,freshly grated or ground nutmeg,3,534
-60.0,ml,scotch,0,535
+60,ml,scotch,0,534
+15,ml,port,1,534
+15,ml,drambuie,2,534
+,None,ground nutmeg,3,534
+60,ml,scotch,0,535
 22.5,ml,lemon juice,1,535
 22.5,ml,kahlúa,0,536
 22.5,ml,baileys irish cream,1,536
 22.5,ml,amaretto,2,536
 22.5,ml,vodka,3,536
-50.0,ml,vodka,0,537
-100.0,ml,orange juice,1,537
-45.0,ml,vodka,0,538
-90.0,ml,grapefruit juice,1,538
-60.0,ml,cranberry juice,2,538
+50,ml,vodka,0,537
+100,ml,orange juice,1,537
+45,ml,vodka,0,538
+90,ml,grapefruit juice,1,538
+60,ml,cranberry juice,2,538
 22.5,ml,lime juice,3,538
-40.0,ml,vodka,0,539
-120.0,ml,cranberry juice,1,539
-30.0,ml,grapefruit juice,2,539
-75.0,ml,whiskey,0,540
-120.0,ml,chilled 7-up,1,540
+40,ml,vodka,0,539
+120,ml,cranberry juice,1,539
+30,ml,grapefruit juice,2,539
+75,ml,whiskey,0,540
+120,ml,7-up,1,540
 ,None,lemon twist,2,540
-45.0,ml,gin,0,541
-15.0,ml,sherry,1,541
-15.0,ml,orange juice,2,541
+45,ml,gin,0,541
+15,ml,sherry,1,541
+15,ml,orange juice,2,541
 22.5,ml,lemon juice,3,541
-2.0,tsp,sugar,4,541
-40.0,ml,vodka,0,542
-20.0,ml,peach schnapps,1,542
-40.0,ml,cranberry juice,2,542
-40.0,ml,orange juice,3,542
+2,tsp,sugar,4,541
+40,ml,vodka,0,542
+20,ml,peach schnapps,1,542
+40,ml,cranberry juice,2,542
+40,ml,orange juice,3,542
 22.5,ml,genever,0,543
 22.5,ml,st. germain,1,543
 22.5,ml,aperol,2,543
 22.5,ml,lemon juice,3,543
-30.0,ml,tequila,0,544
-30.0,ml,melon liqueur,1,544
-120.0,ml,grapefruit juice,2,544
-45.0,ml,irish whiskey,0,545
+30,ml,tequila,0,544
+30,ml,melon liqueur,1,544
+120,ml,grapefruit juice,2,544
+45,ml,irish whiskey,0,545
 22.5,ml,crème de menthe,1,545
-60.0,ml,heavy cream,2,545
+60,ml,heavy cream,2,545
 ,None,maraschino cherry,3,545
-2.0,None,pineapple wedge,0,546
-2.0,None,orange slice,1,546
-2.0,None,lemon wedge,2,546
-15.0,ml,maraschino liqueur,3,546
-90.0,ml,medium sherry,4,546
+2,None,pineapple wedge,0,546
+2,None,orange slice,1,546
+2,None,lemon wedge,2,546
+15,ml,maraschino liqueur,3,546
+90,ml,medium sherry,4,546
 22.5,ml,lemon juice,5,546
-60.0,ml,orange juice,6,546
+60,ml,orange juice,6,546
 22.5,ml,lemon juice,7,546
 ,None,add sherry and juices,8,546
-120.0,ml,sherry,0,547
-1.0,tbsp,sugar,1,547
-3.0,None,orange slice,2,547
-120.0,ml,lustau amontillado sherry,0,548
-15.0,ml,cane syrup,1,548
-2.0,None,orange slice,2,548
-60.0,ml,gold tequila,0,549
-15.0,ml,apricot brandy,1,549
+120,ml,sherry,0,547
+1,tbsp,sugar,1,547
+3,None,orange slice,2,547
+120,ml,lustau amontillado sherry,0,548
+15,ml,cane syrup,1,548
+2,None,orange slice,2,548
+60,ml,gold tequila,0,549
+15,ml,apricot brandy,1,549
 22.5,ml,lime juice,2,549
-90.0,ml,grapefruit juice,3,549
+90,ml,grapefruit juice,3,549
 7.5,ml,maraschino cherry juice,4,549
 22.5,ml,lime juice,5,549
-50.0,ml,cognac,0,550
-20.0,ml,triple sec,1,550
+50,ml,cognac,0,550
+20,ml,triple sec,1,550
 22.5,ml,lemon juice,2,550
-60.0,ml,remy martin vsop cognac,0,551
+60,ml,remy martin vsop cognac,0,551
 22.5,ml,cointreau,1,551
 22.5,ml,lemon juice,2,551
 0.25,None,simple syrup,3,551
-45.0,ml,tequila,0,552
-45.0,ml,white crème de cacao,1,552
-30.0,ml,heavy cream,2,552
+45,ml,tequila,0,552
+45,ml,white crème de cacao,1,552
+30,ml,heavy cream,2,552
 7.5,ml,chambord,3,552
 ,pinch,cinnamon,4,552
-45.0,ml,gin,0,553
+45,ml,gin,0,553
 22.5,ml,kümmel,1,553
 22.5,ml,lemon juice,2,553
 ,None,lemon twist,3,553
-30.0,ml,gin,0,554
-15.0,ml,cherry heering,1,554
+30,ml,gin,0,554
+15,ml,cherry heering,1,554
 7.5,ml,cointreau,2,554
-7.5,ml,dom bndictine,3,554
-120.0,ml,pineapple juice,4,554
+7.5,ml,bénédictine,3,554
+120,ml,pineapple juice,4,554
 22.5,ml,lime juice,5,554
-10.0,ml,grenadine,6,554
-1.0,dash,angostura bitters,7,554
-60.0,ml,melon liqueur,0,555
-180.0,ml,cranberry juice,1,555
+10,ml,grenadine,6,554
+1,dash,angostura,7,554
+60,ml,melon liqueur,0,555
+180,ml,cranberry juice,1,555
 ,None,lemon twist,2,555
-45.0,ml,baileys irish cream,0,556
-45.0,ml,sambuca,1,556
-1.0,tbsp,sugar,0,557
+45,ml,baileys irish cream,0,556
+45,ml,sambuca,1,556
+1,tbsp,sugar,0,557
 22.5,ml,lemon juice,1,557
 1.5,None,gin,2,557
-30.0,ml,sloe gin,0,558
-30.0,ml,gin,1,558
+30,ml,sloe gin,0,558
+30,ml,gin,1,558
 22.5,ml,lemon juice,2,558
 7.5,ml,simple syrup,3,558
 ,None,add 3 oz. club soda,4,558
-75.0,ml,sloe gin,0,559
+75,ml,sloe gin,0,559
 22.5,ml,lemon juice,1,559
-15.0,ml,simple syrup,2,559
+15,ml,simple syrup,2,559
 ,None,club soda,3,559
-1.0,tsp,sugar,0,560
+1,tsp,sugar,0,560
 22.5,ml,lemon juice,1,560
-60.0,ml,gin,2,560
+60,ml,gin,2,560
 ,None,ruby fizz,0,561
 22.5,ml,lemon juice,1,561
 0.5,tbsp,sugar,2,561
-1.0,None,egg white,3,561
-2.0,dash,pomegranate syrup,4,561
-1.0,None,sloe gin,5,561
-45.0,ml,sloe gin,0,562
-45.0,ml,orange juice,1,562
-30.0,ml,tequila,0,563
-15.0,ml,sloe gin,1,563
+1,None,egg white,3,561
+2,dash,pomegranate syrup,4,561
+1,None,sloe gin,5,561
+45,ml,sloe gin,0,562
+45,ml,orange juice,1,562
+30,ml,tequila,0,563
+15,ml,sloe gin,1,563
 22.5,ml,lime juice,2,563
 ,None,cucumber peel strip,3,563
-60.0,ml,coffee liqueur,0,564
-45.0,ml,heavy cream,1,564
-60.0,ml,blended whiskey,0,565
+60,ml,coffee liqueur,0,564
+45,ml,heavy cream,1,564
+60,ml,blended whiskey,0,565
 7.5,ml,dry vermouth,1,565
 7.5,ml,dubonnet rouge,2,565
-15.0,ml,orange juice,3,565
+15,ml,orange juice,3,565
 22.5,ml,lime juice,0,566
-30.0,ml,tequila,1,566
+30,ml,tequila,1,566
 22.5,ml,kahlúa,2,566
-60.0,ml,gin,0,567
+60,ml,gin,0,567
 22.5,ml,lemon juice,1,567
 22.5,ml,simple syrup,2,567
-4.0,None,mint leaves,3,567
-2.0,None,sprigs mint,0,568
+4,None,mint,3,567
+2,None,mint,0,568
 22.5,ml,lime juice,1,568
 22.5,ml,lime juice,2,568
-30.0,ml,simple syrup,3,568
-60.0,ml,gin,4,568
-60.0,ml,gin,0,569
+30,ml,simple syrup,3,568
+60,ml,gin,4,568
+60,ml,gin,0,569
 22.5,ml,lime juice,1,569
 22.5,ml,simple syrup,2,569
-,None,small handful mint,3,569
-60.0,ml,mezcal,0,570
-30.0,ml,grand marnier,1,570
+,None,mint,3,569
+60,ml,mezcal,0,570
+30,ml,grand marnier,1,570
 ,pinch,instant coffee,2,570
-60.0,ml,spiced rum,0,571
-15.0,ml,chocolate liqueur,1,571
+60,ml,spiced rum,0,571
+15,ml,chocolate liqueur,1,571
 ,None,orange twist,2,571
 ,None,maraschino cherry,3,571
-60.0,ml,prosecco,0,572
-40.0,ml,aperol,1,572
+60,ml,prosecco,0,572
+40,ml,aperol,1,572
 ,None,splash of soda water,2,572
-50.0,ml,cognac,0,573
-20.0,ml,crme de menthe,1,573
-60.0,ml,tequila,0,574
-15.0,ml,cointreau,1,574
-15.0,ml,strawberry liqueur,2,574
+50,ml,cognac,0,573
+20,ml,crme de menthe,1,573
+60,ml,tequila,0,574
+15,ml,cointreau,1,574
+15,ml,strawberry liqueur,2,574
 22.5,ml,lime juice,3,574
-3.0,None,"sliced, hulled strawberries",4,574
-1.0,None,strawberry,5,574
+3,None,"sliced, hulled strawberries",4,574
+1,None,strawberry,5,574
 22.5,ml,lime juice,6,574
 22.5,ml,lemon juice,0,575
-30.0,ml,midori,1,575
-30.0,ml,grapefruit juice,2,575
-60.0,ml,rye whiskey,0,576
-30.0,ml,sweet vermouth,1,576
-3.0,dash,angostura bitters,2,576
+30,ml,midori,1,575
+30,ml,grapefruit juice,2,575
+60,ml,rye whiskey,0,576
+30,ml,sweet vermouth,1,576
+3,dash,angostura,2,576
 ,None,lemon twist,3,576
-2.0,None,fuji apple slices,0,577
+2,None,fuji apple slices,0,577
 ,ml,rye whiskey,1,577
 ,ml,dry vermouth,2,577
 ,ml,amaro nonino,3,577
-1.0,tsp,maple syrup,4,577
-45.0,ml,gin,0,578
-15.0,ml,campari,1,578
-15.0,ml,sweet vermouth,2,578
-30.0,ml,grapefruit juice,3,578
+1,tsp,maple syrup,4,577
+45,ml,gin,0,578
+15,ml,campari,1,578
+15,ml,sweet vermouth,2,578
+30,ml,grapefruit juice,3,578
 ,None,orange twist,4,578
-60.0,ml,silver tequila,0,579
+60,ml,silver tequila,0,579
 22.5,ml,lime juice,1,579
 ,dash,grenadine,2,579
 ,dash,orange flower water,3,579
-45.0,ml,tequila,0,580
+45,ml,tequila,0,580
 7.5,ml,kahlúa,1,580
-60.0,ml,pineapple juice,2,580
+60,ml,pineapple juice,2,580
 22.5,ml,heavy cream,3,580
 7.5,ml,coconut cream,4,580
-60.0,ml,silver tequila,0,581
+60,ml,silver tequila,0,581
 22.5,ml,lime juice,1,581
-1.0,tsp,sugar,2,581
-90.0,ml,chilled club soda,3,581
-60.0,ml,silver tequila,0,582
-30.0,ml,pernod,1,582
+1,tsp,sugar,2,581
+90,ml,club soda,3,581
+60,ml,silver tequila,0,582
+30,ml,pernod,1,582
 22.5,ml,lemon juice,2,582
-60.0,ml,silver tequila,0,583
-15.0,ml,white crème de menthe,1,583
+60,ml,silver tequila,0,583
+15,ml,white crème de menthe,1,583
 22.5,ml,lime juice,2,583
 22.5,ml,lime juice,3,583
-45.0,ml,tequila,0,584
+45,ml,tequila,0,584
 22.5,ml,lemon juice,1,584
-15.0,ml,simple syrup,2,584
+15,ml,simple syrup,2,584
 ,None,maraschino cherry,3,584
-45.0,ml,tequila,0,585
-90.0,ml,orange juice,1,585
-15.0,ml,grenadine,2,585
-45.0,ml,silver tequila,0,586
-180.0,ml,orange juice,1,586
-15.0,ml,grenadine,2,586
-45.0,ml,tequila,0,587
-15.0,ml,grand marnier,1,587
-15.0,ml,cointreau,2,587
+45,ml,tequila,0,585
+90,ml,orange juice,1,585
+15,ml,grenadine,2,585
+45,ml,silver tequila,0,586
+180,ml,orange juice,1,586
+15,ml,grenadine,2,586
+45,ml,tequila,0,587
+15,ml,grand marnier,1,587
+15,ml,cointreau,2,587
 ,None,orange slice,3,587
-60.0,ml,silver tequila,0,588
-3.0,dash,dry vermouth,1,588
-,dash,angostura bitters,2,588
+60,ml,silver tequila,0,588
+3,dash,dry vermouth,1,588
+,dash,angostura,2,588
 ,None,lemon twist,3,588
 7.5,ml,cabernet sauvignon,0,589
-45.0,ml,silver tequila,1,589
+45,ml,silver tequila,1,589
 22.5,ml,lime juice,2,589
 52.5,ml,bourbon whiskey,0,590
 22.5,ml,campari,1,590
-15.0,ml,sweet vermouth,2,590
+15,ml,sweet vermouth,2,590
 7.5,ml,st. george nola coffee liqueur,3,590
-45.0,ml,amber martinician rhum,0,591
-15.0,ml,rum,1,591
+45,ml,amber martinician rhum,0,591
+15,ml,rum,1,591
 22.5,ml,lime juice,2,591
-15.0,ml,orange juice,3,591
-15.0,ml,honey,4,591
-15.0,ml,falernum,5,591
+15,ml,orange juice,3,591
+15,ml,honey,4,591
+15,ml,falernum,5,591
 7.5,ml,pimento dram,6,591
-180.0,ml,crushed ice,7,591
-45.0,ml,rum,0,592
-30.0,ml,blue curaçao,1,592
+180,ml,crushed ice,7,591
+45,ml,rum,0,592
+30,ml,blue curaçao,1,592
 22.5,ml,lime juice,2,592
-15.0,ml,amaretto,3,592
-1.0,tbsp,coconut cream,4,592
-1.0,tsp,sugar,5,592
+15,ml,amaretto,3,592
+1,tbsp,coconut cream,4,592
+1,tsp,sugar,5,592
 22.5,ml,lime juice,6,592
 ,None,small orchid,7,592
-30.0,ml,dark rum,0,593
-30.0,ml,brandy,1,593
-120.0,ml,half-and-half,2,593
-2.0,tsp,sugar,3,593
-,None,freshly grated or ground nutmeg,4,593
-30.0,ml,tequila,0,594
-15.0,ml,kahlúa,1,594
-15.0,ml,baileys irish cream,2,594
-45.0,ml,cold espresso,3,594
+30,ml,dark rum,0,593
+30,ml,brandy,1,593
+120,ml,half-and-half,2,593
+2,tsp,sugar,3,593
+,None,ground nutmeg,4,593
+30,ml,tequila,0,594
+15,ml,kahlúa,1,594
+15,ml,baileys irish cream,2,594
+45,ml,cold espresso,3,594
 ,pinch,ground cinnamon,4,594
 ,None,tequila,0,595
 ,None,lemon wedge,1,595
 ,None,sugar,2,595
-60.0,ml,tequila,3,595
+60,ml,tequila,3,595
 22.5,ml,lemon juice,4,595
-30.0,ml,orange juice,5,595
-30.0,ml,cointreau,6,595
-15.0,ml,simple syrup,7,595
+30,ml,orange juice,5,595
+30,ml,cointreau,6,595
+15,ml,simple syrup,7,595
 ,None,lemon twist,8,595
-75.0,ml,pineapple rum,0,596
-15.0,ml,maraschino liqueur,1,596
-15.0,ml,thai coconut milk,2,596
-60.0,ml,mango juice,3,596
-30.0,ml,amaretto,0,597
-30.0,ml,kahlúa,1,597
-30.0,ml,heavy cream,2,597
-45.0,ml,rum,0,598
-30.0,ml,thai coconut milk,1,598
+75,ml,pineapple rum,0,596
+15,ml,maraschino liqueur,1,596
+15,ml,thai coconut milk,2,596
+60,ml,mango juice,3,596
+30,ml,amaretto,0,597
+30,ml,kahlúa,1,597
+30,ml,heavy cream,2,597
+45,ml,rum,0,598
+30,ml,thai coconut milk,1,598
 7.5,ml,goldschläger cinnamon schnapps,2,598
 ,None,ground cinnamon,3,598
 ,None,range blossom,4,598
 22.5,ml,lime juice,0,599
 0.25,tsp,ginger,1,599
 0.5,tsp,wasabi,2,599
-0.5,tsp,minced garlic,3,599
-4.0,dash,soy sauce,4,599
+0.5,tsp,minced clove garlic,3,599
+4,dash,soy sauce,4,599
 22.5,ml,lemon juice,5,599
 ,pinch,freshly cracked pepper,6,599
-60.0,ml,vodka  3 ounces chilled tomato juice,7,599
-22.5,ml,lemon juice,8,599
-1.0,None,egg,0,600
-15.0,ml,simple syrup,1,600
-30.0,ml,dark rum,2,600
-30.0,ml,cognac/brandy,3,600
-,None,hot water/milk,4,600
+60,ml,vodka,7,599
+90,ml,tomato juice,8,599
+22.5,ml,lemon juice,9,599
+1,None,egg,0,600
+15,ml,simple syrup,1,600
+30,ml,dark rum,2,600
+30,ml,cognac,3,600
+,None,milk,4,600
 ,None,grated nutmeg,5,600
-45.0,ml,tequila,0,601
+45,ml,tequila,0,601
 22.5,ml,lime juice,1,601
-2.0,None,bar spoons of agave nectar,2,601
-45.0,ml,silver tequila,0,602
-15.0,ml,white crème de cacao,1,602
+2,tbsp,agave nectar,2,601
+45,ml,silver tequila,0,602
+15,ml,white crème de cacao,1,602
 ,None,heavy cream,2,602
 ,None,unsweetened cocoa powder,3,602
-60.0,ml,rye whiskey,0,603
-15.0,ml,fernet-branca,1,603
-1.0,tsp,demerara syrup,2,603
-30.0,ml,old tom gin,0,604
-30.0,ml,dry vermouth,1,604
-0.5,None,bar spoon maraschino,2,604
-0.25,None,bar spoon absinthe,3,604
-3.0,dash,orange bitters,4,604
-30.0,ml,light rum,0,605
-15.0,ml,brandy,1,605
-15.0,ml,rye whiskey,2,605
+60,ml,rye whiskey,0,603
+15,ml,fernet-branca,1,603
+1,tsp,demerara syrup,2,603
+30,ml,old tom gin,0,604
+30,ml,dry vermouth,1,604
+0.5,tbsp,maraschino,2,604
+0.25,tbsp,absinthe,3,604
+3,dash,orange bitters,4,604
+30,ml,light rum,0,605
+15,ml,brandy,1,605
+15,ml,rye whiskey,2,605
 22.5,ml,lemon juice,3,605
-15.0,ml,grenadine,4,605
-60.0,ml,rye whiskey,0,606
-15.0,ml,bénédictine,1,606
+15,ml,grenadine,4,605
+60,ml,rye whiskey,0,606
+15,ml,bénédictine,1,606
 22.5,ml,lemon juice,2,606
 22.5,ml,lime juice,3,606
 7.5,ml,simple syrup,4,606
 ,None,lemon wedge,5,606
-45.0,ml,silver tequila,0,607
-60.0,ml,tomato juice,1,607
-30.0,ml,orange juice,2,607
-1.0,tsp,honey,3,607
+45,ml,silver tequila,0,607
+60,ml,tomato juice,1,607
+30,ml,orange juice,2,607
+1,tsp,honey,3,607
 22.5,ml,lime juice,4,607
-1.0,tbsp,diced onion,5,607
-1.0,tsp,diced jalapeño chile,6,607
-3.0,dash,worcestershire sauce,7,607
+1,tbsp,diced onion,5,607
+1,tsp,diced jalapeño chile,6,607
+3,dash,worcestershire sauce,7,607
 22.5,ml,lime juice,8,607
 ,None,jalapeño chile slice,9,607
-30.0,ml,cointreau,0,608
-30.0,ml,white crème de cacao,1,608
-15.0,ml,brandy,2,608
-30.0,ml,heavy cream,3,608
-45.0,ml,rhum barbancourt,0,609
-15.0,ml,pernod,1,609
-15.0,ml,amaretto,2,609
+30,ml,cointreau,0,608
+30,ml,white crème de cacao,1,608
+15,ml,brandy,2,608
+30,ml,heavy cream,3,608
+45,ml,rhum barbancourt,0,609
+15,ml,pernod,1,609
+15,ml,amaretto,2,609
 0.25,cup,ice cream,3,609
-,None,freshly grated or ground nutmeg,4,609
+,None,ground nutmeg,4,609
 ,None,chocolate shavings,5,609
-60.0,ml,gin,0,610
-30.0,ml,cointreau,1,610
+60,ml,gin,0,610
+30,ml,cointreau,1,610
 7.5,ml,simple syrup,2,610
 ,dash,peychaud’s bitters,3,610
-8.0,None,raspberries,4,610
-60.0,ml,vodka,0,611
-30.0,ml,banana liqueur,1,611
-150.0,ml,ginger ale,2,611
+8,None,raspberries,4,610
+60,ml,vodka,0,611
+30,ml,banana liqueur,1,611
+150,ml,ginger ale,2,611
 0.5,tsp,bénédictine,0,612
 ,dash,peychaud’s bitters,1,612
-,dash,angostura bitters,2,612
-15.0,ml,rye whiskey,3,612
-15.0,ml,cognac,4,612
-15.0,ml,sweet vermouth,5,612
+,dash,angostura,2,612
+15,ml,rye whiskey,3,612
+15,ml,cognac,4,612
+15,ml,sweet vermouth,5,612
 ,None,lemon twist,6,612
-30.0,ml,rye whiskey,0,613
-30.0,ml,hine v.s.o.p. cognac,1,613
-30.0,ml,sweet vermouth,2,613
-7.5,ml,bndictine,3,613
-1.0,dash,angostura bitters,4,613
-1.0,dash,peychaud’s bitters,5,613
-30.0,ml,rye whiskey,0,614
-30.0,ml,cognac,1,614
-30.0,ml,sweet vermouth,2,614
-1.0,tsp,bndictine,3,614
-2.0,dash,peychaud’s bitters,4,614
-2.0,dash,angostura bitters,5,614
-40.0,ml,bourbon whiskey,0,615
-20.0,ml,sweet vermouth,1,615
+30,ml,rye whiskey,0,613
+30,ml,hine h cognac,1,613
+30,ml,sweet vermouth,2,613
+7.5,ml,bénédictine,3,613
+1,dash,angostura,4,613
+1,dash,peychaud’s bitters,5,613
+30,ml,rye whiskey,0,614
+30,ml,cognac,1,614
+30,ml,sweet vermouth,2,614
+1,tsp,bénédictine,3,614
+2,dash,peychaud’s bitters,4,614
+2,dash,angostura,5,614
+40,ml,bourbon whiskey,0,615
+20,ml,sweet vermouth,1,615
 2.5,ml,maraschino,2,615
-3.0,dash,angostura bitters,3,615
-30.0,ml,gin,0,616
-30.0,ml,sweet vermouth,1,616
-30.0,ml,campari,2,616
-45.0,ml,vodka,0,617
+3,dash,angostura,3,615
+30,ml,gin,0,616
+30,ml,sweet vermouth,1,616
+30,ml,campari,2,616
+45,ml,vodka,0,617
 22.5,ml,lime juice,1,617
-60.0,ml,vodka,0,618
-15.0,ml,dry vermouth,1,618
+60,ml,vodka,0,618
+15,ml,dry vermouth,1,618
 ,None,lemon twist,2,618
-50.0,ml,cognac,0,619
-20.0,ml,crme de menthe,1,619
+50,ml,cognac,0,619
+20,ml,crme de menthe,1,619
 22.5,ml,lime juice,0,620
-60.0,ml,vodka,1,620
-150.0,ml,chilled tonic water,2,620
-45.0,ml,bourbon whiskey,0,621
+60,ml,vodka,1,620
+150,ml,tonic water,2,620
+45,ml,bourbon whiskey,0,621
 22.5,ml,pernod,1,621
-15.0,ml,sweet vermouth,2,621
-,dash,angostura bitters,3,621
-45.0,ml,bourbon whiskey,0,622
-15.0,ml,galliano,1,622
+15,ml,sweet vermouth,2,621
+,dash,angostura,3,621
+45,ml,bourbon whiskey,0,622
+15,ml,galliano,1,622
 22.5,ml,lemon juice,2,622
-1.0,tsp,sugar,3,622
-,None,mint sprig,4,622
-45.0,ml,vodka,0,623
+1,tsp,sugar,3,622
+,None,mint,4,622
+45,ml,vodka,0,623
 22.5,ml,tuaca,1,623
 7.5,ml,walnut liqueur,2,623
 ,None,orange twist,3,623
-60.0,ml,rye whiskey,0,624
+60,ml,rye whiskey,0,624
 22.5,ml,lemon juice,1,624
-15.0,ml,orange juice,2,624
-1.0,tsp,grenadine,3,624
-60.0,ml,rye whiskey,0,625
+15,ml,orange juice,2,624
+1,tsp,grenadine,3,624
+60,ml,rye whiskey,0,625
 22.5,ml,lemon juice,1,625
-15.0,ml,orange juice,2,625
+15,ml,orange juice,2,625
 7.5,ml,simple syrup,3,625
-1.0,tsp,al wadi pomegranate molasses,4,625
+1,tsp,al wadi pomegranate molasses,4,625
 22.5,ml,lemon juice,0,626
-1.0,tsp,sugar,1,626
-90.0,ml,rye whiskey,2,626
-1.0,None,sprig of mint,3,626
-60.0,ml,bourbon whiskey,0,627
-30.0,ml,simple syrup,1,627
+1,tsp,sugar,1,626
+90,ml,rye whiskey,2,626
+1,None,mint,3,626
+60,ml,bourbon whiskey,0,627
+30,ml,simple syrup,1,627
 22.5,ml,lemon juice,2,627
 7.5,ml,grenadine,3,627
-60.0,ml,rye whiskey,0,628
-30.0,ml,orange juice,1,628
+60,ml,rye whiskey,0,628
+30,ml,orange juice,1,628
 22.5,ml,lemon juice,2,628
-60.0,ml,bourbon whiskey,0,629
-15.0,ml,orange juice,1,629
+60,ml,bourbon whiskey,0,629
+15,ml,orange juice,1,629
 22.5,ml,lemon juice,2,629
-15.0,ml,grenadine,3,629
-60.0,ml,bourbon whiskey,0,630
+15,ml,grenadine,3,629
+60,ml,bourbon whiskey,0,630
 22.5,ml,lemon juice,1,630
-30.0,ml,orange juice,2,630
+30,ml,orange juice,2,630
 ,dash,grenadine,3,630
 ,None,maraschino cherry,4,630
 ,None,orange slice,5,630
 ,None,lemon wedge,6,630
-60.0,ml,bourbon whiskey,0,631
-,None,angostura bitters,1,631
+60,ml,bourbon whiskey,0,631
+,None,angostura,1,631
 ,None,sugar,2,631
 ,None,orange slice,3,631
 ,None,maraschino cherry,4,631
 ,None,splash of club soda,5,631
 ,None,hot water,6,631
-1900.0,ml,lager,0,632
-950.0,ml,rum,1,632
-150.0,ml,simple syrup,2,632
+1900,ml,lager,0,632
+950,ml,rum,1,632
+150,ml,simple syrup,2,632
 22.5,ml,lemon juice,3,632
-1.0,tsp,nutmeg,4,632
-1.0,tsp,ginger,5,632
+1,tsp,nutmeg,4,632
+1,tsp,ginger,5,632
 ,None,fruit,6,632
 22.5,ml,gin,0,633
 22.5,ml,creme de violette/yvette,1,633
@@ -2806,93 +2801,93 @@ quantity,unit,ingredient,ingredient_step,recipe_id
 22.5,ml,rothman & winter creme de violette,1,634
 22.5,ml,cointreau,2,634
 22.5,ml,lemon juice,3,634
-45.0,ml,blended whiskey,0,635
+45,ml,blended whiskey,0,635
 22.5,ml,mandarine napoléon liqueur,1,635
 22.5,ml,lemon juice,2,635
 7.5,ml,simple syrup,3,635
-150.0,ml,chilled club soda,4,635
+150,ml,club soda,4,635
 ,None,orange slice,5,635
-30.0,ml,vodka,0,636
-30.0,ml,melon liqueur,1,636
-60.0,ml,cranberry juice,2,636
-60.0,ml,dark rum,0,637
+30,ml,vodka,0,636
+30,ml,melon liqueur,1,636
+60,ml,cranberry juice,2,636
+60,ml,dark rum,0,637
 22.5,ml,banana liqueur,1,637
-30.0,ml,orange juice,2,637
+30,ml,orange juice,2,637
 22.5,ml,lime juice,3,637
-30.0,ml,pineapple juice,4,637
-,None,freshly grated or ground nutmeg,5,637
-60.0,ml,blended whiskey,0,638
+30,ml,pineapple juice,4,637
+,None,ground nutmeg,5,637
+60,ml,blended whiskey,0,638
 22.5,ml,lemon juice,1,638
-15.0,ml,simple syrup,2,638
-150.0,ml,chilled club soda,3,638
+15,ml,simple syrup,2,638
+150,ml,club soda,3,638
 ,None,lemon wedge,4,638
-60.0,ml,blended whiskey,0,639
+60,ml,blended whiskey,0,639
 22.5,ml,lime juice,1,639
 7.5,ml,simple syrup,2,639
-150.0,ml,chilled club soda,3,639
+150,ml,club soda,3,639
 22.5,ml,lime juice,4,639
-60.0,ml,bourbon whiskey,0,640
+60,ml,bourbon whiskey,0,640
 22.5,ml,lemon juice,1,640
-15.0,ml,simple syrup,2,640
+15,ml,simple syrup,2,640
 22.5,ml,lemon juice,3,640
 ,None,maraschino cherry,4,640
-45.0,ml,bourbon whiskey,0,641
+45,ml,bourbon whiskey,0,641
 22.5,ml,lemon juice,1,641
-15.0,ml,sugar,2,641
-45.0,ml,vodka,0,642
+15,ml,sugar,2,641
+45,ml,vodka,0,642
 22.5,ml,crème de cacao,1,642
-60.0,ml,pineapple juice,2,642
+60,ml,pineapple juice,2,642
 22.5,ml,heavy cream,3,642
-40.0,ml,gin,0,643
-30.0,ml,triple sec,1,643
+40,ml,gin,0,643
+30,ml,triple sec,1,643
 22.5,ml,lemon juice,2,643
-60.0,ml,vodka,0,644
-30.0,ml,kahlúa,1,644
-30.0,ml,heavy cream,2,644
-15.0,ml,heavy cream,3,644
-50.0,ml,cognac,0,645
-20.0,ml,crme de menthe,1,645
-60.0,ml,lairds bonded apple brandy,0,646
+60,ml,vodka,0,644
+30,ml,kahlúa,1,644
+30,ml,heavy cream,2,644
+15,ml,heavy cream,3,644
+50,ml,cognac,0,645
+20,ml,crme de menthe,1,645
+60,ml,lairds bonded apple brandy,0,646
 7.5,ml,yellow chartreuse,1,646
-7.5,ml,benedictine,2,646
-2.0,dash,angostura bitters,3,646
-2.0,None,orange slice,0,647
-2.0,None,lemon wedge,1,647
-60.0,ml,bourbon whiskey,2,647
-15.0,ml,cointreau,3,647
-2.0,dash,chocolate bitters,4,647
+7.5,ml,bénédictine,2,646
+2,dash,angostura,3,646
+2,None,orange slice,0,647
+2,None,lemon wedge,1,647
+60,ml,bourbon whiskey,2,647
+15,ml,cointreau,3,647
+2,dash,chocolate bitters,4,647
 ,None,hot water,5,647
-,None,cloves,6,647
+,None,minced clove garlic,6,647
 37.5,ml,vodka,0,648
 22.5,ml,peach schnapps,1,648
-90.0,ml,cranberry juice,2,648
-45.0,ml,blended scotch,0,649
-15.0,ml,dry vermouth,1,649
-15.0,ml,grapefruit juice,2,649
-30.0,ml,light rum,0,650
-15.0,ml,galliano,1,650
-15.0,ml,triple sec,2,650
+90,ml,cranberry juice,2,648
+45,ml,blended scotch,0,649
+15,ml,dry vermouth,1,649
+15,ml,grapefruit juice,2,649
+30,ml,light rum,0,650
+15,ml,galliano,1,650
+15,ml,triple sec,2,650
 22.5,ml,lime juice,3,650
-30.0,ml,dark rum,0,651
-30.0,ml,light rum,1,651
+30,ml,dark rum,0,651
+30,ml,light rum,1,651
 7.5,ml,tia maria,2,651
 37.5,ml,orange juice,3,651
 22.5,ml,lime juice,4,651
-,None,mint sprig,5,651
+,None,mint,5,651
 ,None,maraschino cherry,6,651
-30.0,ml,light rum,7,651
-15.0,ml,galliano,8,651
-15.0,ml,triple sec,9,651
+30,ml,light rum,7,651
+15,ml,galliano,8,651
+15,ml,triple sec,9,651
 22.5,ml,lime juice,10,651
-45.0,ml,vodka,0,652
-15.0,ml,galliano,1,652
+45,ml,vodka,0,652
+15,ml,galliano,1,652
 22.5,ml,lime juice,2,652
-30.0,ml,pineapple juice,3,652
+30,ml,pineapple juice,3,652
 22.5,ml,yellow chartreuse,0,653
 22.5,ml,pernod,1,653
 22.5,ml,apricot brandy,2,653
-60.0,ml,rye whiskey,0,654
+60,ml,rye whiskey,0,654
 22.5,ml,lemon juice,1,654
 22.5,ml,pineapple syrup,2,654
-15.0,ml,dolin blanc,3,654
-1.0,dash,orange bitters,4,654
+15,ml,dolin blanc,3,654
+1,dash,orange bitters,4,654
